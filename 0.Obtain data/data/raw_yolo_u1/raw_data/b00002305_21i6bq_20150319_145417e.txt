@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-19/b00002305_21i6bq_20150319_145417e.jpg: Predicted in 15.547905 seconds.
+remote: 12%
+person: 16%
+parking meter: 13%
+person: 82%
+person: 66%

@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-02-25/b00000562_21i6bq_20150225_115043e.jpg: Predicted in 28.572948 seconds.
+clock: 23%
+microwave: 48%
+oven: 19%

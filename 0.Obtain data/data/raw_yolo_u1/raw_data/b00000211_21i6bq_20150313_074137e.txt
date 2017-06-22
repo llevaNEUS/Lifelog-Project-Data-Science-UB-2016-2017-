@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-13/b00000211_21i6bq_20150313_074137e.jpg: Predicted in 14.196381 seconds.
+knife: 26%
+fork: 24%
+laptop: 15%
+person: 74%
+person: 34%
+person: 88%

@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-14/b00000236_21i6bq_20150314_082950e.jpg: Predicted in 14.468562 seconds.
+tvmonitor: 22%
+cup: 12%
+car: 10%
+chair: 49%
+chair: 34%
+train: 42%
+chair: 11%
+person: 26%

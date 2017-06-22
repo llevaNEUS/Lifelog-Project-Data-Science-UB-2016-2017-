@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-03-19/b00001984_21i6bq_20150319_112135e.jpg: Predicted in 17.165731 seconds.
+wine glass: 26%
+cell phone: 47%
+suitcase: 21%

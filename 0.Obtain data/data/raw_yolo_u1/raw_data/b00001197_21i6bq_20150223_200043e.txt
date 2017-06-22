@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-02-23/b00001197_21i6bq_20150223_200043e.jpg: Predicted in 27.707838 seconds.
+person: 23%
+person: 21%
+person: 19%
+chair: 13%
+teddy bear: 20%

@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-16/b00002490_21i6bq_20150316_163434e.jpg: Predicted in 23.726486 seconds.
+mouse: 44%
+remote: 10%
+toothbrush: 14%
+bed: 12%
+person: 13%
+remote: 14%
+laptop: 16%

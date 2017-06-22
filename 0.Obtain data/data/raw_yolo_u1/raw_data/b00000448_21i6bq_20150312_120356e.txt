@@ -1,0 +1,15 @@
+/home/nuria/TFP/images/u1/2015-03-12/b00000448_21i6bq_20150312_120356e.jpg: Predicted in 26.215668 seconds.
+clock: 26%
+clock: 69%
+cup: 10%
+tvmonitor: 11%
+bowl: 10%
+bowl: 23%
+oven: 27%
+bowl: 54%
+pizza: 12%
+sink: 53%
+sink: 19%
+person: 74%
+sink: 12%
+laptop: 69%

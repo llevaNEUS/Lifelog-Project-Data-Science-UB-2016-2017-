@@ -1,0 +1,18 @@
+/home/nuria/TFP/images/u1/2015-03-17/b00000441_21i6bq_20150317_125219e.jpg: Predicted in 26.186916 seconds.
+person: 12%
+chair: 15%
+chair: 11%
+chair: 22%
+chair: 16%
+chair: 29%
+chair: 27%
+chair: 14%
+chair: 28%
+chair: 16%
+chair: 27%
+remote: 11%
+car: 10%
+person: 24%
+chair: 19%
+aeroplane: 12%
+person: 11%

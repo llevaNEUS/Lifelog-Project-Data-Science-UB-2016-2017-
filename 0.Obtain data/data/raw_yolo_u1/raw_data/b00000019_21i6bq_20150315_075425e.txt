@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-15/b00000019_21i6bq_20150315_075425e.jpg: Predicted in 26.060116 seconds.
+aeroplane: 15%
+chair: 12%
+aeroplane: 16%
+tvmonitor: 20%
+chair: 41%

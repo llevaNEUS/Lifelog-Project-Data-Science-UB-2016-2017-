@@ -1,0 +1,11 @@
+/home/nuria/TFP/images/u1/2015-03-14/b00000483_21i6bq_20150314_105634e.jpg: Predicted in 14.398698 seconds.
+person: 17%
+bench: 13%
+refrigerator: 15%
+refrigerator: 17%
+chair: 20%
+diningtable: 47%
+refrigerator: 12%
+chair: 31%
+bed: 19%
+chair: 36%

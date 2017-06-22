@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-14/b00000619_21i6bq_20150314_122051e.jpg: Predicted in 24.373697 seconds.
+vase: 12%
+vase: 13%
+book: 15%
+teddy bear: 12%

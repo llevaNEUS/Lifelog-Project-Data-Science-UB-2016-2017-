@@ -1,0 +1,17 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00000769_21i6bq_20150226_142735e.jpg: Predicted in 28.906200 seconds.
+person: 64%
+donut: 56%
+cup: 37%
+bottle: 15%
+cup: 51%
+cup: 32%
+fork: 18%
+cup: 83%
+person: 34%
+person: 74%
+bowl: 84%
+bowl: 22%
+person: 86%
+person: 25%
+person: 13%
+diningtable: 53%

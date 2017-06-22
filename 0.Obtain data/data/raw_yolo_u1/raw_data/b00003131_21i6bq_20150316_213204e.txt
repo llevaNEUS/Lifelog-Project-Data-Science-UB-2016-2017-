@@ -1,0 +1,10 @@
+/home/nuria/TFP/images/u1/2015-03-16/b00003131_21i6bq_20150316_213204e.jpg: Predicted in 25.132334 seconds.
+chair: 25%
+hot dog: 14%
+cell phone: 19%
+person: 58%
+tvmonitor: 44%
+person: 12%
+cell phone: 56%
+person: 68%
+person: 39%

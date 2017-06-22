@@ -1,0 +1,13 @@
+/home/nuria/TFP/images/u1/2015-02-25/b00001382_21i6bq_20150225_202045e.jpg: Predicted in 26.903664 seconds.
+bottle: 26%
+clock: 29%
+book: 10%
+book: 11%
+book: 22%
+book: 21%
+book: 15%
+book: 15%
+book: 20%
+clock: 24%
+book: 25%
+tvmonitor: 85%

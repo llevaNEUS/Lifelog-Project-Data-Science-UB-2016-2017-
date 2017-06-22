@@ -1,0 +1,11 @@
+/home/nuria/TFP/images/u1/2015-02-23/b00001052_21i6bq_20150223_182850e.jpg: Predicted in 20.739048 seconds.
+vase: 11%
+vase: 14%
+vase: 14%
+cup: 22%
+book: 41%
+book: 15%
+remote: 18%
+book: 10%
+tvmonitor: 85%
+sofa: 18%

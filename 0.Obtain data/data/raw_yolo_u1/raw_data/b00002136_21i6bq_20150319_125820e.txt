@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-03-19/b00002136_21i6bq_20150319_125820e.jpg: Predicted in 21.725712 seconds.
+person: 41%
+sink: 37%
+toilet: 77%

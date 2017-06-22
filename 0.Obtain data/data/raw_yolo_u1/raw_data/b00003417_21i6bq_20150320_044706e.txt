@@ -1,0 +1,14 @@
+/home/nuria/TFP/images/u1/2015-03-20/b00003417_21i6bq_20150320_044706e.jpg: Predicted in 17.931547 seconds.
+bird: 17%
+traffic light: 12%
+car: 20%
+traffic light: 10%
+person: 30%
+car: 45%
+truck: 21%
+car: 41%
+truck: 40%
+person: 16%
+person: 41%
+person: 14%
+pottedplant: 37%

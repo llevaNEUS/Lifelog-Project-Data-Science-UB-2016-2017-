@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-02-28/b00000016_21i6bq_20150228_065202e.jpg: Predicted in 27.455687 seconds.
+person: 72%
+skateboard: 19%
+laptop: 24%
+person: 72%
+cell phone: 78%

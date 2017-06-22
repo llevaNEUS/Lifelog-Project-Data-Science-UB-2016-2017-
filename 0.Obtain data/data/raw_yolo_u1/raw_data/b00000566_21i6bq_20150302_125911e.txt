@@ -1,0 +1,27 @@
+/home/nuria/TFP/images/u1/2015-03-02/b00000566_21i6bq_20150302_125911e.jpg: Predicted in 22.098728 seconds.
+person: 33%
+person: 15%
+person: 54%
+person: 27%
+person: 10%
+person: 40%
+person: 12%
+person: 22%
+person: 15%
+carrot: 11%
+knife: 20%
+person: 15%
+person: 56%
+person: 25%
+cup: 21%
+orange: 10%
+person: 40%
+cup: 45%
+person: 21%
+bowl: 58%
+spoon: 38%
+person: 76%
+person: 67%
+person: 39%
+diningtable: 10%
+diningtable: 41%

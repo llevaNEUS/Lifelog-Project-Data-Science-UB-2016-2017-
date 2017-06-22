@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-11/b00000710_21i6bq_20150311_140457e.jpg: Predicted in 24.798996 seconds.
+handbag: 11%
+banana: 15%
+person: 19%
+person: 91%

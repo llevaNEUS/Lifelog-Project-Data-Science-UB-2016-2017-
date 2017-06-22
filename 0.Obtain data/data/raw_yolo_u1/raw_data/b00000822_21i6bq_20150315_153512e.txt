@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-15/b00000822_21i6bq_20150315_153512e.jpg: Predicted in 15.432885 seconds.
+fork: 29%
+pizza: 43%
+person: 48%
+person: 42%

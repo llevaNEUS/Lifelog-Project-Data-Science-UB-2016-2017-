@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-08/b00000923_21i6bq_20150308_192831e.jpg: Predicted in 21.517904 seconds.
+hair drier: 20%
+person: 14%
+person: 87%
+toilet: 16%
+refrigerator: 13%
+toilet: 58%

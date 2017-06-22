@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-03/b00000228_21i6bq_20150303_082119e.jpg: Predicted in 26.213247 seconds.
+cup: 13%
+chair: 15%
+chair: 55%
+sink: 19%

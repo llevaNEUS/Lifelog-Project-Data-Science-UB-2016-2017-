@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-02-27/b00000420_21i6bq_20150227_113715e.jpg: Predicted in 21.586708 seconds.
+spoon: 14%
+person: 16%
+motorbike: 42%
+cup: 27%

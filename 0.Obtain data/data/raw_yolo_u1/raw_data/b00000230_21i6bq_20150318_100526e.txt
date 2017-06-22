@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-18/b00000230_21i6bq_20150318_100526e.jpg: Predicted in 20.906317 seconds.
+book: 10%
+chair: 22%
+chair: 10%
+pottedplant: 37%
+person: 71%
+refrigerator: 15%

@@ -1,0 +1,25 @@
+/home/nuria/TFP/images/u1/2015-03-17/b00001261_21i6bq_20150317_204256e.jpg: Predicted in 24.406937 seconds.
+person: 12%
+person: 22%
+person: 23%
+person: 22%
+suitcase: 26%
+suitcase: 25%
+person: 13%
+person: 15%
+person: 34%
+person: 52%
+person: 45%
+person: 33%
+person: 21%
+person: 34%
+person: 40%
+person: 68%
+person: 46%
+suitcase: 52%
+suitcase: 43%
+suitcase: 16%
+suitcase: 44%
+person: 32%
+person: 70%
+person: 35%

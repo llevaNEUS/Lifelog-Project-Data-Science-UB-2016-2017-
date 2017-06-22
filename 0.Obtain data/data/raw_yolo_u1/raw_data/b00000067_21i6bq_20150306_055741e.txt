@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-06/b00000067_21i6bq_20150306_055741e.jpg: Predicted in 24.655447 seconds.
+hot dog: 15%
+hot dog: 10%
+hot dog: 31%
+backpack: 14%
+donut: 57%
+bowl: 36%
+person: 38%
+person: 75%

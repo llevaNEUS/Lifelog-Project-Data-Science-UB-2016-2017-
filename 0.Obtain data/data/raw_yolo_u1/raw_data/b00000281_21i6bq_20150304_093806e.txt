@@ -1,0 +1,18 @@
+/home/nuria/TFP/images/u1/2015-03-04/b00000281_21i6bq_20150304_093806e.jpg: Predicted in 28.157125 seconds.
+clock: 33%
+cell phone: 23%
+car: 16%
+chair: 11%
+chair: 15%
+chair: 12%
+pottedplant: 17%
+pottedplant: 22%
+pottedplant: 60%
+chair: 15%
+chair: 16%
+chair: 10%
+chair: 64%
+chair: 12%
+person: 80%
+person: 73%
+person: 77%

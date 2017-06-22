@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-05/b00001334_21i6bq_20150305_212908e.jpg: Predicted in 21.889339 seconds.
+clock: 43%
+suitcase: 12%
+remote: 30%
+backpack: 33%
+banana: 19%
+diningtable: 29%

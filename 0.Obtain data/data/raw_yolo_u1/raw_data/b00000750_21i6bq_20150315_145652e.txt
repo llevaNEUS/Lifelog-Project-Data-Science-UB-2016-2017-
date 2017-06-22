@@ -1,0 +1,12 @@
+/home/nuria/TFP/images/u1/2015-03-15/b00000750_21i6bq_20150315_145652e.jpg: Predicted in 14.172971 seconds.
+car: 52%
+car: 17%
+pottedplant: 21%
+car: 56%
+car: 61%
+vase: 19%
+vase: 62%
+pottedplant: 69%
+sink: 25%
+pottedplant: 16%
+pottedplant: 49%

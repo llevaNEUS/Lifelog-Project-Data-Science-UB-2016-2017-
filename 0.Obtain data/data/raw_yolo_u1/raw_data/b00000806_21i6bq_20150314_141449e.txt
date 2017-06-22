@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-14/b00000806_21i6bq_20150314_141449e.jpg: Predicted in 14.418620 seconds.
+bird: 21%
+bird: 35%
+toilet: 17%
+person: 57%
+person: 24%
+person: 17%
+sink: 27%
+bowl: 13%

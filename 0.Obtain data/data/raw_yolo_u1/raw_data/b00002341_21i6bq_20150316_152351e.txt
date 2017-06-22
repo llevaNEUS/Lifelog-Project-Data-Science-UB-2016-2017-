@@ -1,0 +1,18 @@
+/home/nuria/TFP/images/u1/2015-03-16/b00002341_21i6bq_20150316_152351e.jpg: Predicted in 17.488819 seconds.
+clock: 14%
+person: 27%
+car: 15%
+car: 12%
+chair: 14%
+person: 11%
+chair: 20%
+person: 51%
+chair: 18%
+person: 17%
+person: 11%
+suitcase: 11%
+donut: 10%
+suitcase: 71%
+person: 45%
+person: 80%
+train: 19%

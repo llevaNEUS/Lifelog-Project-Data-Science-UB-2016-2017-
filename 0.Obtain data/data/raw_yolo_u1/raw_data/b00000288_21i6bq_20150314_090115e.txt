@@ -1,0 +1,24 @@
+/home/nuria/TFP/images/u1/2015-03-14/b00000288_21i6bq_20150314_090115e.jpg: Predicted in 14.151117 seconds.
+person: 15%
+wine glass: 15%
+spoon: 18%
+bottle: 19%
+wine glass: 25%
+remote: 11%
+bottle: 14%
+bottle: 40%
+bottle: 10%
+bottle: 64%
+bottle: 63%
+bottle: 22%
+book: 23%
+book: 17%
+book: 30%
+book: 17%
+cup: 11%
+bottle: 13%
+bottle: 23%
+bottle: 53%
+bottle: 10%
+wine glass: 11%
+refrigerator: 28%

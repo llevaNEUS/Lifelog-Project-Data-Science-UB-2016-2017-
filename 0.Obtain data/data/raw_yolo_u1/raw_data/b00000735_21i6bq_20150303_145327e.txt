@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-03-03/b00000735_21i6bq_20150303_145327e.jpg: Predicted in 26.584587 seconds.
+tennis racket: 14%
+backpack: 82%
+person: 87%

@@ -1,0 +1,3 @@
+/home/nuria/TFP/images/u1/2015-03-13/b00000169_21i6bq_20150313_071857e.jpg: Predicted in 14.374079 seconds.
+person: 15%
+truck: 11%

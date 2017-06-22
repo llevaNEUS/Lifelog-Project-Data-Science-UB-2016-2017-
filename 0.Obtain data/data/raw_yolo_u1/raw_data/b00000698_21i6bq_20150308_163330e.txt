@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-08/b00000698_21i6bq_20150308_163330e.jpg: Predicted in 27.292194 seconds.
+knife: 26%
+person: 72%
+person: 64%
+microwave: 23%

@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-05/b00000029_21i6bq_20150305_062517e.jpg: Predicted in 23.847733 seconds.
+person: 18%
+clock: 13%
+knife: 68%
+knife: 16%
+person: 27%
+person: 23%
+sink: 11%

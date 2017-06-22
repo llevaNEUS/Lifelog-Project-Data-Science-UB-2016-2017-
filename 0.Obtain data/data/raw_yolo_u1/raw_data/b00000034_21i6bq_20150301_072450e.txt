@@ -1,0 +1,12 @@
+/home/nuria/TFP/images/u1/2015-03-01/b00000034_21i6bq_20150301_072450e.jpg: Predicted in 24.566389 seconds.
+knife: 10%
+knife: 21%
+knife: 26%
+knife: 23%
+knife: 46%
+knife: 26%
+knife: 28%
+bowl: 28%
+cup: 17%
+bowl: 45%
+sink: 10%

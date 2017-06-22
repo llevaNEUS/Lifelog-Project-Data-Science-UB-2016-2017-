@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-07/b00000397_21i6bq_20150307_111716e.jpg: Predicted in 19.755888 seconds.
+bowl: 33%
+person: 30%
+bowl: 15%
+bottle: 29%
+bottle: 14%
+bottle: 18%
+microwave: 38%
+chair: 32%

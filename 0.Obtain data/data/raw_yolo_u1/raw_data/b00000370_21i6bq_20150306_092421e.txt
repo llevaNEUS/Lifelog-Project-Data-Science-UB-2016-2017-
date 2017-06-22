@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-06/b00000370_21i6bq_20150306_092421e.jpg: Predicted in 24.742678 seconds.
+car: 11%
+bench: 19%
+car: 73%
+car: 69%
+diningtable: 45%
+bench: 44%
+bench: 24%
+bench: 15%

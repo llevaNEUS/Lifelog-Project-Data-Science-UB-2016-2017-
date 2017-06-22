@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-16/b00001724_21i6bq_20150316_085711e.jpg: Predicted in 23.114254 seconds.
+snowboard: 19%
+traffic light: 47%
+motorbike: 17%
+toilet: 22%

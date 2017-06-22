@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-02-24/b00000106_21i6bq_20150224_074132e.jpg: Predicted in 27.020964 seconds.
+bowl: 12%
+umbrella: 15%
+umbrella: 17%
+chair: 33%
+book: 18%
+chair: 46%
+chair: 23%
+chair: 39%

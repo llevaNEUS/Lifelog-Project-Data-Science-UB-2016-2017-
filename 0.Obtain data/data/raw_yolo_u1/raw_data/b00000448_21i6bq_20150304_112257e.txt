@@ -1,0 +1,21 @@
+/home/nuria/TFP/images/u1/2015-03-04/b00000448_21i6bq_20150304_112257e.jpg: Predicted in 27.417372 seconds.
+person: 13%
+apple: 11%
+carrot: 11%
+apple: 11%
+apple: 13%
+apple: 13%
+apple: 16%
+apple: 12%
+carrot: 24%
+apple: 11%
+apple: 12%
+apple: 18%
+apple: 11%
+apple: 23%
+apple: 29%
+apple: 22%
+apple: 15%
+orange: 10%
+apple: 22%
+person: 15%

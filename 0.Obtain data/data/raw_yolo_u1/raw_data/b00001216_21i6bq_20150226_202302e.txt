@@ -1,0 +1,15 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00001216_21i6bq_20150226_202302e.jpg: Predicted in 22.901497 seconds.
+tvmonitor: 14%
+chair: 10%
+diningtable: 31%
+chair: 12%
+chair: 38%
+chair: 17%
+chair: 11%
+chair: 62%
+diningtable: 16%
+chair: 11%
+chair: 85%
+chair: 70%
+chair: 56%
+chair: 47%

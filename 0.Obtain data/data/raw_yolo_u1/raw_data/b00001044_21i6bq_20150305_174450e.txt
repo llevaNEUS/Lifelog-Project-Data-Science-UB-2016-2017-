@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-05/b00001044_21i6bq_20150305_174450e.jpg: Predicted in 14.108143 seconds.
+baseball bat: 11%
+bowl: 11%
+refrigerator: 13%
+tvmonitor: 36%

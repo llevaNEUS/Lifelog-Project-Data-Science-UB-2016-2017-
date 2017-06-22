@@ -1,0 +1,18 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00000164_21i6bq_20150226_074658e.jpg: Predicted in 29.921024 seconds.
+book: 15%
+book: 17%
+book: 22%
+book: 21%
+book: 27%
+book: 14%
+book: 19%
+bottle: 15%
+book: 13%
+book: 27%
+book: 20%
+book: 32%
+book: 34%
+book: 45%
+book: 42%
+refrigerator: 13%
+person: 31%

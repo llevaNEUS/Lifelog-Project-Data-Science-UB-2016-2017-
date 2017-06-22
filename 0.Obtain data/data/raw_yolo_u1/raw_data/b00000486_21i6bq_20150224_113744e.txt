@@ -1,0 +1,17 @@
+/home/nuria/TFP/images/u1/2015-02-24/b00000486_21i6bq_20150224_113744e.jpg: Predicted in 26.148684 seconds.
+person: 18%
+person: 25%
+spoon: 11%
+tvmonitor: 64%
+chair: 11%
+chair: 17%
+spoon: 25%
+cup: 71%
+chair: 23%
+cake: 12%
+orange: 37%
+cake: 43%
+person: 77%
+person: 86%
+spoon: 30%
+diningtable: 20%

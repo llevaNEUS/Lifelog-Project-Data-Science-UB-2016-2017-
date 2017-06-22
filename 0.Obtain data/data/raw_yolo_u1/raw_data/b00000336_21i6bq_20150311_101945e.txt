@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-11/b00000336_21i6bq_20150311_101945e.jpg: Predicted in 24.037058 seconds.
+bowl: 18%
+toothbrush: 34%
+person: 50%
+toothbrush: 20%
+sink: 23%
+sink: 30%

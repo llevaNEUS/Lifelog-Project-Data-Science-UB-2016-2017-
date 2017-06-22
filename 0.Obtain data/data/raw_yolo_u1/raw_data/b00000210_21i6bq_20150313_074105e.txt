@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-13/b00000210_21i6bq_20150313_074105e.jpg: Predicted in 14.110960 seconds.
+knife: 21%
+knife: 19%
+tvmonitor: 25%
+keyboard: 34%
+keyboard: 14%
+person: 62%
+laptop: 26%
+person: 76%

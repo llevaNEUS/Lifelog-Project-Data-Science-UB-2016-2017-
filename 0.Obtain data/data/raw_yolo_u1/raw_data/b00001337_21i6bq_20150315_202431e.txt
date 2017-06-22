@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-15/b00001337_21i6bq_20150315_202431e.jpg: Predicted in 14.241193 seconds.
+person: 13%
+chair: 20%
+person: 78%
+person: 21%
+person: 42%
+person: 83%
+person: 63%

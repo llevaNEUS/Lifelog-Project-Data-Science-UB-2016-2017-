@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-14/b00000995_21i6bq_20150314_155554e.jpg: Predicted in 24.240311 seconds.
+bird: 35%
+dog: 35%
+bird: 11%
+toilet: 12%

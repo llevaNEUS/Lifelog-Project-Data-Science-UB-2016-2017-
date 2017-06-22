@@ -1,0 +1,12 @@
+/home/nuria/TFP/images/u1/2015-03-09/b00001349_21i6bq_20150309_210346e.jpg: Predicted in 25.864864 seconds.
+remote: 11%
+remote: 14%
+chair: 25%
+backpack: 28%
+book: 16%
+sofa: 38%
+backpack: 13%
+sofa: 69%
+person: 36%
+diningtable: 16%
+bed: 14%

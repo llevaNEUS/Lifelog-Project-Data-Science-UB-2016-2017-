@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-16/b00002468_21i6bq_20150316_162216e.jpg: Predicted in 17.004105 seconds.
+mouse: 34%
+chair: 44%
+sink: 32%
+toilet: 47%

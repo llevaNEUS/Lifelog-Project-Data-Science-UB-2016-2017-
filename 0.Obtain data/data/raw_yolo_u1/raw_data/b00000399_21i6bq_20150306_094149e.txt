@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-06/b00000399_21i6bq_20150306_094149e.jpg: Predicted in 27.056072 seconds.
+knife: 21%
+person: 69%
+person: 22%
+cell phone: 65%
+aeroplane: 34%

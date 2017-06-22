@@ -1,0 +1,25 @@
+/home/nuria/TFP/images/u1/2015-03-14/b00000145_21i6bq_20150314_073442e.jpg: Predicted in 26.778919 seconds.
+keyboard: 11%
+mouse: 12%
+person: 30%
+bottle: 12%
+bottle: 18%
+bottle: 27%
+bottle: 13%
+bottle: 11%
+person: 39%
+backpack: 21%
+cup: 10%
+backpack: 22%
+cup: 33%
+cup: 38%
+cup: 64%
+keyboard: 16%
+keyboard: 57%
+person: 75%
+cup: 15%
+cup: 17%
+keyboard: 32%
+keyboard: 59%
+diningtable: 56%
+tvmonitor: 64%

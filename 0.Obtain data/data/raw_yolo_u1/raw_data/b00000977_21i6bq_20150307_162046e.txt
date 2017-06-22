@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-03-07/b00000977_21i6bq_20150307_162046e.jpg: Predicted in 25.723875 seconds.
+chair: 14%
+cell phone: 20%
+dog: 46%

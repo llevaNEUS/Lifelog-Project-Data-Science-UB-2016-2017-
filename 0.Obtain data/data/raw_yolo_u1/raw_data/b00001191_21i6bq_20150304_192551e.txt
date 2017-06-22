@@ -1,0 +1,24 @@
+/home/nuria/TFP/images/u1/2015-03-04/b00001191_21i6bq_20150304_192551e.jpg: Predicted in 27.663183 seconds.
+person: 20%
+person: 23%
+person: 20%
+person: 31%
+person: 30%
+person: 44%
+person: 23%
+person: 13%
+person: 17%
+traffic light: 29%
+tvmonitor: 17%
+person: 20%
+person: 17%
+person: 13%
+person: 49%
+person: 30%
+person: 39%
+person: 47%
+person: 38%
+person: 36%
+chair: 16%
+chair: 39%
+person: 17%

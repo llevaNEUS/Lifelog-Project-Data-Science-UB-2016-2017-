@@ -1,0 +1,26 @@
+/home/nuria/TFP/images/u1/2015-02-24/b00000560_21i6bq_20150224_122402e.jpg: Predicted in 22.328749 seconds.
+cell phone: 12%
+person: 12%
+cup: 24%
+banana: 26%
+cell phone: 44%
+person: 60%
+person: 46%
+person: 21%
+person: 46%
+laptop: 73%
+laptop: 62%
+backpack: 44%
+tie: 17%
+chair: 21%
+chair: 28%
+chair: 21%
+chair: 30%
+chair: 75%
+chair: 38%
+tvmonitor: 85%
+tvmonitor: 89%
+person: 27%
+person: 33%
+diningtable: 28%
+diningtable: 49%

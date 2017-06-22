@@ -1,0 +1,24 @@
+/home/nuria/TFP/images/u1/2015-03-10/b00000276_21i6bq_20150310_155208e.jpg: Predicted in 27.119087 seconds.
+clock: 41%
+book: 19%
+book: 47%
+book: 24%
+book: 32%
+book: 18%
+knife: 14%
+knife: 20%
+knife: 15%
+knife: 12%
+knife: 10%
+book: 10%
+book: 32%
+book: 27%
+knife: 10%
+knife: 10%
+knife: 15%
+knife: 20%
+person: 49%
+tie: 11%
+refrigerator: 22%
+person: 86%
+tvmonitor: 17%

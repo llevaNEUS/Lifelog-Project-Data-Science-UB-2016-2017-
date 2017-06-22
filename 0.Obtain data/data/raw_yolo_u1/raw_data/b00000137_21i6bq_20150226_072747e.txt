@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00000137_21i6bq_20150226_072747e.jpg: Predicted in 28.034327 seconds.
+snowboard: 14%
+banana: 13%
+banana: 16%
+diningtable: 57%
+apple: 19%

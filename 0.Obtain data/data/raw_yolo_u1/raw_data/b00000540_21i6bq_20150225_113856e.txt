@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-02-25/b00000540_21i6bq_20150225_113856e.jpg: Predicted in 28.616594 seconds.
+frisbee: 39%
+traffic light: 36%
+traffic light: 10%
+traffic light: 39%
+clock: 13%
+bottle: 38%
+truck: 51%

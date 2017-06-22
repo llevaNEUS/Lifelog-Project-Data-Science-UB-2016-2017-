@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-19/b00002199_21i6bq_20150319_134458e.jpg: Predicted in 15.527966 seconds.
+teddy bear: 11%
+parking meter: 48%
+chair: 20%
+toilet: 25%

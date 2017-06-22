@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00000719_21i6bq_20150226_135726e.jpg: Predicted in 26.273155 seconds.
+clock: 47%
+remote: 11%
+person: 90%
+pottedplant: 42%

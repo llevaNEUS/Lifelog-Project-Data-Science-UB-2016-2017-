@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-16/b00002791_21i6bq_20150316_184112e.jpg: Predicted in 21.498383 seconds.
+traffic light: 34%
+car: 63%
+car: 52%
+car: 22%
+person: 15%
+laptop: 45%

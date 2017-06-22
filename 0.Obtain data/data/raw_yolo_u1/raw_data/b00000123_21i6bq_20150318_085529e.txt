@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-18/b00000123_21i6bq_20150318_085529e.jpg: Predicted in 19.789660 seconds.
+fork: 44%
+bowl: 11%
+bowl: 11%
+cup: 37%
+person: 61%
+person: 11%

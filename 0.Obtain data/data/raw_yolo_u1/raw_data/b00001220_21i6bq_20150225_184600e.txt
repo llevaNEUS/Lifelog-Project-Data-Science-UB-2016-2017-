@@ -1,0 +1,15 @@
+/home/nuria/TFP/images/u1/2015-02-25/b00001220_21i6bq_20150225_184600e.jpg: Predicted in 25.025814 seconds.
+tvmonitor: 20%
+person: 37%
+person: 17%
+person: 22%
+person: 15%
+person: 40%
+train: 21%
+train: 12%
+person: 22%
+person: 60%
+person: 18%
+train: 53%
+train: 13%
+person: 55%

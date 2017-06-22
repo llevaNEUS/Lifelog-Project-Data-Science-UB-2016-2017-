@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-03-09/b00000137_21i6bq_20150309_080432e.jpg: Predicted in 27.716885 seconds.
+person: 31%
+aeroplane: 20%
+car: 17%

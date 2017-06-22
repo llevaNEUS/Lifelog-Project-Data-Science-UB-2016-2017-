@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00001188_21i6bq_20150226_195149e.jpg: Predicted in 24.861391 seconds.
+person: 22%
+person: 15%
+apple: 11%
+person: 67%
+person: 46%
+person: 32%
+tvmonitor: 17%

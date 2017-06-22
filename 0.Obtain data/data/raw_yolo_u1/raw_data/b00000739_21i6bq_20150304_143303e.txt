@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-04/b00000739_21i6bq_20150304_143303e.jpg: Predicted in 29.081242 seconds.
+cell phone: 83%
+keyboard: 11%
+person: 38%
+microwave: 45%
+keyboard: 15%
+person: 63%
+tvmonitor: 55%

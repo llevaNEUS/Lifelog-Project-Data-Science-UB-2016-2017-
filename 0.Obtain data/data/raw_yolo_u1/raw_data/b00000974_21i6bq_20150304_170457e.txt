@@ -1,0 +1,27 @@
+/home/nuria/TFP/images/u1/2015-03-04/b00000974_21i6bq_20150304_170457e.jpg: Predicted in 28.037100 seconds.
+bottle: 20%
+bottle: 22%
+bottle: 23%
+car: 32%
+car: 16%
+car: 27%
+broccoli: 14%
+cup: 35%
+cell phone: 13%
+broccoli: 11%
+broccoli: 21%
+spoon: 14%
+car: 30%
+broccoli: 17%
+broccoli: 37%
+broccoli: 20%
+broccoli: 22%
+broccoli: 10%
+knife: 11%
+person: 17%
+broccoli: 11%
+knife: 18%
+spoon: 26%
+bowl: 16%
+person: 84%
+diningtable: 60%

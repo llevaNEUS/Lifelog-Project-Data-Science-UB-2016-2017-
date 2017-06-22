@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-13/b00000910_21i6bq_20150313_151409e.jpg: Predicted in 25.010145 seconds.
+remote: 43%
+toilet: 53%
+refrigerator: 29%
+refrigerator: 60%

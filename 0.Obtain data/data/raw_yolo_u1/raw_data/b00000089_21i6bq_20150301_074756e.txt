@@ -1,0 +1,22 @@
+/home/nuria/TFP/images/u1/2015-03-01/b00000089_21i6bq_20150301_074756e.jpg: Predicted in 28.762461 seconds.
+book: 28%
+bottle: 10%
+book: 17%
+cup: 24%
+orange: 45%
+person: 18%
+book: 41%
+book: 31%
+cup: 39%
+cup: 25%
+bowl: 59%
+bowl: 16%
+bowl: 58%
+bowl: 19%
+remote: 61%
+refrigerator: 79%
+person: 72%
+tvmonitor: 89%
+hot dog: 70%
+hot dog: 65%
+diningtable: 17%

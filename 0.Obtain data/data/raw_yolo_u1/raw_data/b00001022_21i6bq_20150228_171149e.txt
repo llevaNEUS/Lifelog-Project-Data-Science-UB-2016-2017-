@@ -1,0 +1,21 @@
+/home/nuria/TFP/images/u1/2015-02-28/b00001022_21i6bq_20150228_171149e.jpg: Predicted in 27.197111 seconds.
+person: 20%
+chair: 11%
+tvmonitor: 74%
+handbag: 60%
+handbag: 44%
+laptop: 51%
+laptop: 40%
+person: 79%
+person: 60%
+diningtable: 19%
+chair: 12%
+person: 30%
+chair: 43%
+chair: 23%
+chair: 12%
+chair: 63%
+tvmonitor: 78%
+person: 64%
+person: 82%
+diningtable: 31%

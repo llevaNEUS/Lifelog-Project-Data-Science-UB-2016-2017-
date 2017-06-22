@@ -1,0 +1,4556 @@
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000000_21i79q_20150619_113501e.jpg: Predicted in 0.424000 seconds.
+person: 88%
+toothbrush: 23%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000001_21i79q_20150619_113543e.jpg: Predicted in 0.474000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000002_21i79q_20150619_113614e.jpg: Predicted in 0.414000 seconds.
+remote: 37%
+cell phone: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000003_21i79q_20150619_113656e.jpg: Predicted in 0.418000 seconds.
+stop sign: 40%
+stop sign: 79%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000004_21i79q_20150619_113736e.jpg: Predicted in 0.445000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000005_21i79q_20150619_113830e.jpg: Predicted in 0.428000 seconds.
+traffic light: 38%
+car: 13%
+bus: 12%
+bus: 19%
+car: 38%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000006_21i79q_20150619_113935e.jpg: Predicted in 0.442000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000007_21i79q_20150619_114032e.jpg: Predicted in 0.436000 seconds.
+tvmonitor: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000008_21i79q_20150619_114135e.jpg: Predicted in 0.434000 seconds.
+bottle: 53%
+clock: 11%
+microwave: 35%
+tvmonitor: 26%
+sink: 14%
+oven: 47%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000009_21i79q_20150619_114225e.jpg: Predicted in 0.424000 seconds.
+tvmonitor: 12%
+person: 79%
+remote: 13%
+person: 31%
+bottle: 19%
+bottle: 51%
+microwave: 10%
+microwave: 19%
+tvmonitor: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000010_21i79q_20150619_114308e.jpg: Predicted in 0.431000 seconds.
+bottle: 17%
+bottle: 47%
+microwave: 56%
+person: 36%
+tvmonitor: 14%
+person: 10%
+oven: 19%
+person: 12%
+person: 63%
+chair: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000011_21i79q_20150619_114346e.jpg: Predicted in 0.464000 seconds.
+person: 32%
+toothbrush: 24%
+person: 82%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000012_21i79q_20150619_114426e.jpg: Predicted in 0.444000 seconds.
+person: 83%
+tvmonitor: 22%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000013_21i79q_20150619_114459e.jpg: Predicted in 0.443000 seconds.
+remote: 37%
+person: 17%
+person: 82%
+tvmonitor: 37%
+bottle: 20%
+bottle: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000014_21i79q_20150619_114532e.jpg: Predicted in 0.430000 seconds.
+person: 17%
+person: 11%
+person: 67%
+refrigerator: 13%
+bottle: 40%
+tvmonitor: 49%
+person: 13%
+bottle: 15%
+bowl: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000015_21i79q_20150619_114609e.jpg: Predicted in 0.436000 seconds.
+refrigerator: 14%
+person: 83%
+person: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000016_21i79q_20150619_114644e.jpg: Predicted in 0.419000 seconds.
+refrigerator: 23%
+tvmonitor: 13%
+refrigerator: 10%
+bottle: 13%
+bottle: 34%
+person: 40%
+tvmonitor: 44%
+bottle: 21%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000017_21i79q_20150619_114718e.jpg: Predicted in 0.458000 seconds.
+refrigerator: 24%
+person: 22%
+person: 76%
+microwave: 26%
+bottle: 13%
+microwave: 11%
+microwave: 26%
+sofa: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000018_21i79q_20150619_114754e.jpg: Predicted in 0.447000 seconds.
+refrigerator: 20%
+pottedplant: 57%
+toothbrush: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000019_21i79q_20150619_114826e.jpg: Predicted in 0.463000 seconds.
+person: 84%
+refrigerator: 19%
+tvmonitor: 70%
+microwave: 50%
+bottle: 15%
+oven: 59%
+chair: 18%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000020_21i79q_20150619_114858e.jpg: Predicted in 0.418000 seconds.
+refrigerator: 42%
+person: 85%
+tvmonitor: 65%
+oven: 56%
+oven: 22%
+bottle: 33%
+chair: 44%
+bowl: 17%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000021_21i79q_20150619_114936e.jpg: Predicted in 0.430000 seconds.
+apple: 17%
+person: 85%
+microwave: 21%
+oven: 57%
+cup: 15%
+cup: 14%
+bowl: 37%
+remote: 10%
+cup: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000022_21i79q_20150619_115014e.jpg: Predicted in 0.418000 seconds.
+person: 29%
+person: 14%
+person: 47%
+person: 85%
+microwave: 11%
+cup: 12%
+microwave: 14%
+oven: 63%
+cup: 13%
+bowl: 49%
+chair: 16%
+diningtable: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000023_21i79q_20150619_115046e.jpg: Predicted in 0.415000 seconds.
+bottle: 44%
+person: 46%
+bottle: 29%
+bottle: 25%
+microwave: 12%
+microwave: 50%
+microwave: 20%
+oven: 17%
+bottle: 29%
+bowl: 57%
+diningtable: 34%
+chair: 19%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000024_21i79q_20150619_115118e.jpg: Predicted in 0.414000 seconds.
+refrigerator: 31%
+person: 14%
+tvmonitor: 62%
+bottle: 31%
+bottle: 37%
+microwave: 69%
+oven: 59%
+bottle: 37%
+bottle: 49%
+bottle: 15%
+sofa: 16%
+chair: 37%
+bowl: 37%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000025_21i79q_20150619_115158e.jpg: Predicted in 0.411000 seconds.
+refrigerator: 12%
+bottle: 24%
+bottle: 42%
+microwave: 63%
+spoon: 21%
+knife: 12%
+person: 17%
+tvmonitor: 55%
+oven: 58%
+bottle: 15%
+chair: 21%
+chair: 41%
+bowl: 50%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000026_21i79q_20150619_115234e.jpg: Predicted in 0.476000 seconds.
+person: 16%
+bottle: 37%
+bottle: 35%
+microwave: 15%
+microwave: 75%
+spoon: 16%
+tvmonitor: 38%
+oven: 68%
+bottle: 39%
+bottle: 14%
+bowl: 21%
+chair: 41%
+wine glass: 17%
+bowl: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000027_21i79q_20150619_115314e.jpg: Predicted in 0.431000 seconds.
+person: 14%
+tvmonitor: 19%
+bottle: 23%
+refrigerator: 42%
+tvmonitor: 38%
+person: 80%
+cup: 33%
+refrigerator: 16%
+oven: 73%
+cup: 14%
+chair: 20%
+cup: 53%
+cup: 22%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000028_21i79q_20150619_115350e.jpg: Predicted in 0.437000 seconds.
+person: 87%
+tvmonitor: 62%
+bottle: 45%
+bottle: 48%
+microwave: 13%
+microwave: 73%
+bottle: 18%
+cup: 27%
+cup: 19%
+cup: 37%
+cup: 29%
+chair: 18%
+person: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000029_21i79q_20150619_115427e.jpg: Predicted in 0.413000 seconds.
+bottle: 37%
+bottle: 18%
+bottle: 13%
+sink: 54%
+toothbrush: 16%
+bottle: 30%
+carrot: 12%
+diningtable: 11%
+person: 80%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000030_21i79q_20150619_115506e.jpg: Predicted in 0.439000 seconds.
+refrigerator: 14%
+tvmonitor: 51%
+bottle: 30%
+bottle: 25%
+microwave: 35%
+knife: 10%
+oven: 60%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000031_21i79q_20150619_115546e.jpg: Predicted in 0.448000 seconds.
+tvmonitor: 11%
+bottle: 17%
+refrigerator: 16%
+tvmonitor: 69%
+bottle: 15%
+microwave: 14%
+microwave: 62%
+knife: 11%
+oven: 67%
+cup: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000032_21i79q_20150619_115622e.jpg: Predicted in 0.446000 seconds.
+oven: 10%
+person: 10%
+tvmonitor: 71%
+bottle: 32%
+bottle: 30%
+microwave: 64%
+person: 31%
+person: 67%
+person: 21%
+oven: 46%
+sink: 27%
+cup: 11%
+cup: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000033_21i79q_20150619_115702e.jpg: Predicted in 0.416000 seconds.
+microwave: 18%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000034_21i79q_20150619_115738e.jpg: Predicted in 0.456000 seconds.
+person: 38%
+toothbrush: 16%
+person: 90%
+person: 27%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000035_21i79q_20150619_115812e.jpg: Predicted in 0.474000 seconds.
+person: 23%
+person: 26%
+bottle: 25%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000036_21i79q_20150619_115846e.jpg: Predicted in 0.494000 seconds.
+person: 36%
+person: 23%
+person: 25%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000037_21i79q_20150619_115928e.jpg: Predicted in 0.465000 seconds.
+cell phone: 12%
+remote: 37%
+person: 88%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000038_21i79q_20150619_120001e.jpg: Predicted in 0.480000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000039_21i79q_20150619_120036e.jpg: Predicted in 0.489000 seconds.
+umbrella: 14%
+person: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000040_21i79q_20150619_120143e.jpg: Predicted in 0.472000 seconds.
+surfboard: 23%
+person: 18%
+bed: 32%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000041_21i79q_20150619_120217e.jpg: Predicted in 0.458000 seconds.
+bowl: 39%
+person: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000042_21i79q_20150619_120249e.jpg: Predicted in 0.445000 seconds.
+person: 52%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000043_21i79q_20150619_120330e.jpg: Predicted in 0.439000 seconds.
+person: 60%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000044_21i79q_20150619_120406e.jpg: Predicted in 0.437000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000045_21i79q_20150619_120437e.jpg: Predicted in 0.426000 seconds.
+refrigerator: 48%
+bottle: 10%
+toilet: 25%
+refrigerator: 14%
+oven: 72%
+diningtable: 10%
+laptop: 18%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000046_21i79q_20150619_120511e.jpg: Predicted in 0.432000 seconds.
+person: 36%
+tvmonitor: 12%
+bed: 52%
+person: 41%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000047_21i79q_20150619_120549e.jpg: Predicted in 0.431000 seconds.
+person: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000048_21i79q_20150619_120623e.jpg: Predicted in 0.418000 seconds.
+pottedplant: 37%
+person: 22%
+person: 25%
+chair: 13%
+person: 12%
+tvmonitor: 53%
+person: 37%
+person: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000049_21i79q_20150619_120703e.jpg: Predicted in 0.422000 seconds.
+person: 20%
+pottedplant: 47%
+person: 16%
+person: 22%
+person: 11%
+person: 20%
+person: 46%
+person: 38%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000050_21i79q_20150619_120739e.jpg: Predicted in 0.428000 seconds.
+person: 30%
+pottedplant: 10%
+tvmonitor: 46%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000051_21i79q_20150619_120809e.jpg: Predicted in 0.421000 seconds.
+pottedplant: 20%
+person: 28%
+person: 42%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000052_21i79q_20150619_120849e.jpg: Predicted in 0.447000 seconds.
+toilet: 48%
+pottedplant: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000053_21i79q_20150619_120919e.jpg: Predicted in 0.408000 seconds.
+pottedplant: 17%
+tvmonitor: 62%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000054_21i79q_20150619_120957e.jpg: Predicted in 0.428000 seconds.
+pottedplant: 61%
+person: 10%
+person: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000055_21i79q_20150619_121037e.jpg: Predicted in 0.422000 seconds.
+pottedplant: 54%
+person: 11%
+person: 21%
+tvmonitor: 40%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000056_21i79q_20150619_121109e.jpg: Predicted in 0.425000 seconds.
+pottedplant: 51%
+person: 15%
+person: 21%
+tvmonitor: 37%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000057_21i79q_20150619_121139e.jpg: Predicted in 0.406000 seconds.
+pottedplant: 70%
+person: 12%
+tvmonitor: 27%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000058_21i79q_20150619_121217e.jpg: Predicted in 0.420000 seconds.
+sink: 27%
+pottedplant: 67%
+chair: 21%
+vase: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000059_21i79q_20150619_121249e.jpg: Predicted in 0.461000 seconds.
+sink: 31%
+pottedplant: 69%
+chair: 20%
+vase: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000060_21i79q_20150619_121319e.jpg: Predicted in 0.430000 seconds.
+sink: 25%
+pottedplant: 62%
+chair: 17%
+vase: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000061_21i79q_20150619_121349e.jpg: Predicted in 0.416000 seconds.
+toilet: 54%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000062_21i79q_20150619_121421e.jpg: Predicted in 0.420000 seconds.
+toilet: 56%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000063_21i79q_20150619_121451e.jpg: Predicted in 0.446000 seconds.
+person: 13%
+pottedplant: 79%
+book: 26%
+vase: 30%
+tvmonitor: 17%
+tvmonitor: 54%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000064_21i79q_20150619_121525e.jpg: Predicted in 0.454000 seconds.
+pottedplant: 75%
+book: 18%
+tvmonitor: 13%
+tvmonitor: 50%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000065_21i79q_20150619_121555e.jpg: Predicted in 0.438000 seconds.
+bed: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000066_21i79q_20150619_121627e.jpg: Predicted in 0.438000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000067_21i79q_20150619_121657e.jpg: Predicted in 0.441000 seconds.
+chair: 39%
+bed: 30%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000068_21i79q_20150619_121731e.jpg: Predicted in 0.432000 seconds.
+book: 51%
+book: 13%
+bed: 17%
+book: 30%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000069_21i79q_20150619_121803e.jpg: Predicted in 0.464000 seconds.
+book: 40%
+book: 13%
+book: 21%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000070_21i79q_20150619_121834e.jpg: Predicted in 0.413000 seconds.
+person: 22%
+book: 40%
+person: 13%
+book: 50%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000071_21i79q_20150619_121907e.jpg: Predicted in 0.430000 seconds.
+book: 24%
+book: 57%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000072_21i79q_20150619_121937e.jpg: Predicted in 0.412000 seconds.
+person: 11%
+book: 34%
+banana: 10%
+book: 60%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000073_21i79q_20150619_122007e.jpg: Predicted in 0.414000 seconds.
+person: 23%
+book: 23%
+book: 75%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000074_21i79q_20150619_122045e.jpg: Predicted in 0.428000 seconds.
+person: 21%
+book: 22%
+book: 54%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000075_21i79q_20150619_122115e.jpg: Predicted in 0.436000 seconds.
+person: 21%
+book: 35%
+book: 66%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000076_21i79q_20150619_122145e.jpg: Predicted in 0.434000 seconds.
+person: 28%
+book: 16%
+book: 51%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000077_21i79q_20150619_122215e.jpg: Predicted in 0.427000 seconds.
+book: 41%
+book: 64%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000078_21i79q_20150619_122252e.jpg: Predicted in 0.416000 seconds.
+book: 16%
+baseball glove: 16%
+book: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000079_21i79q_20150619_122331e.jpg: Predicted in 0.426000 seconds.
+person: 14%
+person: 57%
+person: 12%
+person: 25%
+bottle: 16%
+book: 12%
+bottle: 10%
+baseball glove: 34%
+banana: 31%
+book: 34%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000080_21i79q_20150619_122401e.jpg: Predicted in 0.411000 seconds.
+person: 45%
+book: 12%
+scissors: 70%
+book: 36%
+person: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000081_21i79q_20150619_122439e.jpg: Predicted in 0.417000 seconds.
+toilet: 43%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000082_21i79q_20150619_122515e.jpg: Predicted in 0.409000 seconds.
+toilet: 30%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000083_21i79q_20150619_122551e.jpg: Predicted in 0.412000 seconds.
+toilet: 38%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000084_21i79q_20150619_122627e.jpg: Predicted in 0.427000 seconds.
+toilet: 37%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000085_21i79q_20150619_122701e.jpg: Predicted in 0.461000 seconds.
+toilet: 45%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000086_21i79q_20150619_122731e.jpg: Predicted in 0.439000 seconds.
+toilet: 35%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000087_21i79q_20150619_122803e.jpg: Predicted in 0.423000 seconds.
+toilet: 36%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000088_21i79q_20150619_122835e.jpg: Predicted in 0.417000 seconds.
+sink: 24%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000089_21i79q_20150619_122908e.jpg: Predicted in 0.416000 seconds.
+toilet: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000090_21i79q_20150619_122946e.jpg: Predicted in 0.435000 seconds.
+toilet: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000091_21i79q_20150619_123016e.jpg: Predicted in 0.427000 seconds.
+toilet: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000092_21i79q_20150619_123046e.jpg: Predicted in 0.425000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000093_21i79q_20150619_123126e.jpg: Predicted in 0.415000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000094_21i79q_20150619_123158e.jpg: Predicted in 0.423000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000095_21i79q_20150619_123238e.jpg: Predicted in 0.405000 seconds.
+toilet: 34%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000096_21i79q_20150619_123308e.jpg: Predicted in 0.421000 seconds.
+toilet: 38%
+sink: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000097_21i79q_20150619_123338e.jpg: Predicted in 0.415000 seconds.
+toilet: 31%
+sink: 17%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000098_21i79q_20150619_123416e.jpg: Predicted in 0.447000 seconds.
+toilet: 44%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000099_21i79q_20150619_123452e.jpg: Predicted in 0.451000 seconds.
+toilet: 21%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000100_21i79q_20150619_123522e.jpg: Predicted in 0.449000 seconds.
+toilet: 29%
+sink: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000101_21i79q_20150619_123558e.jpg: Predicted in 0.456000 seconds.
+toilet: 32%
+sink: 18%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000102_21i79q_20150619_123628e.jpg: Predicted in 0.474000 seconds.
+toilet: 29%
+sink: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000103_21i79q_20150619_123658e.jpg: Predicted in 0.423000 seconds.
+toilet: 39%
+sink: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000104_21i79q_20150619_123729e.jpg: Predicted in 0.432000 seconds.
+toilet: 19%
+person: 21%
+person: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000105_21i79q_20150619_123759e.jpg: Predicted in 0.435000 seconds.
+toilet: 31%
+sink: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000106_21i79q_20150619_123839e.jpg: Predicted in 0.424000 seconds.
+toilet: 42%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000107_21i79q_20150619_123917e.jpg: Predicted in 0.419000 seconds.
+toilet: 43%
+sink: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000108_21i79q_20150619_123947e.jpg: Predicted in 0.435000 seconds.
+toilet: 45%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000109_21i79q_20150619_124017e.jpg: Predicted in 0.410000 seconds.
+toilet: 27%
+sink: 16%
+book: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000110_21i79q_20150619_124047e.jpg: Predicted in 0.410000 seconds.
+toilet: 36%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000111_21i79q_20150619_124117e.jpg: Predicted in 0.415000 seconds.
+toilet: 42%
+sink: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000112_21i79q_20150619_124147e.jpg: Predicted in 0.488000 seconds.
+toilet: 39%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000113_21i79q_20150619_124217e.jpg: Predicted in 0.470000 seconds.
+toilet: 42%
+book: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000114_21i79q_20150619_124255e.jpg: Predicted in 0.443000 seconds.
+toilet: 38%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000115_21i79q_20150619_124335e.jpg: Predicted in 0.433000 seconds.
+toilet: 43%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000116_21i79q_20150619_124405e.jpg: Predicted in 0.424000 seconds.
+toilet: 37%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000117_21i79q_20150619_124441e.jpg: Predicted in 0.434000 seconds.
+toilet: 32%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000118_21i79q_20150619_124514e.jpg: Predicted in 0.431000 seconds.
+person: 12%
+toilet: 18%
+person: 41%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000119_21i79q_20150619_124543e.jpg: Predicted in 0.405000 seconds.
+toilet: 37%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000120_21i79q_20150619_124615e.jpg: Predicted in 0.426000 seconds.
+toilet: 38%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000121_21i79q_20150619_124645e.jpg: Predicted in 0.421000 seconds.
+toilet: 25%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000122_21i79q_20150619_124715e.jpg: Predicted in 0.408000 seconds.
+toilet: 35%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000123_21i79q_20150619_124745e.jpg: Predicted in 0.430000 seconds.
+toilet: 27%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000124_21i79q_20150619_124815e.jpg: Predicted in 0.438000 seconds.
+toilet: 43%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000125_21i79q_20150619_124851e.jpg: Predicted in 0.419000 seconds.
+toilet: 42%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000126_21i79q_20150619_124921e.jpg: Predicted in 0.425000 seconds.
+toilet: 33%
+sink: 11%
+person: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000127_21i79q_20150619_124952e.jpg: Predicted in 0.475000 seconds.
+toilet: 35%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000128_21i79q_20150619_125022e.jpg: Predicted in 0.459000 seconds.
+toilet: 36%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000129_21i79q_20150619_125052e.jpg: Predicted in 0.409000 seconds.
+toilet: 42%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000130_21i79q_20150619_125122e.jpg: Predicted in 0.414000 seconds.
+toilet: 43%
+sink: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000131_21i79q_20150619_125152e.jpg: Predicted in 0.412000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000132_21i79q_20150619_125228e.jpg: Predicted in 0.407000 seconds.
+toilet: 28%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000133_21i79q_20150619_125304e.jpg: Predicted in 0.452000 seconds.
+toilet: 31%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000134_21i79q_20150619_125334e.jpg: Predicted in 0.438000 seconds.
+toilet: 35%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000135_21i79q_20150619_125404e.jpg: Predicted in 0.423000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000136_21i79q_20150619_125444e.jpg: Predicted in 0.418000 seconds.
+sink: 20%
+toilet: 38%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000137_21i79q_20150619_125516e.jpg: Predicted in 0.409000 seconds.
+sink: 30%
+toilet: 39%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000138_21i79q_20150619_125552e.jpg: Predicted in 0.420000 seconds.
+toilet: 41%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000139_21i79q_20150619_125623e.jpg: Predicted in 0.403000 seconds.
+person: 18%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000140_21i79q_20150619_125700e.jpg: Predicted in 0.460000 seconds.
+toilet: 28%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000141_21i79q_20150619_125741e.jpg: Predicted in 0.412000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000142_21i79q_20150619_125818e.jpg: Predicted in 0.418000 seconds.
+sink: 27%
+toilet: 44%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000143_21i79q_20150619_125854e.jpg: Predicted in 0.445000 seconds.
+sink: 25%
+toilet: 39%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000144_21i79q_20150619_125924e.jpg: Predicted in 0.436000 seconds.
+sink: 26%
+toilet: 37%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000145_21i79q_20150619_130000e.jpg: Predicted in 0.443000 seconds.
+sink: 13%
+toilet: 28%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000146_21i79q_20150619_130034e.jpg: Predicted in 0.441000 seconds.
+toilet: 33%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000147_21i79q_20150619_130104e.jpg: Predicted in 0.443000 seconds.
+toilet: 45%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000148_21i79q_20150619_130135e.jpg: Predicted in 0.438000 seconds.
+toilet: 50%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000149_21i79q_20150619_130212e.jpg: Predicted in 0.435000 seconds.
+toilet: 35%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000150_21i79q_20150619_130242e.jpg: Predicted in 0.451000 seconds.
+sink: 19%
+toilet: 41%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000151_21i79q_20150619_130312e.jpg: Predicted in 0.441000 seconds.
+sink: 18%
+toilet: 33%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000152_21i79q_20150619_130342e.jpg: Predicted in 0.433000 seconds.
+toilet: 43%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000153_21i79q_20150619_130412e.jpg: Predicted in 0.431000 seconds.
+toilet: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000154_21i79q_20150619_130516e.jpg: Predicted in 0.415000 seconds.
+toilet: 40%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000155_21i79q_20150619_130550e.jpg: Predicted in 0.437000 seconds.
+bowl: 16%
+sink: 34%
+toilet: 47%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000156_21i79q_20150619_130626e.jpg: Predicted in 0.438000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000157_21i79q_20150619_130704e.jpg: Predicted in 0.444000 seconds.
+sink: 31%
+toilet: 38%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000158_21i79q_20150619_130736e.jpg: Predicted in 0.425000 seconds.
+sink: 32%
+toilet: 34%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000159_21i79q_20150619_130806e.jpg: Predicted in 0.420000 seconds.
+sink: 29%
+toilet: 38%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000160_21i79q_20150619_130836e.jpg: Predicted in 0.427000 seconds.
+sink: 25%
+toilet: 52%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000161_21i79q_20150619_130906e.jpg: Predicted in 0.415000 seconds.
+sink: 29%
+toilet: 45%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000162_21i79q_20150619_130936e.jpg: Predicted in 0.432000 seconds.
+sink: 25%
+toilet: 47%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000163_21i79q_20150619_131012e.jpg: Predicted in 0.434000 seconds.
+sink: 22%
+toilet: 49%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000164_21i79q_20150619_131044e.jpg: Predicted in 0.421000 seconds.
+sink: 26%
+toilet: 40%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000165_21i79q_20150619_131114e.jpg: Predicted in 0.424000 seconds.
+sink: 31%
+toilet: 44%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000166_21i79q_20150619_131144e.jpg: Predicted in 0.428000 seconds.
+person: 10%
+sink: 16%
+toilet: 46%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000167_21i79q_20150619_131214e.jpg: Predicted in 0.424000 seconds.
+sink: 23%
+toilet: 45%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000168_21i79q_20150619_131249e.jpg: Predicted in 0.417000 seconds.
+sink: 32%
+toilet: 37%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000169_21i79q_20150619_131322e.jpg: Predicted in 0.423000 seconds.
+tvmonitor: 68%
+bed: 13%
+umbrella: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000170_21i79q_20150619_131400e.jpg: Predicted in 0.428000 seconds.
+sink: 11%
+toilet: 22%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000171_21i79q_20150619_131434e.jpg: Predicted in 0.422000 seconds.
+sink: 11%
+toilet: 23%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000172_21i79q_20150619_131504e.jpg: Predicted in 0.408000 seconds.
+sink: 10%
+toilet: 23%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000173_21i79q_20150619_131534e.jpg: Predicted in 0.439000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000174_21i79q_20150619_131614e.jpg: Predicted in 0.422000 seconds.
+toilet: 31%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000175_21i79q_20150619_131644e.jpg: Predicted in 0.431000 seconds.
+sink: 14%
+toilet: 48%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000176_21i79q_20150619_131722e.jpg: Predicted in 0.430000 seconds.
+toilet: 18%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000177_21i79q_20150619_131752e.jpg: Predicted in 0.415000 seconds.
+toilet: 17%
+sink: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000178_21i79q_20150619_131822e.jpg: Predicted in 0.447000 seconds.
+sink: 14%
+toilet: 49%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000179_21i79q_20150619_131902e.jpg: Predicted in 0.424000 seconds.
+sink: 28%
+toilet: 38%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000180_21i79q_20150619_131932e.jpg: Predicted in 0.421000 seconds.
+sink: 18%
+toilet: 41%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000181_21i79q_20150619_132006e.jpg: Predicted in 0.437000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000182_21i79q_20150619_132036e.jpg: Predicted in 0.424000 seconds.
+toilet: 31%
+sink: 17%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000183_21i79q_20150619_132138e.jpg: Predicted in 0.416000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000184_21i79q_20150619_132216e.jpg: Predicted in 0.425000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000185_21i79q_20150619_132250e.jpg: Predicted in 0.422000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000186_21i79q_20150619_132321e.jpg: Predicted in 0.449000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000187_21i79q_20150619_132351e.jpg: Predicted in 0.418000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000188_21i79q_20150619_132421e.jpg: Predicted in 0.411000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000189_21i79q_20150619_132451e.jpg: Predicted in 0.421000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000190_21i79q_20150619_132521e.jpg: Predicted in 0.406000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-19\b00000191_21i79q_20150619_132551e.jpg: Predicted in 0.409000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001182_21i79q_20150620_000031e.jpg: Predicted in 0.416000 seconds.
+refrigerator: 11%
+tvmonitor: 13%
+person: 84%
+person: 15%
+person: 16%
+chair: 52%
+chair: 17%
+chair: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001183_21i79q_20150620_000111e.jpg: Predicted in 0.440000 seconds.
+bottle: 21%
+bottle: 24%
+person: 65%
+person: 17%
+person: 32%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001184_21i79q_20150620_000149e.jpg: Predicted in 0.436000 seconds.
+person: 17%
+person: 53%
+cat: 12%
+chair: 34%
+chair: 21%
+dog: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001185_21i79q_20150620_000223e.jpg: Predicted in 0.437000 seconds.
+tvmonitor: 15%
+chair: 15%
+person: 56%
+person: 15%
+chair: 29%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001186_21i79q_20150620_000306e.jpg: Predicted in 0.436000 seconds.
+person: 10%
+person: 15%
+person: 51%
+chair: 16%
+chair: 10%
+chair: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001187_21i79q_20150620_000338e.jpg: Predicted in 0.435000 seconds.
+tvmonitor: 29%
+person: 64%
+person: 16%
+person: 10%
+chair: 20%
+chair: 29%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001188_21i79q_20150620_000414e.jpg: Predicted in 0.451000 seconds.
+person: 11%
+person: 44%
+person: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001189_21i79q_20150620_000454e.jpg: Predicted in 0.403000 seconds.
+tvmonitor: 11%
+person: 83%
+tvmonitor: 40%
+chair: 13%
+chair: 22%
+chair: 32%
+chair: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001190_21i79q_20150620_000528e.jpg: Predicted in 0.427000 seconds.
+pottedplant: 26%
+person: 84%
+tvmonitor: 15%
+chair: 36%
+chair: 18%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001191_21i79q_20150620_000608e.jpg: Predicted in 0.433000 seconds.
+pottedplant: 26%
+person: 83%
+tvmonitor: 47%
+chair: 17%
+chair: 31%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001192_21i79q_20150620_000637e.jpg: Predicted in 0.420000 seconds.
+tvmonitor: 15%
+person: 10%
+person: 20%
+person: 78%
+handbag: 15%
+chair: 17%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001193_21i79q_20150620_000712e.jpg: Predicted in 0.405000 seconds.
+person: 72%
+tvmonitor: 41%
+person: 14%
+chair: 23%
+chair: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001194_21i79q_20150620_000749e.jpg: Predicted in 0.421000 seconds.
+hair drier: 38%
+tvmonitor: 13%
+person: 34%
+oven: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001195_21i79q_20150620_000839e.jpg: Predicted in 0.416000 seconds.
+tvmonitor: 20%
+person: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001196_21i79q_20150620_000936e.jpg: Predicted in 0.409000 seconds.
+bottle: 11%
+person: 75%
+pottedplant: 34%
+chair: 31%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001197_21i79q_20150620_001014e.jpg: Predicted in 0.408000 seconds.
+person: 15%
+chair: 37%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001198_21i79q_20150620_001048e.jpg: Predicted in 0.417000 seconds.
+refrigerator: 20%
+person: 75%
+chair: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001199_21i79q_20150620_001121e.jpg: Predicted in 0.407000 seconds.
+cat: 77%
+person: 51%
+pottedplant: 16%
+chair: 15%
+person: 65%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001200_21i79q_20150620_001153e.jpg: Predicted in 0.422000 seconds.
+person: 64%
+chair: 23%
+microwave: 29%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001201_21i79q_20150620_001228e.jpg: Predicted in 0.421000 seconds.
+person: 82%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001202_21i79q_20150620_001300e.jpg: Predicted in 0.417000 seconds.
+refrigerator: 49%
+person: 67%
+microwave: 17%
+laptop: 11%
+chair: 35%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001203_21i79q_20150620_001339e.jpg: Predicted in 0.421000 seconds.
+refrigerator: 10%
+person: 67%
+pottedplant: 15%
+microwave: 19%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001204_21i79q_20150620_001413e.jpg: Predicted in 0.409000 seconds.
+person: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001205_21i79q_20150620_001455e.jpg: Predicted in 0.404000 seconds.
+person: 39%
+refrigerator: 17%
+bottle: 16%
+microwave: 42%
+pottedplant: 30%
+vase: 12%
+chair: 57%
+chair: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001206_21i79q_20150620_001535e.jpg: Predicted in 0.413000 seconds.
+person: 42%
+pottedplant: 24%
+chair: 41%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001207_21i79q_20150620_001619e.jpg: Predicted in 0.429000 seconds.
+remote: 11%
+person: 83%
+chair: 28%
+chair: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001208_21i79q_20150620_001711e.jpg: Predicted in 0.409000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001209_21i79q_20150620_001756e.jpg: Predicted in 0.411000 seconds.
+person: 68%
+person: 10%
+microwave: 21%
+cup: 11%
+pottedplant: 32%
+chair: 19%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001210_21i79q_20150620_001845e.jpg: Predicted in 0.475000 seconds.
+tvmonitor: 12%
+person: 87%
+pottedplant: 10%
+oven: 13%
+oven: 40%
+pottedplant: 21%
+chair: 38%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001211_21i79q_20150620_001929e.jpg: Predicted in 0.499000 seconds.
+pottedplant: 12%
+microwave: 30%
+oven: 22%
+oven: 13%
+chair: 37%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001212_21i79q_20150620_002008e.jpg: Predicted in 0.433000 seconds.
+mouse: 31%
+chair: 48%
+chair: 14%
+chair: 25%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001213_21i79q_20150620_002038e.jpg: Predicted in 0.434000 seconds.
+pottedplant: 19%
+microwave: 41%
+toaster: 10%
+tvmonitor: 13%
+chair: 14%
+chair: 31%
+chair: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001214_21i79q_20150620_002121e.jpg: Predicted in 0.429000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001215_21i79q_20150620_002205e.jpg: Predicted in 0.408000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001216_21i79q_20150620_002252e.jpg: Predicted in 0.425000 seconds.
+refrigerator: 12%
+pottedplant: 47%
+chair: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001217_21i79q_20150620_002348e.jpg: Predicted in 0.415000 seconds.
+refrigerator: 14%
+cell phone: 32%
+cell phone: 17%
+person: 59%
+person: 14%
+sofa: 15%
+chair: 18%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001218_21i79q_20150620_002446e.jpg: Predicted in 0.413000 seconds.
+cat: 49%
+person: 72%
+oven: 10%
+pottedplant: 29%
+chair: 17%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001219_21i79q_20150620_002540e.jpg: Predicted in 0.417000 seconds.
+pottedplant: 15%
+horse: 27%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001220_21i79q_20150620_002617e.jpg: Predicted in 0.443000 seconds.
+person: 86%
+pottedplant: 36%
+sink: 12%
+vase: 10%
+chair: 18%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001221_21i79q_20150620_002649e.jpg: Predicted in 0.417000 seconds.
+person: 82%
+refrigerator: 11%
+pottedplant: 28%
+sink: 11%
+cup: 10%
+chair: 21%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001222_21i79q_20150620_002718e.jpg: Predicted in 0.451000 seconds.
+person: 28%
+person: 70%
+person: 10%
+pottedplant: 55%
+sink: 11%
+sink: 24%
+cup: 14%
+sofa: 13%
+chair: 57%
+sink: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001223_21i79q_20150620_002754e.jpg: Predicted in 0.414000 seconds.
+refrigerator: 23%
+refrigerator: 26%
+sink: 25%
+person: 85%
+person: 70%
+refrigerator: 40%
+chair: 18%
+keyboard: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001224_21i79q_20150620_002825e.jpg: Predicted in 0.408000 seconds.
+train: 19%
+suitcase: 25%
+person: 81%
+chair: 18%
+chair: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001225_21i79q_20150620_002902e.jpg: Predicted in 0.434000 seconds.
+person: 12%
+person: 77%
+pottedplant: 17%
+chair: 34%
+oven: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001226_21i79q_20150620_002938e.jpg: Predicted in 0.513000 seconds.
+cat: 55%
+tvmonitor: 33%
+refrigerator: 40%
+person: 83%
+tvmonitor: 26%
+person: 72%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001227_21i79q_20150620_003010e.jpg: Predicted in 0.436000 seconds.
+cat: 72%
+person: 13%
+remote: 11%
+person: 75%
+pottedplant: 34%
+tvmonitor: 10%
+chair: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001228_21i79q_20150620_003042e.jpg: Predicted in 0.441000 seconds.
+person: 85%
+tvmonitor: 23%
+chair: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001229_21i79q_20150620_003122e.jpg: Predicted in 0.434000 seconds.
+vase: 20%
+pottedplant: 47%
+tvmonitor: 71%
+sink: 11%
+vase: 17%
+person: 65%
+person: 17%
+chair: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001230_21i79q_20150620_003200e.jpg: Predicted in 0.491000 seconds.
+vase: 11%
+pottedplant: 50%
+cup: 11%
+sofa: 24%
+vase: 13%
+suitcase: 11%
+person: 82%
+chair: 17%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001231_21i79q_20150620_003232e.jpg: Predicted in 0.449000 seconds.
+person: 60%
+refrigerator: 48%
+person: 68%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001232_21i79q_20150620_003304e.jpg: Predicted in 0.438000 seconds.
+umbrella: 11%
+bottle: 18%
+person: 59%
+person: 69%
+cat: 23%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001233_21i79q_20150620_003345e.jpg: Predicted in 0.424000 seconds.
+pottedplant: 23%
+suitcase: 11%
+bottle: 11%
+vase: 14%
+vase: 11%
+tvmonitor: 36%
+refrigerator: 17%
+person: 67%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001234_21i79q_20150620_003421e.jpg: Predicted in 0.423000 seconds.
+person: 42%
+tvmonitor: 40%
+oven: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001235_21i79q_20150620_003453e.jpg: Predicted in 0.426000 seconds.
+person: 15%
+person: 12%
+person: 81%
+pottedplant: 25%
+tvmonitor: 42%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001236_21i79q_20150620_003533e.jpg: Predicted in 0.439000 seconds.
+pottedplant: 18%
+person: 72%
+tvmonitor: 14%
+chair: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001237_21i79q_20150620_003613e.jpg: Predicted in 0.417000 seconds.
+bottle: 24%
+tvmonitor: 29%
+person: 49%
+refrigerator: 24%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001238_21i79q_20150620_003651e.jpg: Predicted in 0.434000 seconds.
+cat: 10%
+person: 53%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001239_21i79q_20150620_003727e.jpg: Predicted in 0.438000 seconds.
+tvmonitor: 14%
+bottle: 28%
+person: 60%
+person: 19%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001240_21i79q_20150620_003803e.jpg: Predicted in 0.421000 seconds.
+bottle: 10%
+person: 80%
+tvmonitor: 61%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001241_21i79q_20150620_003839e.jpg: Predicted in 0.436000 seconds.
+cell phone: 11%
+bottle: 24%
+person: 86%
+tvmonitor: 51%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001242_21i79q_20150620_003909e.jpg: Predicted in 0.424000 seconds.
+person: 65%
+person: 82%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001243_21i79q_20150620_003941e.jpg: Predicted in 0.428000 seconds.
+person: 82%
+remote: 16%
+bottle: 15%
+chair: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001244_21i79q_20150620_004015e.jpg: Predicted in 0.416000 seconds.
+refrigerator: 20%
+person: 86%
+pottedplant: 25%
+chair: 34%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001245_21i79q_20150620_004049e.jpg: Predicted in 0.424000 seconds.
+person: 71%
+refrigerator: 25%
+person: 86%
+suitcase: 31%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001246_21i79q_20150620_004123e.jpg: Predicted in 0.426000 seconds.
+person: 88%
+bottle: 16%
+pottedplant: 38%
+suitcase: 24%
+chair: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001247_21i79q_20150620_004201e.jpg: Predicted in 0.431000 seconds.
+person: 53%
+microwave: 38%
+microwave: 46%
+pottedplant: 15%
+suitcase: 21%
+chair: 26%
+chair: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001248_21i79q_20150620_004238e.jpg: Predicted in 0.420000 seconds.
+tvmonitor: 28%
+person: 51%
+person: 76%
+microwave: 29%
+pottedplant: 14%
+oven: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001249_21i79q_20150620_004313e.jpg: Predicted in 0.431000 seconds.
+refrigerator: 14%
+person: 37%
+bicycle: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001250_21i79q_20150620_004351e.jpg: Predicted in 0.435000 seconds.
+person: 83%
+person: 16%
+person: 12%
+pottedplant: 21%
+chair: 11%
+bicycle: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001251_21i79q_20150620_004427e.jpg: Predicted in 0.414000 seconds.
+tvmonitor: 12%
+person: 30%
+person: 85%
+person: 14%
+pottedplant: 34%
+chair: 16%
+chair: 35%
+oven: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001252_21i79q_20150620_004503e.jpg: Predicted in 0.409000 seconds.
+pottedplant: 27%
+person: 32%
+sink: 11%
+chair: 35%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001253_21i79q_20150620_004537e.jpg: Predicted in 0.420000 seconds.
+microwave: 10%
+microwave: 43%
+chair: 40%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001254_21i79q_20150620_004618e.jpg: Predicted in 0.418000 seconds.
+person: 61%
+refrigerator: 12%
+pottedplant: 27%
+microwave: 56%
+sofa: 18%
+chair: 17%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001255_21i79q_20150620_004659e.jpg: Predicted in 0.407000 seconds.
+cat: 27%
+person: 80%
+pottedplant: 14%
+microwave: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001256_21i79q_20150620_004735e.jpg: Predicted in 0.425000 seconds.
+person: 64%
+microwave: 17%
+pottedplant: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001257_21i79q_20150620_004811e.jpg: Predicted in 0.401000 seconds.
+person: 32%
+person: 25%
+person: 34%
+person: 19%
+pottedplant: 28%
+person: 41%
+microwave: 20%
+person: 17%
+microwave: 61%
+chair: 16%
+chair: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001258_21i79q_20150620_004855e.jpg: Predicted in 0.430000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001259_21i79q_20150620_005050e.jpg: Predicted in 0.424000 seconds.
+person: 82%
+person: 45%
+person: 17%
+tie: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001260_21i79q_20150620_005134e.jpg: Predicted in 0.430000 seconds.
+person: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001261_21i79q_20150620_005134e.jpg: Predicted in 0.421000 seconds.
+person: 16%
+person: 84%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001262_21i79q_20150620_005134e.jpg: Predicted in 0.407000 seconds.
+person: 11%
+person: 11%
+person: 43%
+bed: 19%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001263_21i79q_20150620_005135e.jpg: Predicted in 0.415000 seconds.
+person: 74%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001264_21i79q_20150620_005135e.jpg: Predicted in 0.408000 seconds.
+cup: 29%
+person: 69%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001265_21i79q_20150620_005135e.jpg: Predicted in 0.410000 seconds.
+tie: 16%
+person: 57%
+person: 85%
+tie: 39%
+person: 74%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001266_21i79q_20150620_005136e.jpg: Predicted in 0.409000 seconds.
+refrigerator: 44%
+refrigerator: 29%
+person: 75%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001267_21i79q_20150620_005136e.jpg: Predicted in 0.401000 seconds.
+person: 78%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001268_21i79q_20150620_005136e.jpg: Predicted in 0.438000 seconds.
+umbrella: 12%
+person: 87%
+person: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001269_21i79q_20150620_005144e.jpg: Predicted in 0.420000 seconds.
+umbrella: 48%
+person: 85%
+backpack: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001270_21i79q_20150620_005219e.jpg: Predicted in 0.427000 seconds.
+person: 56%
+person: 15%
+person: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001271_21i79q_20150620_005546e.jpg: Predicted in 0.415000 seconds.
+person: 70%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001272_21i79q_20150620_005728e.jpg: Predicted in 0.409000 seconds.
+person: 25%
+person: 49%
+person: 77%
+person: 87%
+person: 12%
+person: 12%
+person: 11%
+person: 49%
+person: 28%
+chair: 14%
+person: 46%
+person: 15%
+handbag: 12%
+person: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001273_21i79q_20150620_005947e.jpg: Predicted in 0.414000 seconds.
+person: 34%
+pottedplant: 15%
+tvmonitor: 13%
+person: 43%
+person: 16%
+tvmonitor: 19%
+person: 28%
+bottle: 21%
+person: 28%
+person: 27%
+bottle: 26%
+person: 21%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001274_21i79q_20150620_010025e.jpg: Predicted in 0.406000 seconds.
+person: 14%
+person: 51%
+car: 12%
+car: 24%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001275_21i79q_20150620_010105e.jpg: Predicted in 0.411000 seconds.
+person: 12%
+person: 27%
+wine glass: 18%
+person: 16%
+wine glass: 47%
+wine glass: 22%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001276_21i79q_20150620_010415e.jpg: Predicted in 0.416000 seconds.
+person: 12%
+person: 39%
+person: 14%
+person: 51%
+cup: 79%
+cup: 12%
+cup: 77%
+cup: 18%
+diningtable: 13%
+diningtable: 14%
+person: 31%
+person: 11%
+chair: 15%
+chair: 17%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001277_21i79q_20150620_010448e.jpg: Predicted in 0.413000 seconds.
+person: 50%
+cup: 81%
+cup: 75%
+person: 32%
+person: 22%
+person: 10%
+chair: 17%
+person: 43%
+diningtable: 46%
+chair: 11%
+person: 15%
+chair: 24%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001278_21i79q_20150620_010525e.jpg: Predicted in 0.411000 seconds.
+bottle: 14%
+person: 39%
+person: 52%
+person: 41%
+chair: 12%
+cup: 85%
+cup: 68%
+cup: 11%
+cup: 13%
+person: 12%
+person: 16%
+diningtable: 36%
+chair: 17%
+chair: 12%
+chair: 14%
+chair: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001279_21i79q_20150620_010608e.jpg: Predicted in 0.428000 seconds.
+cell phone: 29%
+laptop: 20%
+person: 75%
+person: 17%
+person: 11%
+person: 87%
+bottle: 14%
+cup: 67%
+cup: 17%
+cup: 61%
+person: 12%
+diningtable: 53%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001280_21i79q_20150620_010702e.jpg: Predicted in 0.414000 seconds.
+wine glass: 33%
+person: 16%
+person: 13%
+person: 18%
+cup: 17%
+wine glass: 16%
+person: 21%
+person: 21%
+person: 83%
+cup: 86%
+cup: 18%
+chair: 12%
+diningtable: 18%
+person: 40%
+diningtable: 32%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001281_21i79q_20150620_010757e.jpg: Predicted in 0.416000 seconds.
+tvmonitor: 68%
+laptop: 14%
+person: 19%
+tvmonitor: 23%
+chair: 14%
+chair: 13%
+chair: 30%
+person: 52%
+chair: 10%
+chair: 30%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001282_21i79q_20150620_010836e.jpg: Predicted in 0.417000 seconds.
+person: 18%
+tvmonitor: 65%
+person: 69%
+tvmonitor: 21%
+laptop: 14%
+person: 64%
+cup: 35%
+cell phone: 44%
+chair: 19%
+person: 81%
+diningtable: 12%
+chair: 29%
+chair: 68%
+chair: 28%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001283_21i79q_20150620_010913e.jpg: Predicted in 0.409000 seconds.
+tvmonitor: 11%
+tvmonitor: 16%
+tvmonitor: 51%
+tvmonitor: 41%
+person: 22%
+person: 69%
+person: 15%
+person: 36%
+cup: 57%
+person: 58%
+diningtable: 24%
+person: 16%
+person: 63%
+person: 54%
+diningtable: 11%
+person: 13%
+diningtable: 22%
+chair: 72%
+diningtable: 16%
+diningtable: 42%
+chair: 69%
+diningtable: 38%
+chair: 64%
+chair: 14%
+chair: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001284_21i79q_20150620_010949e.jpg: Predicted in 0.449000 seconds.
+person: 13%
+tvmonitor: 42%
+tvmonitor: 31%
+train: 11%
+person: 39%
+person: 13%
+chair: 42%
+chair: 19%
+person: 10%
+person: 51%
+person: 10%
+person: 11%
+person: 47%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001285_21i79q_20150620_011027e.jpg: Predicted in 0.431000 seconds.
+person: 19%
+tvmonitor: 48%
+tvmonitor: 44%
+person: 65%
+person: 15%
+person: 14%
+person: 40%
+person: 12%
+person: 15%
+person: 25%
+person: 42%
+person: 19%
+person: 11%
+person: 14%
+person: 44%
+person: 16%
+person: 38%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001286_21i79q_20150620_011105e.jpg: Predicted in 0.423000 seconds.
+tvmonitor: 14%
+tvmonitor: 60%
+person: 15%
+person: 43%
+person: 15%
+person: 12%
+person: 16%
+person: 11%
+person: 14%
+person: 22%
+person: 14%
+diningtable: 13%
+diningtable: 16%
+person: 79%
+cup: 18%
+person: 30%
+person: 15%
+diningtable: 26%
+chair: 50%
+diningtable: 11%
+person: 58%
+chair: 11%
+diningtable: 40%
+diningtable: 37%
+diningtable: 45%
+diningtable: 11%
+chair: 52%
+chair: 64%
+chair: 65%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001287_21i79q_20150620_011217e.jpg: Predicted in 0.432000 seconds.
+tvmonitor: 11%
+person: 13%
+person: 15%
+person: 47%
+tvmonitor: 16%
+tvmonitor: 27%
+tvmonitor: 16%
+person: 21%
+person: 19%
+person: 36%
+sofa: 47%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001288_21i79q_20150620_011251e.jpg: Predicted in 0.445000 seconds.
+tvmonitor: 52%
+tvmonitor: 15%
+person: 76%
+person: 21%
+person: 62%
+person: 23%
+person: 10%
+chair: 15%
+person: 16%
+person: 17%
+person: 59%
+person: 40%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001289_21i79q_20150620_011327e.jpg: Predicted in 0.445000 seconds.
+tvmonitor: 26%
+tvmonitor: 41%
+person: 44%
+person: 62%
+person: 22%
+person: 38%
+person: 19%
+horse: 21%
+person: 16%
+horse: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001290_21i79q_20150620_011359e.jpg: Predicted in 0.434000 seconds.
+tvmonitor: 23%
+bus: 11%
+person: 64%
+person: 66%
+person: 30%
+person: 44%
+person: 10%
+person: 19%
+person: 44%
+person: 17%
+person: 37%
+person: 10%
+person: 38%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001291_21i79q_20150620_011434e.jpg: Predicted in 0.420000 seconds.
+tvmonitor: 55%
+person: 11%
+chair: 12%
+chair: 23%
+person: 11%
+person: 22%
+person: 24%
+person: 39%
+person: 17%
+person: 10%
+person: 14%
+person: 49%
+chair: 30%
+person: 57%
+person: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001292_21i79q_20150620_011512e.jpg: Predicted in 0.424000 seconds.
+person: 19%
+car: 14%
+person: 11%
+person: 22%
+person: 26%
+car: 23%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001293_21i79q_20150620_011625e.jpg: Predicted in 0.414000 seconds.
+tvmonitor: 60%
+person: 50%
+tvmonitor: 46%
+person: 13%
+person: 10%
+person: 15%
+person: 53%
+person: 39%
+person: 57%
+person: 13%
+person: 13%
+person: 26%
+chair: 13%
+person: 11%
+person: 13%
+bench: 27%
+person: 14%
+person: 63%
+person: 11%
+person: 10%
+person: 19%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001294_21i79q_20150620_011657e.jpg: Predicted in 0.475000 seconds.
+tvmonitor: 47%
+tvmonitor: 22%
+person: 18%
+person: 43%
+person: 10%
+person: 40%
+person: 11%
+person: 30%
+person: 31%
+person: 46%
+person: 51%
+person: 39%
+person: 11%
+chair: 11%
+person: 34%
+person: 11%
+diningtable: 20%
+person: 12%
+person: 14%
+person: 14%
+diningtable: 37%
+chair: 43%
+diningtable: 24%
+chair: 57%
+diningtable: 36%
+chair: 34%
+chair: 69%
+chair: 10%
+chair: 12%
+chair: 50%
+chair: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001295_21i79q_20150620_011816e.jpg: Predicted in 0.442000 seconds.
+tvmonitor: 46%
+person: 13%
+tvmonitor: 15%
+person: 69%
+person: 20%
+person: 12%
+person: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001296_21i79q_20150620_011854e.jpg: Predicted in 0.460000 seconds.
+person: 21%
+person: 19%
+tvmonitor: 71%
+person: 23%
+person: 14%
+person: 47%
+person: 19%
+person: 10%
+person: 50%
+person: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001297_21i79q_20150620_011926e.jpg: Predicted in 0.440000 seconds.
+tvmonitor: 53%
+tvmonitor: 42%
+person: 15%
+handbag: 17%
+person: 14%
+person: 19%
+person: 21%
+person: 17%
+person: 68%
+person: 48%
+person: 79%
+person: 16%
+person: 13%
+person: 52%
+person: 16%
+person: 49%
+person: 46%
+chair: 11%
+person: 17%
+chair: 14%
+person: 64%
+chair: 25%
+chair: 28%
+chair: 14%
+chair: 17%
+chair: 23%
+chair: 14%
+chair: 38%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001298_21i79q_20150620_011956e.jpg: Predicted in 0.426000 seconds.
+tvmonitor: 11%
+person: 16%
+tvmonitor: 55%
+tvmonitor: 14%
+person: 70%
+person: 13%
+chair: 12%
+chair: 22%
+chair: 17%
+person: 22%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001299_21i79q_20150620_012030e.jpg: Predicted in 0.446000 seconds.
+bus: 12%
+train: 23%
+person: 60%
+person: 67%
+person: 39%
+person: 22%
+chair: 19%
+person: 11%
+chair: 12%
+horse: 34%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001300_21i79q_20150620_012100e.jpg: Predicted in 0.449000 seconds.
+person: 75%
+person: 32%
+horse: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001301_21i79q_20150620_012131e.jpg: Predicted in 0.420000 seconds.
+tvmonitor: 10%
+person: 59%
+person: 61%
+person: 70%
+person: 20%
+person: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001302_21i79q_20150620_012200e.jpg: Predicted in 0.438000 seconds.
+person: 69%
+person: 12%
+person: 67%
+person: 82%
+person: 47%
+person: 24%
+person: 15%
+person: 31%
+person: 50%
+person: 40%
+diningtable: 11%
+chair: 10%
+person: 12%
+diningtable: 27%
+person: 53%
+person: 16%
+person: 79%
+chair: 14%
+chair: 30%
+chair: 32%
+chair: 62%
+chair: 11%
+chair: 13%
+backpack: 23%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001303_21i79q_20150620_012232e.jpg: Predicted in 0.424000 seconds.
+tvmonitor: 26%
+tvmonitor: 45%
+tvmonitor: 23%
+person: 17%
+person: 54%
+person: 84%
+person: 17%
+person: 45%
+person: 32%
+person: 34%
+cup: 11%
+person: 31%
+diningtable: 15%
+person: 73%
+person: 75%
+chair: 10%
+chair: 10%
+chair: 61%
+diningtable: 14%
+chair: 58%
+chair: 24%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001304_21i79q_20150620_012339e.jpg: Predicted in 0.432000 seconds.
+person: 15%
+tvmonitor: 68%
+person: 82%
+person: 27%
+tvmonitor: 13%
+diningtable: 13%
+diningtable: 12%
+diningtable: 15%
+chair: 15%
+diningtable: 15%
+person: 65%
+diningtable: 17%
+diningtable: 19%
+person: 44%
+chair: 40%
+chair: 72%
+diningtable: 17%
+chair: 28%
+chair: 11%
+chair: 30%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001305_21i79q_20150620_012417e.jpg: Predicted in 0.440000 seconds.
+tvmonitor: 12%
+tvmonitor: 13%
+tvmonitor: 67%
+person: 82%
+person: 31%
+person: 44%
+person: 26%
+person: 24%
+person: 25%
+person: 18%
+person: 12%
+horse: 56%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001306_21i79q_20150620_012453e.jpg: Predicted in 0.430000 seconds.
+person: 54%
+person: 36%
+tvmonitor: 20%
+tvmonitor: 10%
+person: 18%
+person: 46%
+person: 16%
+person: 31%
+person: 11%
+person: 11%
+diningtable: 15%
+person: 60%
+person: 76%
+diningtable: 14%
+person: 35%
+chair: 35%
+diningtable: 14%
+chair: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001307_21i79q_20150620_012525e.jpg: Predicted in 0.429000 seconds.
+tvmonitor: 14%
+tvmonitor: 17%
+person: 22%
+tvmonitor: 15%
+tvmonitor: 15%
+tvmonitor: 58%
+tvmonitor: 14%
+person: 11%
+person: 62%
+person: 61%
+person: 12%
+person: 52%
+person: 53%
+person: 23%
+person: 32%
+person: 30%
+person: 26%
+person: 20%
+person: 40%
+bottle: 16%
+person: 62%
+person: 13%
+person: 29%
+person: 30%
+sofa: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001308_21i79q_20150620_012604e.jpg: Predicted in 0.442000 seconds.
+tvmonitor: 27%
+person: 67%
+person: 12%
+person: 11%
+person: 59%
+person: 23%
+person: 52%
+person: 17%
+person: 39%
+person: 88%
+wine glass: 50%
+diningtable: 12%
+cup: 11%
+diningtable: 21%
+person: 28%
+person: 11%
+person: 35%
+person: 14%
+chair: 65%
+person: 45%
+chair: 39%
+chair: 16%
+diningtable: 14%
+chair: 41%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001309_21i79q_20150620_012720e.jpg: Predicted in 0.445000 seconds.
+tvmonitor: 53%
+person: 31%
+person: 78%
+person: 29%
+person: 23%
+person: 32%
+person: 41%
+person: 21%
+person: 78%
+person: 23%
+chair: 14%
+chair: 18%
+person: 14%
+chair: 17%
+chair: 18%
+chair: 22%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001310_21i79q_20150620_013028e.jpg: Predicted in 0.426000 seconds.
+tvmonitor: 59%
+cup: 30%
+person: 31%
+person: 18%
+person: 12%
+person: 67%
+chair: 33%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001311_21i79q_20150620_013029e.jpg: Predicted in 0.441000 seconds.
+tvmonitor: 45%
+tvmonitor: 37%
+person: 17%
+person: 17%
+person: 27%
+person: 19%
+person: 87%
+person: 24%
+person: 21%
+person: 22%
+person: 61%
+chair: 11%
+diningtable: 14%
+chair: 47%
+diningtable: 26%
+person: 13%
+chair: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001312_21i79q_20150620_013029e.jpg: Predicted in 0.435000 seconds.
+tvmonitor: 60%
+tvmonitor: 34%
+person: 35%
+person: 17%
+person: 20%
+person: 24%
+person: 55%
+person: 53%
+diningtable: 11%
+person: 13%
+wine glass: 13%
+cup: 22%
+diningtable: 16%
+person: 26%
+person: 10%
+person: 83%
+chair: 61%
+diningtable: 23%
+chair: 16%
+diningtable: 49%
+chair: 20%
+diningtable: 26%
+chair: 14%
+chair: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001313_21i79q_20150620_013029e.jpg: Predicted in 0.446000 seconds.
+tvmonitor: 65%
+person: 31%
+person: 13%
+person: 25%
+person: 36%
+person: 14%
+person: 42%
+diningtable: 11%
+bottle: 20%
+bottle: 22%
+person: 49%
+diningtable: 22%
+person: 16%
+person: 81%
+cup: 14%
+diningtable: 16%
+chair: 59%
+diningtable: 25%
+chair: 14%
+diningtable: 23%
+chair: 17%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001314_21i79q_20150620_013029e.jpg: Predicted in 0.433000 seconds.
+person: 11%
+person: 20%
+tvmonitor: 57%
+tvmonitor: 31%
+person: 48%
+person: 22%
+person: 23%
+wine glass: 14%
+diningtable: 11%
+person: 87%
+cup: 12%
+diningtable: 11%
+person: 22%
+diningtable: 22%
+chair: 66%
+diningtable: 21%
+chair: 24%
+diningtable: 32%
+person: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001315_21i79q_20150620_013030e.jpg: Predicted in 0.432000 seconds.
+tvmonitor: 66%
+person: 43%
+person: 16%
+person: 16%
+person: 12%
+person: 14%
+person: 17%
+person: 11%
+person: 46%
+cup: 12%
+person: 10%
+diningtable: 21%
+person: 20%
+person: 18%
+person: 28%
+diningtable: 24%
+person: 38%
+person: 44%
+diningtable: 36%
+person: 14%
+person: 37%
+diningtable: 22%
+chair: 73%
+diningtable: 30%
+person: 78%
+diningtable: 20%
+chair: 11%
+chair: 14%
+chair: 23%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001316_21i79q_20150620_013030e.jpg: Predicted in 0.425000 seconds.
+tvmonitor: 23%
+tvmonitor: 61%
+person: 54%
+person: 16%
+person: 28%
+person: 31%
+person: 16%
+person: 23%
+person: 21%
+person: 23%
+person: 28%
+person: 21%
+person: 29%
+person: 79%
+diningtable: 39%
+person: 76%
+person: 41%
+diningtable: 16%
+chair: 64%
+diningtable: 27%
+chair: 11%
+diningtable: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001317_21i79q_20150620_013030e.jpg: Predicted in 0.428000 seconds.
+tvmonitor: 79%
+person: 13%
+person: 30%
+person: 18%
+person: 27%
+person: 17%
+person: 14%
+person: 75%
+person: 12%
+person: 20%
+diningtable: 22%
+cup: 23%
+chair: 13%
+person: 33%
+diningtable: 13%
+chair: 14%
+chair: 15%
+chair: 52%
+chair: 14%
+diningtable: 48%
+chair: 16%
+chair: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001318_21i79q_20150620_013030e.jpg: Predicted in 0.429000 seconds.
+tvmonitor: 74%
+person: 30%
+person: 16%
+person: 10%
+person: 35%
+person: 44%
+person: 21%
+person: 18%
+person: 24%
+diningtable: 10%
+bowl: 31%
+person: 15%
+person: 11%
+diningtable: 17%
+person: 78%
+cup: 29%
+chair: 47%
+diningtable: 23%
+chair: 12%
+diningtable: 24%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001319_21i79q_20150620_013310e.jpg: Predicted in 0.424000 seconds.
+tvmonitor: 59%
+tvmonitor: 24%
+person: 13%
+person: 12%
+person: 50%
+person: 26%
+diningtable: 11%
+cup: 39%
+person: 11%
+person: 51%
+person: 16%
+person: 68%
+diningtable: 12%
+person: 73%
+person: 23%
+chair: 64%
+diningtable: 34%
+diningtable: 42%
+chair: 29%
+chair: 11%
+chair: 61%
+diningtable: 23%
+chair: 60%
+chair: 22%
+chair: 24%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001320_21i79q_20150620_013346e.jpg: Predicted in 0.418000 seconds.
+person: 11%
+tvmonitor: 68%
+person: 16%
+person: 15%
+person: 10%
+person: 39%
+person: 26%
+person: 12%
+cup: 21%
+bottle: 13%
+diningtable: 11%
+diningtable: 26%
+person: 12%
+person: 69%
+diningtable: 11%
+person: 13%
+person: 68%
+chair: 49%
+chair: 11%
+chair: 12%
+diningtable: 30%
+diningtable: 29%
+chair: 11%
+chair: 10%
+diningtable: 39%
+chair: 57%
+chair: 27%
+diningtable: 31%
+chair: 32%
+chair: 59%
+chair: 18%
+chair: 19%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001321_21i79q_20150620_013424e.jpg: Predicted in 0.424000 seconds.
+person: 11%
+tvmonitor: 56%
+tvmonitor: 16%
+person: 40%
+person: 17%
+diningtable: 12%
+person: 46%
+person: 17%
+person: 37%
+person: 12%
+person: 18%
+cup: 22%
+cup: 30%
+diningtable: 19%
+person: 46%
+diningtable: 12%
+person: 69%
+person: 11%
+person: 67%
+diningtable: 12%
+person: 78%
+diningtable: 13%
+diningtable: 18%
+diningtable: 14%
+diningtable: 27%
+chair: 67%
+diningtable: 19%
+chair: 27%
+diningtable: 34%
+diningtable: 18%
+chair: 12%
+chair: 12%
+chair: 52%
+diningtable: 14%
+chair: 14%
+chair: 68%
+chair: 16%
+chair: 34%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001322_21i79q_20150620_013501e.jpg: Predicted in 0.417000 seconds.
+person: 12%
+person: 20%
+tvmonitor: 30%
+tvmonitor: 33%
+tvmonitor: 12%
+person: 17%
+person: 41%
+person: 21%
+person: 27%
+person: 63%
+person: 20%
+cup: 35%
+diningtable: 13%
+person: 43%
+person: 31%
+person: 67%
+diningtable: 12%
+cup: 17%
+diningtable: 14%
+diningtable: 11%
+chair: 13%
+person: 15%
+diningtable: 19%
+chair: 11%
+chair: 13%
+diningtable: 33%
+diningtable: 29%
+chair: 49%
+chair: 20%
+chair: 55%
+diningtable: 35%
+chair: 76%
+chair: 10%
+chair: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001323_21i79q_20150620_013537e.jpg: Predicted in 0.423000 seconds.
+tvmonitor: 14%
+tvmonitor: 62%
+person: 11%
+person: 40%
+person: 17%
+person: 45%
+tvmonitor: 20%
+person: 31%
+person: 64%
+person: 10%
+person: 31%
+person: 22%
+person: 44%
+person: 43%
+person: 60%
+bowl: 43%
+chair: 12%
+chair: 19%
+diningtable: 37%
+chair: 11%
+chair: 12%
+diningtable: 21%
+diningtable: 13%
+person: 32%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001324_21i79q_20150620_013625e.jpg: Predicted in 0.409000 seconds.
+tvmonitor: 66%
+tvmonitor: 26%
+person: 14%
+tvmonitor: 12%
+person: 35%
+person: 11%
+person: 30%
+person: 51%
+person: 16%
+person: 42%
+person: 25%
+person: 26%
+person: 16%
+person: 37%
+person: 52%
+chair: 22%
+chair: 13%
+person: 16%
+diningtable: 22%
+person: 15%
+person: 57%
+sheep: 50%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001325_21i79q_20150620_013705e.jpg: Predicted in 0.429000 seconds.
+tvmonitor: 11%
+tvmonitor: 72%
+person: 25%
+person: 28%
+person: 24%
+person: 12%
+person: 12%
+person: 22%
+person: 34%
+person: 17%
+person: 68%
+person: 61%
+person: 20%
+person: 16%
+chair: 17%
+chair: 32%
+diningtable: 35%
+person: 12%
+sheep: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001326_21i79q_20150620_013741e.jpg: Predicted in 0.422000 seconds.
+tvmonitor: 28%
+person: 25%
+person: 29%
+person: 76%
+person: 11%
+person: 16%
+person: 28%
+person: 19%
+person: 11%
+person: 11%
+diningtable: 15%
+person: 21%
+diningtable: 12%
+person: 76%
+diningtable: 17%
+person: 76%
+diningtable: 12%
+diningtable: 16%
+diningtable: 17%
+diningtable: 17%
+diningtable: 10%
+chair: 17%
+chair: 23%
+diningtable: 18%
+diningtable: 36%
+chair: 25%
+chair: 17%
+chair: 35%
+chair: 58%
+chair: 10%
+diningtable: 15%
+chair: 53%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001327_21i79q_20150620_013815e.jpg: Predicted in 0.433000 seconds.
+person: 25%
+tvmonitor: 48%
+tvmonitor: 20%
+person: 31%
+person: 26%
+person: 31%
+person: 11%
+person: 50%
+person: 11%
+person: 12%
+person: 48%
+person: 56%
+diningtable: 20%
+chair: 10%
+diningtable: 11%
+diningtable: 16%
+chair: 59%
+chair: 21%
+chair: 71%
+chair: 20%
+sofa: 12%
+chair: 41%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001328_21i79q_20150620_013847e.jpg: Predicted in 0.422000 seconds.
+tvmonitor: 75%
+person: 12%
+tvmonitor: 15%
+person: 12%
+person: 10%
+person: 11%
+person: 15%
+person: 10%
+person: 20%
+diningtable: 16%
+person: 54%
+chair: 57%
+person: 70%
+diningtable: 26%
+chair: 12%
+diningtable: 18%
+chair: 11%
+chair: 13%
+chair: 25%
+chair: 59%
+chair: 14%
+diningtable: 14%
+chair: 40%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001329_21i79q_20150620_013923e.jpg: Predicted in 0.420000 seconds.
+tvmonitor: 67%
+person: 45%
+tvmonitor: 33%
+person: 11%
+person: 21%
+person: 25%
+person: 17%
+person: 24%
+person: 54%
+person: 37%
+person: 10%
+person: 11%
+diningtable: 17%
+chair: 10%
+chair: 13%
+chair: 11%
+chair: 23%
+chair: 16%
+chair: 59%
+diningtable: 10%
+person: 68%
+chair: 16%
+chair: 38%
+chair: 16%
+diningtable: 19%
+chair: 13%
+chair: 56%
+chair: 19%
+chair: 13%
+diningtable: 31%
+chair: 15%
+chair: 44%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001330_21i79q_20150620_013959e.jpg: Predicted in 0.433000 seconds.
+tvmonitor: 64%
+tvmonitor: 12%
+bottle: 20%
+person: 26%
+person: 26%
+bottle: 11%
+sink: 40%
+diningtable: 11%
+diningtable: 15%
+person: 19%
+diningtable: 17%
+person: 79%
+diningtable: 11%
+diningtable: 22%
+chair: 16%
+diningtable: 14%
+chair: 60%
+diningtable: 17%
+person: 66%
+diningtable: 13%
+chair: 20%
+diningtable: 24%
+diningtable: 21%
+chair: 28%
+chair: 14%
+chair: 49%
+diningtable: 19%
+chair: 45%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001331_21i79q_20150620_014037e.jpg: Predicted in 0.441000 seconds.
+tvmonitor: 45%
+tvmonitor: 49%
+person: 18%
+person: 15%
+person: 14%
+person: 27%
+horse: 17%
+person: 26%
+person: 36%
+person: 14%
+person: 17%
+horse: 75%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001332_21i79q_20150620_014111e.jpg: Predicted in 0.417000 seconds.
+tvmonitor: 51%
+person: 10%
+person: 18%
+person: 36%
+person: 34%
+person: 18%
+person: 30%
+person: 22%
+train: 13%
+person: 10%
+horse: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001333_21i79q_20150620_014143e.jpg: Predicted in 0.436000 seconds.
+tvmonitor: 76%
+person: 26%
+tvmonitor: 11%
+train: 34%
+person: 23%
+horse: 14%
+horse: 23%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001334_21i79q_20150620_014223e.jpg: Predicted in 0.431000 seconds.
+tvmonitor: 21%
+person: 35%
+person: 23%
+person: 16%
+person: 16%
+person: 75%
+cup: 36%
+person: 77%
+cup: 13%
+diningtable: 29%
+diningtable: 12%
+bowl: 39%
+chair: 21%
+diningtable: 34%
+diningtable: 45%
+chair: 14%
+chair: 27%
+chair: 33%
+chair: 14%
+chair: 49%
+chair: 22%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001335_21i79q_20150620_014303e.jpg: Predicted in 0.427000 seconds.
+tvmonitor: 27%
+person: 82%
+person: 47%
+diningtable: 17%
+person: 14%
+person: 19%
+cup: 41%
+diningtable: 41%
+person: 64%
+chair: 10%
+diningtable: 10%
+diningtable: 18%
+diningtable: 20%
+diningtable: 12%
+chair: 13%
+chair: 25%
+diningtable: 38%
+chair: 21%
+chair: 49%
+chair: 11%
+chair: 16%
+chair: 37%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001336_21i79q_20150620_014335e.jpg: Predicted in 0.423000 seconds.
+cell phone: 58%
+person: 22%
+person: 86%
+person: 10%
+person: 12%
+bottle: 11%
+person: 15%
+diningtable: 12%
+diningtable: 16%
+person: 80%
+diningtable: 21%
+person: 13%
+person: 16%
+diningtable: 35%
+person: 63%
+diningtable: 19%
+chair: 28%
+diningtable: 24%
+chair: 17%
+chair: 38%
+chair: 59%
+diningtable: 15%
+chair: 53%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001337_21i79q_20150620_014413e.jpg: Predicted in 0.424000 seconds.
+tvmonitor: 15%
+person: 79%
+oven: 23%
+person: 12%
+person: 19%
+person: 18%
+diningtable: 29%
+cup: 12%
+diningtable: 16%
+bowl: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001338_21i79q_20150620_014451e.jpg: Predicted in 0.424000 seconds.
+tvmonitor: 14%
+tvmonitor: 38%
+tvmonitor: 24%
+person: 59%
+bottle: 19%
+pottedplant: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001339_21i79q_20150620_014530e.jpg: Predicted in 0.435000 seconds.
+person: 17%
+person: 17%
+person: 82%
+bottle: 30%
+person: 36%
+cup: 40%
+person: 11%
+chair: 27%
+chair: 18%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001340_21i79q_20150620_014643e.jpg: Predicted in 0.426000 seconds.
+person: 15%
+tvmonitor: 55%
+tvmonitor: 35%
+person: 84%
+person: 10%
+person: 27%
+person: 22%
+person: 23%
+person: 39%
+person: 10%
+person: 15%
+cup: 26%
+person: 12%
+person: 69%
+diningtable: 14%
+chair: 24%
+bowl: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001341_21i79q_20150620_014715e.jpg: Predicted in 0.424000 seconds.
+tvmonitor: 66%
+person: 67%
+person: 25%
+person: 79%
+person: 11%
+cup: 41%
+chair: 18%
+chair: 24%
+chair: 22%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001342_21i79q_20150620_014749e.jpg: Predicted in 0.429000 seconds.
+tvmonitor: 65%
+cell phone: 12%
+cell phone: 18%
+person: 11%
+person: 59%
+person: 13%
+person: 12%
+person: 23%
+person: 22%
+person: 52%
+person: 28%
+diningtable: 26%
+cup: 26%
+person: 45%
+diningtable: 33%
+chair: 14%
+chair: 13%
+chair: 15%
+chair: 10%
+chair: 25%
+chair: 14%
+diningtable: 35%
+chair: 12%
+chair: 38%
+chair: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001343_21i79q_20150620_014823e.jpg: Predicted in 0.418000 seconds.
+cell phone: 13%
+cell phone: 19%
+cell phone: 20%
+person: 10%
+person: 65%
+person: 32%
+person: 63%
+person: 17%
+person: 30%
+diningtable: 10%
+cup: 15%
+handbag: 23%
+person: 66%
+chair: 11%
+chair: 12%
+diningtable: 37%
+diningtable: 14%
+chair: 29%
+chair: 37%
+diningtable: 12%
+chair: 20%
+chair: 11%
+chair: 35%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001344_21i79q_20150620_014903e.jpg: Predicted in 0.429000 seconds.
+tvmonitor: 23%
+person: 24%
+person: 86%
+person: 16%
+person: 17%
+chair: 19%
+chair: 20%
+chair: 20%
+chair: 25%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001345_21i79q_20150620_014941e.jpg: Predicted in 0.428000 seconds.
+tvmonitor: 26%
+person: 85%
+tvmonitor: 40%
+person: 11%
+oven: 11%
+diningtable: 17%
+person: 11%
+person: 76%
+diningtable: 22%
+chair: 24%
+chair: 19%
+chair: 20%
+diningtable: 11%
+chair: 54%
+chair: 27%
+diningtable: 31%
+chair: 23%
+chair: 26%
+chair: 11%
+chair: 24%
+chair: 25%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001346_21i79q_20150620_015020e.jpg: Predicted in 0.411000 seconds.
+tvmonitor: 18%
+tvmonitor: 71%
+tvmonitor: 17%
+tvmonitor: 20%
+tvmonitor: 12%
+tvmonitor: 15%
+bottle: 10%
+person: 74%
+chair: 45%
+person: 54%
+diningtable: 11%
+person: 27%
+chair: 15%
+chair: 13%
+chair: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001347_21i79q_20150620_015052e.jpg: Predicted in 0.416000 seconds.
+person: 21%
+tvmonitor: 50%
+tvmonitor: 16%
+person: 47%
+tvmonitor: 19%
+person: 15%
+chair: 10%
+person: 11%
+person: 39%
+person: 14%
+person: 78%
+tvmonitor: 14%
+person: 18%
+person: 22%
+person: 10%
+person: 38%
+person: 75%
+person: 12%
+chair: 40%
+chair: 12%
+chair: 40%
+chair: 11%
+chair: 12%
+chair: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001348_21i79q_20150620_015126e.jpg: Predicted in 0.440000 seconds.
+person: 19%
+tvmonitor: 46%
+tvmonitor: 54%
+person: 48%
+person: 55%
+tvmonitor: 17%
+tvmonitor: 11%
+laptop: 11%
+person: 43%
+diningtable: 20%
+person: 14%
+diningtable: 19%
+person: 26%
+person: 33%
+chair: 48%
+chair: 61%
+diningtable: 22%
+chair: 29%
+person: 57%
+chair: 29%
+chair: 23%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001349_21i79q_20150620_015200e.jpg: Predicted in 0.437000 seconds.
+tvmonitor: 36%
+tvmonitor: 66%
+person: 15%
+person: 45%
+person: 61%
+person: 13%
+chair: 11%
+diningtable: 19%
+person: 16%
+diningtable: 16%
+diningtable: 31%
+person: 80%
+diningtable: 12%
+chair: 54%
+chair: 73%
+diningtable: 13%
+chair: 30%
+chair: 19%
+chair: 15%
+chair: 37%
+chair: 35%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001350_21i79q_20150620_015230e.jpg: Predicted in 0.447000 seconds.
+tvmonitor: 13%
+person: 33%
+person: 42%
+person: 41%
+bottle: 31%
+person: 28%
+diningtable: 30%
+person: 14%
+person: 42%
+chair: 60%
+chair: 65%
+diningtable: 30%
+chair: 19%
+chair: 13%
+chair: 22%
+chair: 17%
+chair: 18%
+chair: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001351_21i79q_20150620_015309e.jpg: Predicted in 0.444000 seconds.
+person: 26%
+tvmonitor: 16%
+person: 11%
+person: 36%
+tvmonitor: 21%
+person: 35%
+person: 69%
+person: 31%
+person: 10%
+person: 54%
+person: 23%
+person: 29%
+person: 26%
+diningtable: 21%
+person: 13%
+person: 58%
+person: 11%
+person: 16%
+chair: 13%
+chair: 32%
+chair: 16%
+chair: 36%
+chair: 18%
+diningtable: 27%
+chair: 25%
+chair: 18%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001352_21i79q_20150620_015342e.jpg: Predicted in 0.454000 seconds.
+tvmonitor: 12%
+tvmonitor: 43%
+tvmonitor: 60%
+person: 26%
+tvmonitor: 12%
+person: 50%
+chair: 16%
+person: 10%
+person: 29%
+person: 14%
+person: 16%
+diningtable: 22%
+person: 13%
+person: 13%
+chair: 11%
+chair: 50%
+chair: 61%
+chair: 22%
+person: 60%
+diningtable: 30%
+chair: 15%
+chair: 17%
+chair: 11%
+chair: 15%
+diningtable: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001353_21i79q_20150620_015420e.jpg: Predicted in 0.431000 seconds.
+tvmonitor: 16%
+person: 12%
+tvmonitor: 51%
+tvmonitor: 63%
+person: 46%
+person: 20%
+person: 21%
+person: 12%
+person: 15%
+person: 16%
+person: 62%
+tvmonitor: 17%
+chair: 15%
+person: 16%
+person: 13%
+person: 29%
+person: 45%
+chair: 15%
+person: 36%
+diningtable: 12%
+person: 63%
+cup: 24%
+chair: 66%
+chair: 54%
+diningtable: 16%
+chair: 18%
+chair: 11%
+diningtable: 34%
+chair: 17%
+chair: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001354_21i79q_20150620_015452e.jpg: Predicted in 0.427000 seconds.
+tvmonitor: 14%
+tvmonitor: 24%
+tvmonitor: 15%
+person: 14%
+person: 43%
+person: 58%
+person: 67%
+person: 15%
+person: 14%
+person: 56%
+tvmonitor: 12%
+tvmonitor: 11%
+person: 18%
+person: 16%
+person: 42%
+person: 11%
+person: 13%
+chair: 64%
+chair: 42%
+diningtable: 14%
+person: 65%
+diningtable: 12%
+chair: 29%
+chair: 12%
+diningtable: 13%
+chair: 18%
+chair: 21%
+chair: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001355_21i79q_20150620_015522e.jpg: Predicted in 0.427000 seconds.
+tvmonitor: 69%
+person: 38%
+person: 16%
+bottle: 10%
+vase: 10%
+person: 12%
+diningtable: 11%
+person: 35%
+diningtable: 26%
+person: 71%
+chair: 11%
+bowl: 10%
+chair: 12%
+chair: 56%
+chair: 71%
+diningtable: 22%
+chair: 20%
+chair: 12%
+chair: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001356_21i79q_20150620_015556e.jpg: Predicted in 0.423000 seconds.
+tvmonitor: 36%
+bottle: 69%
+person: 16%
+person: 40%
+person: 55%
+diningtable: 37%
+chair: 34%
+diningtable: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001357_21i79q_20150620_015634e.jpg: Predicted in 0.438000 seconds.
+tvmonitor: 27%
+car: 10%
+person: 67%
+tvmonitor: 10%
+person: 44%
+person: 47%
+person: 19%
+person: 23%
+cup: 11%
+diningtable: 15%
+diningtable: 10%
+diningtable: 13%
+person: 44%
+person: 15%
+diningtable: 23%
+person: 32%
+person: 18%
+diningtable: 29%
+diningtable: 23%
+chair: 72%
+diningtable: 43%
+person: 63%
+diningtable: 14%
+diningtable: 14%
+chair: 31%
+chair: 48%
+chair: 16%
+chair: 45%
+chair: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001358_21i79q_20150620_015711e.jpg: Predicted in 0.410000 seconds.
+person: 47%
+tvmonitor: 18%
+person: 10%
+person: 56%
+person: 13%
+tvmonitor: 19%
+tvmonitor: 17%
+person: 30%
+person: 50%
+person: 10%
+person: 12%
+diningtable: 13%
+diningtable: 19%
+person: 30%
+person: 18%
+cup: 41%
+diningtable: 20%
+person: 47%
+person: 67%
+diningtable: 15%
+diningtable: 21%
+diningtable: 28%
+chair: 37%
+chair: 69%
+diningtable: 32%
+chair: 10%
+chair: 65%
+chair: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001359_21i79q_20150620_015745e.jpg: Predicted in 0.431000 seconds.
+person: 39%
+tvmonitor: 22%
+person: 29%
+person: 13%
+person: 15%
+person: 42%
+person: 28%
+person: 58%
+person: 12%
+person: 21%
+person: 40%
+person: 11%
+person: 24%
+person: 31%
+person: 13%
+diningtable: 15%
+diningtable: 17%
+person: 78%
+person: 77%
+person: 17%
+chair: 21%
+diningtable: 15%
+chair: 69%
+diningtable: 16%
+chair: 18%
+chair: 60%
+chair: 56%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001360_21i79q_20150620_015823e.jpg: Predicted in 0.429000 seconds.
+tvmonitor: 37%
+tvmonitor: 57%
+tvmonitor: 32%
+person: 31%
+person: 35%
+person: 38%
+person: 17%
+person: 12%
+person: 32%
+person: 17%
+person: 16%
+diningtable: 11%
+diningtable: 13%
+person: 79%
+chair: 19%
+chair: 68%
+diningtable: 20%
+chair: 19%
+chair: 66%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001361_21i79q_20150620_015900e.jpg: Predicted in 0.428000 seconds.
+tvmonitor: 72%
+person: 16%
+person: 38%
+person: 43%
+person: 18%
+tvmonitor: 14%
+person: 14%
+person: 11%
+person: 57%
+person: 14%
+diningtable: 13%
+diningtable: 20%
+person: 67%
+diningtable: 11%
+chair: 26%
+diningtable: 26%
+person: 52%
+chair: 57%
+chair: 11%
+person: 12%
+diningtable: 37%
+diningtable: 49%
+chair: 38%
+diningtable: 56%
+chair: 11%
+chair: 20%
+chair: 21%
+chair: 78%
+chair: 29%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001362_21i79q_20150620_015933e.jpg: Predicted in 0.433000 seconds.
+tvmonitor: 63%
+tvmonitor: 13%
+tvmonitor: 15%
+person: 21%
+person: 12%
+person: 54%
+diningtable: 13%
+person: 80%
+person: 13%
+chair: 13%
+person: 29%
+diningtable: 32%
+diningtable: 25%
+diningtable: 33%
+diningtable: 14%
+diningtable: 32%
+diningtable: 11%
+chair: 75%
+diningtable: 45%
+diningtable: 27%
+chair: 11%
+chair: 75%
+chair: 33%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001363_21i79q_20150620_020010e.jpg: Predicted in 0.435000 seconds.
+tvmonitor: 76%
+person: 54%
+chair: 12%
+person: 22%
+person: 23%
+person: 31%
+person: 24%
+person: 27%
+person: 31%
+person: 49%
+person: 15%
+person: 21%
+person: 19%
+person: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001364_21i79q_20150620_020043e.jpg: Predicted in 0.430000 seconds.
+tvmonitor: 47%
+tvmonitor: 71%
+person: 42%
+person: 24%
+person: 33%
+person: 11%
+person: 19%
+person: 18%
+person: 26%
+person: 43%
+person: 40%
+person: 20%
+person: 42%
+person: 27%
+person: 41%
+person: 26%
+horse: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001365_21i79q_20150620_020127e.jpg: Predicted in 0.420000 seconds.
+tvmonitor: 14%
+tvmonitor: 47%
+tvmonitor: 42%
+person: 28%
+person: 26%
+person: 24%
+person: 14%
+cup: 17%
+diningtable: 18%
+person: 68%
+chair: 15%
+diningtable: 15%
+person: 36%
+chair: 27%
+person: 45%
+chair: 46%
+diningtable: 28%
+chair: 19%
+chair: 35%
+diningtable: 20%
+chair: 12%
+chair: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001366_21i79q_20150620_020219e.jpg: Predicted in 0.429000 seconds.
+tvmonitor: 51%
+tvmonitor: 10%
+bottle: 27%
+person: 11%
+bottle: 16%
+person: 30%
+person: 22%
+person: 36%
+cup: 33%
+diningtable: 28%
+person: 46%
+person: 16%
+person: 58%
+diningtable: 10%
+person: 74%
+diningtable: 16%
+diningtable: 31%
+chair: 11%
+chair: 71%
+diningtable: 47%
+chair: 23%
+diningtable: 19%
+chair: 11%
+chair: 63%
+chair: 28%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001367_21i79q_20150620_020308e.jpg: Predicted in 0.432000 seconds.
+tvmonitor: 58%
+tvmonitor: 10%
+person: 17%
+person: 10%
+person: 20%
+person: 29%
+person: 18%
+person: 10%
+person: 40%
+cup: 14%
+person: 16%
+person: 15%
+person: 72%
+person: 75%
+diningtable: 14%
+person: 71%
+diningtable: 10%
+diningtable: 29%
+diningtable: 11%
+chair: 58%
+chair: 12%
+diningtable: 12%
+diningtable: 11%
+diningtable: 29%
+chair: 15%
+chair: 17%
+chair: 20%
+chair: 66%
+chair: 30%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001368_21i79q_20150620_020425e.jpg: Predicted in 0.404000 seconds.
+tvmonitor: 62%
+tvmonitor: 38%
+person: 14%
+person: 53%
+person: 24%
+person: 30%
+person: 23%
+diningtable: 24%
+person: 23%
+person: 67%
+person: 41%
+diningtable: 18%
+person: 72%
+diningtable: 16%
+diningtable: 31%
+diningtable: 14%
+chair: 26%
+diningtable: 16%
+chair: 64%
+bowl: 16%
+chair: 18%
+chair: 17%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001369_21i79q_20150620_020532e.jpg: Predicted in 0.421000 seconds.
+tvmonitor: 62%
+person: 31%
+person: 16%
+person: 16%
+person: 78%
+person: 14%
+person: 18%
+person: 13%
+tvmonitor: 14%
+person: 74%
+bottle: 24%
+person: 10%
+person: 63%
+person: 25%
+cup: 11%
+sofa: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001370_21i79q_20150620_020604e.jpg: Predicted in 0.436000 seconds.
+tvmonitor: 62%
+person: 44%
+tvmonitor: 64%
+chair: 34%
+bottle: 15%
+person: 38%
+bottle: 22%
+wine glass: 10%
+sofa: 44%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001371_21i79q_20150620_020640e.jpg: Predicted in 0.430000 seconds.
+person: 14%
+tvmonitor: 72%
+person: 16%
+person: 89%
+person: 13%
+person: 16%
+person: 14%
+person: 63%
+person: 17%
+person: 30%
+sofa: 20%
+horse: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001372_21i79q_20150620_020718e.jpg: Predicted in 0.415000 seconds.
+person: 19%
+tvmonitor: 13%
+person: 11%
+person: 18%
+tvmonitor: 59%
+bottle: 14%
+bottle: 50%
+person: 62%
+person: 36%
+chair: 25%
+person: 14%
+chair: 24%
+person: 65%
+diningtable: 12%
+chair: 44%
+chair: 12%
+chair: 15%
+chair: 33%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001373_21i79q_20150620_020753e.jpg: Predicted in 0.417000 seconds.
+tvmonitor: 15%
+person: 42%
+person: 11%
+person: 16%
+person: 12%
+person: 79%
+person: 15%
+person: 15%
+cup: 42%
+cup: 17%
+person: 53%
+diningtable: 11%
+chair: 31%
+chair: 11%
+diningtable: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001374_21i79q_20150620_020830e.jpg: Predicted in 0.417000 seconds.
+person: 19%
+tvmonitor: 50%
+tvmonitor: 32%
+tvmonitor: 21%
+person: 48%
+person: 18%
+person: 86%
+person: 22%
+person: 13%
+person: 35%
+person: 42%
+person: 10%
+person: 15%
+person: 17%
+diningtable: 10%
+person: 61%
+diningtable: 11%
+diningtable: 12%
+person: 30%
+chair: 20%
+diningtable: 25%
+chair: 11%
+chair: 27%
+chair: 29%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001375_21i79q_20150620_020914e.jpg: Predicted in 0.431000 seconds.
+person: 16%
+tvmonitor: 66%
+person: 21%
+person: 46%
+person: 26%
+person: 13%
+person: 34%
+person: 48%
+person: 15%
+person: 42%
+diningtable: 10%
+person: 28%
+chair: 35%
+person: 39%
+person: 20%
+person: 35%
+chair: 14%
+diningtable: 19%
+chair: 19%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001376_21i79q_20150620_021006e.jpg: Predicted in 0.434000 seconds.
+tvmonitor: 56%
+person: 25%
+person: 44%
+person: 19%
+person: 33%
+person: 36%
+person: 44%
+person: 84%
+cup: 63%
+person: 15%
+diningtable: 42%
+chair: 19%
+diningtable: 12%
+chair: 12%
+diningtable: 25%
+chair: 68%
+diningtable: 11%
+chair: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001377_21i79q_20150620_021052e.jpg: Predicted in 0.411000 seconds.
+tvmonitor: 70%
+person: 15%
+tvmonitor: 29%
+person: 57%
+person: 90%
+cup: 32%
+person: 35%
+diningtable: 30%
+diningtable: 25%
+person: 11%
+diningtable: 15%
+diningtable: 23%
+chair: 75%
+chair: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001378_21i79q_20150620_021142e.jpg: Predicted in 0.436000 seconds.
+tvmonitor: 79%
+person: 85%
+person: 11%
+person: 14%
+person: 42%
+diningtable: 21%
+person: 16%
+diningtable: 37%
+diningtable: 14%
+chair: 55%
+chair: 39%
+chair: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001379_21i79q_20150620_021223e.jpg: Predicted in 0.416000 seconds.
+tvmonitor: 26%
+person: 12%
+person: 24%
+person: 22%
+person: 80%
+person: 10%
+person: 41%
+person: 35%
+person: 19%
+person: 58%
+person: 18%
+person: 22%
+diningtable: 10%
+person: 44%
+chair: 12%
+person: 12%
+diningtable: 26%
+diningtable: 33%
+diningtable: 19%
+chair: 75%
+chair: 23%
+diningtable: 22%
+chair: 10%
+diningtable: 21%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001380_21i79q_20150620_021304e.jpg: Predicted in 0.429000 seconds.
+tvmonitor: 78%
+person: 24%
+person: 83%
+person: 26%
+bottle: 15%
+person: 64%
+person: 47%
+cup: 17%
+person: 33%
+diningtable: 36%
+person: 10%
+diningtable: 22%
+chair: 13%
+diningtable: 12%
+person: 57%
+chair: 66%
+chair: 11%
+chair: 31%
+diningtable: 15%
+diningtable: 12%
+chair: 28%
+chair: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001381_21i79q_20150620_021334e.jpg: Predicted in 0.413000 seconds.
+person: 31%
+tvmonitor: 16%
+tvmonitor: 57%
+person: 39%
+person: 15%
+diningtable: 18%
+person: 66%
+chair: 55%
+person: 53%
+person: 84%
+diningtable: 16%
+chair: 19%
+chair: 27%
+chair: 11%
+chair: 46%
+chair: 41%
+chair: 24%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001382_21i79q_20150620_021411e.jpg: Predicted in 0.446000 seconds.
+tvmonitor: 66%
+handbag: 12%
+person: 48%
+person: 85%
+chair: 18%
+person: 77%
+chair: 44%
+person: 18%
+chair: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001383_21i79q_20150620_021443e.jpg: Predicted in 0.423000 seconds.
+person: 82%
+person: 28%
+cup: 62%
+cup: 20%
+cup: 36%
+person: 68%
+person: 37%
+diningtable: 18%
+chair: 63%
+chair: 23%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001384_21i79q_20150620_021516e.jpg: Predicted in 0.424000 seconds.
+person: 17%
+tvmonitor: 66%
+tvmonitor: 22%
+person: 81%
+person: 27%
+person: 22%
+person: 24%
+person: 53%
+person: 35%
+chair: 43%
+chair: 21%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001385_21i79q_20150620_021555e.jpg: Predicted in 0.428000 seconds.
+clock: 21%
+tvmonitor: 50%
+person: 21%
+person: 15%
+handbag: 26%
+person: 76%
+person: 72%
+person: 33%
+chair: 10%
+chair: 66%
+chair: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001386_21i79q_20150620_021637e.jpg: Predicted in 0.444000 seconds.
+person: 15%
+tvmonitor: 45%
+person: 19%
+person: 12%
+person: 84%
+person: 73%
+person: 78%
+tie: 11%
+chair: 12%
+chair: 13%
+chair: 24%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001387_21i79q_20150620_021724e.jpg: Predicted in 0.440000 seconds.
+traffic light: 25%
+car: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001388_21i79q_20150620_021834e.jpg: Predicted in 0.445000 seconds.
+car: 11%
+car: 19%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001389_21i79q_20150620_021908e.jpg: Predicted in 0.453000 seconds.
+tvmonitor: 17%
+person: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001390_21i79q_20150620_022019e.jpg: Predicted in 0.424000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001391_21i79q_20150620_022248e.jpg: Predicted in 0.431000 seconds.
+person: 41%
+pottedplant: 72%
+person: 87%
+person: 82%
+suitcase: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001392_21i79q_20150620_022332e.jpg: Predicted in 0.417000 seconds.
+person: 89%
+person: 85%
+tie: 59%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001393_21i79q_20150620_022405e.jpg: Predicted in 0.429000 seconds.
+person: 30%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001394_21i79q_20150620_022441e.jpg: Predicted in 0.416000 seconds.
+person: 13%
+person: 11%
+person: 77%
+person: 39%
+handbag: 15%
+suitcase: 47%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001395_21i79q_20150620_022519e.jpg: Predicted in 0.436000 seconds.
+person: 34%
+person: 69%
+chair: 14%
+person: 20%
+pottedplant: 25%
+chair: 22%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001396_21i79q_20150620_022551e.jpg: Predicted in 0.411000 seconds.
+person: 57%
+person: 72%
+microwave: 65%
+chair: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001397_21i79q_20150620_022625e.jpg: Predicted in 0.428000 seconds.
+person: 40%
+microwave: 67%
+person: 51%
+pottedplant: 28%
+handbag: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001398_21i79q_20150620_022705e.jpg: Predicted in 0.425000 seconds.
+person: 69%
+person: 10%
+microwave: 54%
+person: 15%
+person: 67%
+person: 12%
+microwave: 10%
+chair: 16%
+pottedplant: 11%
+person: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001399_21i79q_20150620_022746e.jpg: Predicted in 0.416000 seconds.
+refrigerator: 36%
+refrigerator: 29%
+person: 53%
+microwave: 68%
+chair: 16%
+sofa: 14%
+pottedplant: 19%
+chair: 21%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001400_21i79q_20150620_022819e.jpg: Predicted in 0.420000 seconds.
+microwave: 73%
+microwave: 17%
+handbag: 10%
+pottedplant: 35%
+chair: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001401_21i79q_20150620_022855e.jpg: Predicted in 0.429000 seconds.
+microwave: 72%
+microwave: 12%
+person: 11%
+person: 49%
+chair: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001402_21i79q_20150620_022927e.jpg: Predicted in 0.430000 seconds.
+tvmonitor: 19%
+microwave: 22%
+person: 65%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001403_21i79q_20150620_023004e.jpg: Predicted in 0.412000 seconds.
+microwave: 63%
+chair: 42%
+pottedplant: 30%
+chair: 31%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001404_21i79q_20150620_023040e.jpg: Predicted in 0.413000 seconds.
+pottedplant: 25%
+microwave: 12%
+microwave: 11%
+microwave: 65%
+chair: 11%
+chair: 30%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001405_21i79q_20150620_023120e.jpg: Predicted in 0.413000 seconds.
+microwave: 12%
+microwave: 59%
+pottedplant: 17%
+chair: 47%
+chair: 31%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001406_21i79q_20150620_023152e.jpg: Predicted in 0.422000 seconds.
+tvmonitor: 10%
+microwave: 55%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001407_21i79q_20150620_023228e.jpg: Predicted in 0.445000 seconds.
+refrigerator: 12%
+microwave: 59%
+chair: 37%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001408_21i79q_20150620_023303e.jpg: Predicted in 0.422000 seconds.
+microwave: 66%
+chair: 26%
+chair: 25%
+pottedplant: 23%
+chair: 37%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001409_21i79q_20150620_023342e.jpg: Predicted in 0.404000 seconds.
+microwave: 21%
+sink: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001410_21i79q_20150620_023420e.jpg: Predicted in 0.409000 seconds.
+microwave: 11%
+refrigerator: 13%
+microwave: 32%
+vase: 11%
+pottedplant: 27%
+chair: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001411_21i79q_20150620_023452e.jpg: Predicted in 0.407000 seconds.
+microwave: 69%
+pottedplant: 37%
+chair: 30%
+chair: 37%
+sink: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001412_21i79q_20150620_023528e.jpg: Predicted in 0.401000 seconds.
+cat: 76%
+person: 31%
+microwave: 44%
+chair: 50%
+pottedplant: 17%
+chair: 17%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001413_21i79q_20150620_023600e.jpg: Predicted in 0.410000 seconds.
+bird: 12%
+tvmonitor: 12%
+microwave: 74%
+chair: 48%
+chair: 15%
+chair: 10%
+diningtable: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001414_21i79q_20150620_023632e.jpg: Predicted in 0.412000 seconds.
+microwave: 68%
+chair: 32%
+refrigerator: 15%
+pottedplant: 12%
+chair: 45%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001415_21i79q_20150620_023713e.jpg: Predicted in 0.419000 seconds.
+microwave: 72%
+pottedplant: 13%
+chair: 28%
+sofa: 18%
+chair: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001416_21i79q_20150620_023742e.jpg: Predicted in 0.441000 seconds.
+microwave: 70%
+chair: 40%
+pottedplant: 13%
+chair: 41%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001417_21i79q_20150620_023823e.jpg: Predicted in 0.426000 seconds.
+refrigerator: 12%
+microwave: 55%
+chair: 44%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001418_21i79q_20150620_023856e.jpg: Predicted in 0.413000 seconds.
+microwave: 18%
+microwave: 57%
+pottedplant: 30%
+chair: 38%
+tvmonitor: 19%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001419_21i79q_20150620_023931e.jpg: Predicted in 0.410000 seconds.
+person: 72%
+tvmonitor: 28%
+microwave: 68%
+microwave: 26%
+person: 13%
+refrigerator: 19%
+chair: 38%
+chair: 22%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001420_21i79q_20150620_024012e.jpg: Predicted in 0.417000 seconds.
+microwave: 69%
+chair: 16%
+pottedplant: 16%
+chair: 51%
+chair: 14%
+diningtable: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001421_21i79q_20150620_024048e.jpg: Predicted in 0.414000 seconds.
+pottedplant: 33%
+bottle: 11%
+clock: 20%
+microwave: 52%
+chair: 25%
+chair: 43%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001422_21i79q_20150620_024119e.jpg: Predicted in 0.502000 seconds.
+microwave: 53%
+pottedplant: 39%
+tvmonitor: 28%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001423_21i79q_20150620_024159e.jpg: Predicted in 0.497000 seconds.
+person: 50%
+microwave: 27%
+person: 18%
+pottedplant: 33%
+chair: 38%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001424_21i79q_20150620_024237e.jpg: Predicted in 0.471000 seconds.
+tvmonitor: 11%
+person: 30%
+pottedplant: 20%
+chair: 21%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001425_21i79q_20150620_024307e.jpg: Predicted in 0.423000 seconds.
+person: 69%
+pottedplant: 26%
+microwave: 14%
+chair: 22%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001426_21i79q_20150620_024345e.jpg: Predicted in 0.423000 seconds.
+person: 76%
+pottedplant: 39%
+backpack: 28%
+backpack: 14%
+chair: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001427_21i79q_20150620_024418e.jpg: Predicted in 0.423000 seconds.
+person: 47%
+pottedplant: 25%
+chair: 12%
+chair: 36%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001428_21i79q_20150620_024450e.jpg: Predicted in 0.440000 seconds.
+person: 75%
+pottedplant: 29%
+chair: 29%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001429_21i79q_20150620_024523e.jpg: Predicted in 0.423000 seconds.
+person: 69%
+microwave: 15%
+pottedplant: 28%
+chair: 32%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001430_21i79q_20150620_024552e.jpg: Predicted in 0.424000 seconds.
+person: 66%
+pottedplant: 21%
+chair: 40%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001431_21i79q_20150620_024622e.jpg: Predicted in 0.453000 seconds.
+person: 76%
+pottedplant: 21%
+chair: 29%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001432_21i79q_20150620_024654e.jpg: Predicted in 0.428000 seconds.
+person: 73%
+sofa: 14%
+pottedplant: 34%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001433_21i79q_20150620_024726e.jpg: Predicted in 0.420000 seconds.
+person: 80%
+microwave: 28%
+pottedplant: 17%
+chair: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001434_21i79q_20150620_024810e.jpg: Predicted in 0.424000 seconds.
+microwave: 40%
+person: 81%
+sink: 32%
+pottedplant: 28%
+chair: 33%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001435_21i79q_20150620_024851e.jpg: Predicted in 0.413000 seconds.
+person: 54%
+person: 77%
+chair: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001436_21i79q_20150620_024922e.jpg: Predicted in 0.421000 seconds.
+person: 85%
+person: 49%
+microwave: 16%
+chair: 11%
+chair: 10%
+chair: 29%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001437_21i79q_20150620_024957e.jpg: Predicted in 0.447000 seconds.
+microwave: 24%
+person: 71%
+pottedplant: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001438_21i79q_20150620_025027e.jpg: Predicted in 0.436000 seconds.
+person: 82%
+chair: 18%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001439_21i79q_20150620_025057e.jpg: Predicted in 0.412000 seconds.
+person: 26%
+person: 76%
+chair: 32%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001440_21i79q_20150620_025131e.jpg: Predicted in 0.431000 seconds.
+person: 87%
+microwave: 11%
+microwave: 15%
+oven: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001441_21i79q_20150620_025201e.jpg: Predicted in 0.423000 seconds.
+person: 66%
+person: 25%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001442_21i79q_20150620_025232e.jpg: Predicted in 0.404000 seconds.
+person: 72%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001443_21i79q_20150620_025303e.jpg: Predicted in 0.409000 seconds.
+person: 87%
+microwave: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001444_21i79q_20150620_025333e.jpg: Predicted in 0.421000 seconds.
+person: 72%
+chair: 16%
+pottedplant: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001445_21i79q_20150620_025402e.jpg: Predicted in 0.413000 seconds.
+tvmonitor: 20%
+cat: 59%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001446_21i79q_20150620_025436e.jpg: Predicted in 0.427000 seconds.
+person: 46%
+person: 69%
+person: 45%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001447_21i79q_20150620_025515e.jpg: Predicted in 0.414000 seconds.
+person: 63%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001448_21i79q_20150620_025549e.jpg: Predicted in 0.409000 seconds.
+person: 79%
+oven: 13%
+pottedplant: 17%
+person: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001449_21i79q_20150620_025623e.jpg: Predicted in 0.397000 seconds.
+person: 68%
+person: 35%
+pottedplant: 18%
+chair: 29%
+oven: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001450_21i79q_20150620_025702e.jpg: Predicted in 0.419000 seconds.
+person: 70%
+remote: 39%
+person: 73%
+microwave: 12%
+microwave: 16%
+oven: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001451_21i79q_20150620_025733e.jpg: Predicted in 0.413000 seconds.
+microwave: 12%
+person: 81%
+person: 24%
+pottedplant: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001452_21i79q_20150620_025809e.jpg: Predicted in 0.419000 seconds.
+person: 28%
+pottedplant: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001453_21i79q_20150620_025848e.jpg: Predicted in 0.412000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001454_21i79q_20150620_025924e.jpg: Predicted in 0.420000 seconds.
+person: 49%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001455_21i79q_20150620_030000e.jpg: Predicted in 0.411000 seconds.
+tvmonitor: 11%
+laptop: 44%
+cup: 13%
+person: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001456_21i79q_20150620_030040e.jpg: Predicted in 0.411000 seconds.
+person: 32%
+pottedplant: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001457_21i79q_20150620_030120e.jpg: Predicted in 0.409000 seconds.
+umbrella: 16%
+cat: 37%
+refrigerator: 31%
+tvmonitor: 19%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001458_21i79q_20150620_030152e.jpg: Predicted in 0.410000 seconds.
+refrigerator: 11%
+pottedplant: 15%
+person: 53%
+person: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001459_21i79q_20150620_030228e.jpg: Predicted in 0.415000 seconds.
+tvmonitor: 28%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001460_21i79q_20150620_030300e.jpg: Predicted in 0.413000 seconds.
+microwave: 38%
+person: 68%
+pottedplant: 18%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001461_21i79q_20150620_030341e.jpg: Predicted in 0.473000 seconds.
+microwave: 11%
+microwave: 13%
+person: 50%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001462_21i79q_20150620_030418e.jpg: Predicted in 0.409000 seconds.
+tvmonitor: 17%
+person: 27%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001463_21i79q_20150620_030456e.jpg: Predicted in 0.427000 seconds.
+tvmonitor: 26%
+pottedplant: 15%
+person: 18%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001464_21i79q_20150620_030529e.jpg: Predicted in 0.440000 seconds.
+person: 68%
+pottedplant: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001465_21i79q_20150620_030606e.jpg: Predicted in 0.410000 seconds.
+refrigerator: 12%
+person: 35%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001466_21i79q_20150620_030640e.jpg: Predicted in 0.417000 seconds.
+person: 78%
+microwave: 22%
+microwave: 18%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001467_21i79q_20150620_030711e.jpg: Predicted in 0.453000 seconds.
+person: 80%
+pottedplant: 28%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001468_21i79q_20150620_030751e.jpg: Predicted in 0.418000 seconds.
+person: 44%
+person: 61%
+person: 10%
+cup: 40%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001469_21i79q_20150620_030838e.jpg: Predicted in 0.416000 seconds.
+person: 51%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001470_21i79q_20150620_030913e.jpg: Predicted in 0.425000 seconds.
+person: 71%
+pottedplant: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001471_21i79q_20150620_030949e.jpg: Predicted in 0.434000 seconds.
+pottedplant: 17%
+microwave: 41%
+person: 31%
+chair: 29%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001472_21i79q_20150620_031021e.jpg: Predicted in 0.428000 seconds.
+refrigerator: 14%
+person: 69%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001473_21i79q_20150620_031057e.jpg: Predicted in 0.411000 seconds.
+person: 85%
+person: 45%
+pottedplant: 12%
+chair: 31%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001474_21i79q_20150620_031137e.jpg: Predicted in 0.412000 seconds.
+person: 31%
+person: 44%
+microwave: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001475_21i79q_20150620_031209e.jpg: Predicted in 0.404000 seconds.
+microwave: 39%
+microwave: 15%
+person: 66%
+pottedplant: 27%
+chair: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001476_21i79q_20150620_031241e.jpg: Predicted in 0.453000 seconds.
+person: 93%
+person: 83%
+pottedplant: 18%
+sofa: 17%
+sofa: 17%
+sofa: 16%
+chair: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001477_21i79q_20150620_031321e.jpg: Predicted in 0.419000 seconds.
+umbrella: 13%
+person: 29%
+person: 66%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001478_21i79q_20150620_031359e.jpg: Predicted in 0.423000 seconds.
+person: 77%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001479_21i79q_20150620_031437e.jpg: Predicted in 0.414000 seconds.
+toothbrush: 21%
+toothbrush: 20%
+person: 71%
+oven: 11%
+chair: 10%
+oven: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001480_21i79q_20150620_031515e.jpg: Predicted in 0.421000 seconds.
+cat: 22%
+person: 93%
+refrigerator: 12%
+microwave: 21%
+microwave: 51%
+person: 74%
+chair: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001481_21i79q_20150620_031551e.jpg: Predicted in 0.414000 seconds.
+person: 20%
+person: 58%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001482_21i79q_20150620_031628e.jpg: Predicted in 0.434000 seconds.
+train: 27%
+bus: 11%
+person: 80%
+handbag: 14%
+bowl: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001483_21i79q_20150620_031700e.jpg: Predicted in 0.441000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001484_21i79q_20150620_031948e.jpg: Predicted in 0.457000 seconds.
+person: 31%
+dog: 48%
+laptop: 24%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001485_21i79q_20150620_032026e.jpg: Predicted in 0.447000 seconds.
+person: 43%
+microwave: 19%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001486_21i79q_20150620_032058e.jpg: Predicted in 0.415000 seconds.
+microwave: 27%
+person: 34%
+pottedplant: 22%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001487_21i79q_20150620_032135e.jpg: Predicted in 0.427000 seconds.
+person: 65%
+surfboard: 13%
+microwave: 48%
+person: 73%
+pottedplant: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001488_21i79q_20150620_032209e.jpg: Predicted in 0.421000 seconds.
+microwave: 18%
+microwave: 18%
+pottedplant: 46%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001489_21i79q_20150620_032249e.jpg: Predicted in 0.418000 seconds.
+microwave: 25%
+person: 68%
+pottedplant: 22%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001490_21i79q_20150620_032323e.jpg: Predicted in 0.514000 seconds.
+hair drier: 12%
+person: 39%
+person: 12%
+pottedplant: 23%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001491_21i79q_20150620_032403e.jpg: Predicted in 0.445000 seconds.
+tvmonitor: 23%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001492_21i79q_20150620_032516e.jpg: Predicted in 0.466000 seconds.
+pottedplant: 29%
+person: 23%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001493_21i79q_20150620_032554e.jpg: Predicted in 0.626000 seconds.
+microwave: 10%
+microwave: 40%
+microwave: 14%
+person: 64%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001494_21i79q_20150620_032628e.jpg: Predicted in 0.565000 seconds.
+pottedplant: 13%
+microwave: 13%
+person: 56%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001495_21i79q_20150620_032710e.jpg: Predicted in 0.452000 seconds.
+microwave: 12%
+person: 67%
+person: 14%
+vase: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001496_21i79q_20150620_032749e.jpg: Predicted in 0.476000 seconds.
+person: 59%
+microwave: 62%
+pottedplant: 39%
+person: 77%
+tvmonitor: 25%
+chair: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001497_21i79q_20150620_032821e.jpg: Predicted in 0.508000 seconds.
+pottedplant: 16%
+microwave: 23%
+microwave: 22%
+person: 60%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001498_21i79q_20150620_032904e.jpg: Predicted in 0.509000 seconds.
+person: 60%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001499_21i79q_20150620_032950e.jpg: Predicted in 0.510000 seconds.
+surfboard: 13%
+microwave: 44%
+person: 73%
+pottedplant: 27%
+sofa: 10%
+vase: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001500_21i79q_20150620_033032e.jpg: Predicted in 0.468000 seconds.
+microwave: 15%
+microwave: 39%
+person: 61%
+pottedplant: 28%
+chair: 18%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001501_21i79q_20150620_033106e.jpg: Predicted in 0.477000 seconds.
+person: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001502_21i79q_20150620_033147e.jpg: Predicted in 0.419000 seconds.
+person: 14%
+person: 24%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001503_21i79q_20150620_033228e.jpg: Predicted in 0.436000 seconds.
+chair: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001504_21i79q_20150620_033305e.jpg: Predicted in 0.424000 seconds.
+refrigerator: 10%
+person: 43%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001505_21i79q_20150620_033345e.jpg: Predicted in 0.429000 seconds.
+chair: 11%
+cat: 56%
+person: 65%
+person: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001506_21i79q_20150620_033423e.jpg: Predicted in 0.428000 seconds.
+cell phone: 15%
+microwave: 13%
+microwave: 45%
+person: 73%
+sofa: 12%
+pottedplant: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001507_21i79q_20150620_033501e.jpg: Predicted in 0.429000 seconds.
+chair: 15%
+person: 23%
+cat: 34%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001508_21i79q_20150620_033535e.jpg: Predicted in 0.459000 seconds.
+person: 76%
+person: 29%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001509_21i79q_20150620_033615e.jpg: Predicted in 0.432000 seconds.
+microwave: 18%
+microwave: 24%
+person: 28%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001510_21i79q_20150620_033651e.jpg: Predicted in 0.451000 seconds.
+person: 53%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001511_21i79q_20150620_033725e.jpg: Predicted in 0.446000 seconds.
+person: 71%
+microwave: 15%
+microwave: 15%
+person: 57%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001512_21i79q_20150620_033759e.jpg: Predicted in 0.442000 seconds.
+person: 77%
+microwave: 15%
+person: 42%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001513_21i79q_20150620_033829e.jpg: Predicted in 0.454000 seconds.
+person: 28%
+person: 34%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001514_21i79q_20150620_033859e.jpg: Predicted in 0.503000 seconds.
+microwave: 20%
+person: 39%
+pottedplant: 17%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001515_21i79q_20150620_033935e.jpg: Predicted in 0.437000 seconds.
+person: 75%
+microwave: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001516_21i79q_20150620_034005e.jpg: Predicted in 0.425000 seconds.
+person: 28%
+pottedplant: 17%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001517_21i79q_20150620_034039e.jpg: Predicted in 0.434000 seconds.
+aeroplane: 53%
+bed: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001518_21i79q_20150620_034115e.jpg: Predicted in 0.444000 seconds.
+aeroplane: 19%
+cat: 38%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001519_21i79q_20150620_034147e.jpg: Predicted in 0.428000 seconds.
+toilet: 11%
+cat: 15%
+person: 46%
+person: 42%
+person: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001520_21i79q_20150620_034223e.jpg: Predicted in 0.431000 seconds.
+tvmonitor: 23%
+person: 10%
+person: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001521_21i79q_20150620_034254e.jpg: Predicted in 0.416000 seconds.
+person: 78%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001522_21i79q_20150620_034332e.jpg: Predicted in 0.481000 seconds.
+refrigerator: 14%
+person: 39%
+microwave: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001523_21i79q_20150620_034407e.jpg: Predicted in 0.439000 seconds.
+person: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001524_21i79q_20150620_034443e.jpg: Predicted in 0.440000 seconds.
+microwave: 15%
+person: 39%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001525_21i79q_20150620_034516e.jpg: Predicted in 0.482000 seconds.
+person: 41%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001526_21i79q_20150620_034553e.jpg: Predicted in 0.486000 seconds.
+person: 31%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001527_21i79q_20150620_034630e.jpg: Predicted in 0.487000 seconds.
+person: 21%
+cat: 46%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001528_21i79q_20150620_034703e.jpg: Predicted in 0.493000 seconds.
+person: 10%
+person: 57%
+person: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001529_21i79q_20150620_034749e.jpg: Predicted in 0.477000 seconds.
+bottle: 20%
+microwave: 43%
+microwave: 27%
+pottedplant: 36%
+microwave: 11%
+person: 76%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001530_21i79q_20150620_034839e.jpg: Predicted in 0.460000 seconds.
+microwave: 52%
+microwave: 21%
+microwave: 21%
+vase: 14%
+pottedplant: 48%
+refrigerator: 56%
+vase: 16%
+person: 13%
+sofa: 10%
+chair: 31%
+person: 13%
+chair: 11%
+person: 48%
+bottle: 31%
+chair: 16%
+person: 41%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001531_21i79q_20150620_034924e.jpg: Predicted in 0.477000 seconds.
+pottedplant: 58%
+tvmonitor: 56%
+vase: 24%
+chair: 14%
+sofa: 20%
+bowl: 16%
+person: 40%
+chair: 25%
+cup: 47%
+person: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001532_21i79q_20150620_035002e.jpg: Predicted in 0.476000 seconds.
+bottle: 36%
+person: 58%
+person: 18%
+pottedplant: 23%
+microwave: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001533_21i79q_20150620_035038e.jpg: Predicted in 0.476000 seconds.
+person: 76%
+microwave: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001534_21i79q_20150620_035116e.jpg: Predicted in 0.484000 seconds.
+person: 74%
+microwave: 10%
+microwave: 29%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001535_21i79q_20150620_035148e.jpg: Predicted in 0.499000 seconds.
+person: 26%
+person: 29%
+person: 79%
+microwave: 25%
+microwave: 23%
+person: 15%
+pottedplant: 21%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001536_21i79q_20150620_035221e.jpg: Predicted in 0.505000 seconds.
+chair: 21%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001537_21i79q_20150620_035258e.jpg: Predicted in 0.496000 seconds.
+person: 54%
+pottedplant: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001538_21i79q_20150620_035335e.jpg: Predicted in 0.507000 seconds.
+cup: 28%
+wine glass: 11%
+person: 58%
+person: 81%
+person: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001539_21i79q_20150620_035412e.jpg: Predicted in 0.514000 seconds.
+chair: 14%
+vase: 16%
+pottedplant: 23%
+chair: 18%
+sofa: 12%
+vase: 15%
+vase: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001540_21i79q_20150620_035443e.jpg: Predicted in 0.515000 seconds.
+refrigerator: 12%
+person: 36%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001541_21i79q_20150620_035517e.jpg: Predicted in 0.486000 seconds.
+person: 56%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001542_21i79q_20150620_035552e.jpg: Predicted in 0.467000 seconds.
+person: 31%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001543_21i79q_20150620_035630e.jpg: Predicted in 0.486000 seconds.
+sink: 10%
+person: 37%
+person: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001544_21i79q_20150620_035711e.jpg: Predicted in 0.499000 seconds.
+person: 56%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001545_21i79q_20150620_035740e.jpg: Predicted in 0.480000 seconds.
+refrigerator: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001546_21i79q_20150620_035819e.jpg: Predicted in 0.482000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001547_21i79q_20150620_035859e.jpg: Predicted in 0.489000 seconds.
+person: 33%
+refrigerator: 24%
+person: 21%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001548_21i79q_20150620_035947e.jpg: Predicted in 0.504000 seconds.
+person: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001549_21i79q_20150620_040045e.jpg: Predicted in 0.490000 seconds.
+toilet: 49%
+oven: 13%
+person: 44%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001550_21i79q_20150620_040128e.jpg: Predicted in 0.498000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001551_21i79q_20150620_040221e.jpg: Predicted in 0.486000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001552_21i79q_20150620_040326e.jpg: Predicted in 0.496000 seconds.
+person: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001553_21i79q_20150620_040431e.jpg: Predicted in 0.488000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001554_21i79q_20150620_040536e.jpg: Predicted in 0.458000 seconds.
+cat: 11%
+bed: 53%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001555_21i79q_20150620_040619e.jpg: Predicted in 0.454000 seconds.
+refrigerator: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001556_21i79q_20150620_041010e.jpg: Predicted in 0.443000 seconds.
+person: 44%
+bottle: 17%
+bottle: 11%
+boat: 16%
+bottle: 14%
+chair: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001557_21i79q_20150620_041011e.jpg: Predicted in 0.432000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001558_21i79q_20150620_041011e.jpg: Predicted in 0.427000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001559_21i79q_20150620_041011e.jpg: Predicted in 0.428000 seconds.
+bench: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001560_21i79q_20150620_041011e.jpg: Predicted in 0.435000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001561_21i79q_20150620_041012e.jpg: Predicted in 0.447000 seconds.
+person: 23%
+person: 12%
+person: 21%
+chair: 13%
+chair: 16%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001562_21i79q_20150620_041012e.jpg: Predicted in 0.434000 seconds.
+person: 31%
+person: 17%
+person: 35%
+person: 18%
+person: 19%
+person: 22%
+person: 40%
+chair: 16%
+chair: 12%
+chair: 15%
+chair: 44%
+chair: 11%
+chair: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001563_21i79q_20150620_041012e.jpg: Predicted in 0.449000 seconds.
+person: 69%
+person: 22%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001564_21i79q_20150620_041012e.jpg: Predicted in 0.428000 seconds.
+pottedplant: 28%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001565_21i79q_20150620_041019e.jpg: Predicted in 0.438000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001566_21i79q_20150620_041057e.jpg: Predicted in 0.433000 seconds.
+person: 10%
+sofa: 19%
+pottedplant: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001567_21i79q_20150620_041129e.jpg: Predicted in 0.434000 seconds.
+microwave: 37%
+person: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001568_21i79q_20150620_041206e.jpg: Predicted in 0.434000 seconds.
+toilet: 14%
+person: 52%
+microwave: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001569_21i79q_20150620_041246e.jpg: Predicted in 0.556000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001570_21i79q_20150620_041325e.jpg: Predicted in 0.440000 seconds.
+toilet: 19%
+person: 30%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001571_21i79q_20150620_041400e.jpg: Predicted in 0.428000 seconds.
+toilet: 25%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001572_21i79q_20150620_041440e.jpg: Predicted in 0.434000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001573_21i79q_20150620_041514e.jpg: Predicted in 0.419000 seconds.
+person: 59%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001574_21i79q_20150620_041544e.jpg: Predicted in 0.429000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001575_21i79q_20150620_041614e.jpg: Predicted in 0.422000 seconds.
+toilet: 19%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001576_21i79q_20150620_041644e.jpg: Predicted in 0.473000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001577_21i79q_20150620_041724e.jpg: Predicted in 0.421000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001578_21i79q_20150620_041754e.jpg: Predicted in 0.436000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001579_21i79q_20150620_041828e.jpg: Predicted in 0.408000 seconds.
+sink: 14%
+person: 56%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001580_21i79q_20150620_041903e.jpg: Predicted in 0.434000 seconds.
+person: 10%
+vase: 27%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001581_21i79q_20150620_041934e.jpg: Predicted in 0.415000 seconds.
+vase: 14%
+person: 25%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001582_21i79q_20150620_042006e.jpg: Predicted in 0.433000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001583_21i79q_20150620_042039e.jpg: Predicted in 0.421000 seconds.
+refrigerator: 34%
+bottle: 14%
+microwave: 41%
+sink: 13%
+oven: 21%
+oven: 35%
+oven: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001584_21i79q_20150620_042113e.jpg: Predicted in 0.430000 seconds.
+person: 81%
+person: 31%
+bed: 60%
+remote: 18%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001585_21i79q_20150620_042147e.jpg: Predicted in 0.409000 seconds.
+vase: 11%
+pottedplant: 77%
+tvmonitor: 57%
+chair: 17%
+sofa: 36%
+vase: 15%
+vase: 28%
+cup: 12%
+sofa: 20%
+bowl: 25%
+person: 54%
+chair: 18%
+sofa: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001586_21i79q_20150620_042223e.jpg: Predicted in 0.427000 seconds.
+pottedplant: 63%
+bed: 72%
+vase: 28%
+person: 63%
+sofa: 11%
+bowl: 20%
+sofa: 28%
+cup: 50%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001587_21i79q_20150620_042259e.jpg: Predicted in 0.418000 seconds.
+remote: 16%
+person: 86%
+pottedplant: 50%
+person: 35%
+vase: 10%
+tvmonitor: 37%
+person: 12%
+person: 17%
+person: 36%
+sofa: 70%
+person: 34%
+sofa: 46%
+sports ball: 17%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001588_21i79q_20150620_042341e.jpg: Predicted in 0.423000 seconds.
+tie: 13%
+person: 83%
+person: 50%
+cell phone: 12%
+person: 13%
+person: 26%
+person: 73%
+sofa: 46%
+bed: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001589_21i79q_20150620_042422e.jpg: Predicted in 0.432000 seconds.
+cell phone: 11%
+laptop: 19%
+person: 13%
+person: 79%
+sofa: 66%
+person: 57%
+sofa: 12%
+sofa: 34%
+cup: 15%
+chair: 22%
+remote: 28%
+person: 41%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001590_21i79q_20150620_042458e.jpg: Predicted in 0.416000 seconds.
+person: 14%
+pottedplant: 51%
+sofa: 48%
+vase: 11%
+person: 68%
+sofa: 14%
+chair: 10%
+chair: 11%
+chair: 33%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001591_21i79q_20150620_042546e.jpg: Predicted in 0.430000 seconds.
+refrigerator: 18%
+person: 71%
+refrigerator: 48%
+tvmonitor: 60%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001592_21i79q_20150620_042649e.jpg: Predicted in 0.410000 seconds.
+refrigerator: 12%
+person: 73%
+pottedplant: 30%
+tvmonitor: 15%
+bed: 47%
+sofa: 38%
+vase: 38%
+pottedplant: 12%
+sofa: 36%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001593_21i79q_20150620_042756e.jpg: Predicted in 0.454000 seconds.
+person: 42%
+vase: 27%
+pottedplant: 50%
+tvmonitor: 43%
+bed: 16%
+sofa: 34%
+sofa: 28%
+toilet: 19%
+bed: 17%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001594_21i79q_20150620_042854e.jpg: Predicted in 0.433000 seconds.
+pottedplant: 42%
+refrigerator: 41%
+person: 10%
+vase: 24%
+bed: 44%
+sofa: 43%
+bed: 30%
+sofa: 52%
+sofa: 17%
+chair: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001595_21i79q_20150620_042943e.jpg: Predicted in 0.439000 seconds.
+pottedplant: 72%
+tvmonitor: 60%
+chair: 19%
+person: 12%
+vase: 26%
+vase: 30%
+bed: 59%
+bed: 21%
+sofa: 60%
+chair: 13%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001596_21i79q_20150620_043023e.jpg: Predicted in 0.442000 seconds.
+clock: 12%
+person: 15%
+pottedplant: 60%
+tvmonitor: 33%
+person: 10%
+sofa: 66%
+vase: 28%
+pottedplant: 26%
+person: 75%
+sofa: 10%
+chair: 13%
+chair: 31%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001597_21i79q_20150620_043054e.jpg: Predicted in 0.431000 seconds.
+person: 50%
+vase: 19%
+pottedplant: 49%
+tvmonitor: 74%
+bed: 27%
+vase: 13%
+vase: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001598_21i79q_20150620_043127e.jpg: Predicted in 0.446000 seconds.
+pottedplant: 39%
+vase: 24%
+tvmonitor: 82%
+sofa: 34%
+chair: 15%
+sofa: 13%
+person: 70%
+person: 81%
+remote: 10%
+chair: 29%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001599_21i79q_20150620_043208e.jpg: Predicted in 0.431000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001600_21i79q_20150620_043242e.jpg: Predicted in 0.439000 seconds.
+surfboard: 19%
+person: 21%
+pottedplant: 20%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001601_21i79q_20150620_043319e.jpg: Predicted in 0.413000 seconds.
+person: 14%
+person: 43%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001602_21i79q_20150620_043357e.jpg: Predicted in 0.448000 seconds.
+person: 76%
+bottle: 68%
+person: 43%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001603_21i79q_20150620_043444e.jpg: Predicted in 0.454000 seconds.
+toilet: 11%
+person: 32%
+person: 29%
+tie: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001604_21i79q_20150620_043532e.jpg: Predicted in 0.447000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001605_21i79q_20150620_043609e.jpg: Predicted in 0.437000 seconds.
+toilet: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001606_21i79q_20150620_043644e.jpg: Predicted in 0.455000 seconds.
+person: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001607_21i79q_20150620_043728e.jpg: Predicted in 0.439000 seconds.
+person: 12%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001608_21i79q_20150620_043801e.jpg: Predicted in 0.436000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001609_21i79q_20150620_043834e.jpg: Predicted in 0.435000 seconds.
+toothbrush: 11%
+bottle: 37%
+person: 21%
+person: 65%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001610_21i79q_20150620_043904e.jpg: Predicted in 0.446000 seconds.
+person: 34%
+person: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001611_21i79q_20150620_043941e.jpg: Predicted in 0.433000 seconds.
+person: 83%
+person: 38%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001612_21i79q_20150620_044019e.jpg: Predicted in 0.448000 seconds.
+person: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001613_21i79q_20150620_044059e.jpg: Predicted in 0.444000 seconds.
+tvmonitor: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001614_21i79q_20150620_044135e.jpg: Predicted in 0.433000 seconds.
+person: 18%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001615_21i79q_20150620_044215e.jpg: Predicted in 0.436000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001616_21i79q_20150620_044247e.jpg: Predicted in 0.435000 seconds.
+microwave: 17%
+person: 10%
+microwave: 13%
+person: 79%
+person: 78%
+person: 10%
+pottedplant: 44%
+refrigerator: 20%
+vase: 12%
+chair: 40%
+toilet: 38%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001617_21i79q_20150620_044506e.jpg: Predicted in 0.452000 seconds.
+pottedplant: 10%
+pottedplant: 22%
+person: 80%
+person: 35%
+person: 62%
+person: 12%
+person: 28%
+person: 21%
+chair: 23%
+chair: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001618_21i79q_20150620_044541e.jpg: Predicted in 0.446000 seconds.
+oven: 19%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001619_21i79q_20150620_044615e.jpg: Predicted in 0.435000 seconds.
+chair: 17%
+person: 76%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001620_21i79q_20150620_044650e.jpg: Predicted in 0.452000 seconds.
+refrigerator: 76%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001621_21i79q_20150620_044729e.jpg: Predicted in 0.424000 seconds.
+person: 82%
+bottle: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001622_21i79q_20150620_044810e.jpg: Predicted in 0.438000 seconds.
+person: 10%
+fire hydrant: 46%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001623_21i79q_20150620_044847e.jpg: Predicted in 0.426000 seconds.
+train: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001624_21i79q_20150620_044923e.jpg: Predicted in 0.420000 seconds.
+bench: 40%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001625_21i79q_20150620_045001e.jpg: Predicted in 0.427000 seconds.
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001626_21i79q_20150620_045040e.jpg: Predicted in 0.432000 seconds.
+person: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001627_21i79q_20150620_045117e.jpg: Predicted in 0.432000 seconds.
+fire hydrant: 13%
+person: 24%
+person: 51%
+bench: 15%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001628_21i79q_20150620_045150e.jpg: Predicted in 0.421000 seconds.
+person: 86%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001629_21i79q_20150620_045233e.jpg: Predicted in 0.431000 seconds.
+tvmonitor: 30%
+person: 66%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001630_21i79q_20150620_045309e.jpg: Predicted in 0.417000 seconds.
+refrigerator: 14%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001631_21i79q_20150620_045422e.jpg: Predicted in 0.425000 seconds.
+toilet: 10%
+person: 33%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001632_21i79q_20150620_045936e.jpg: Predicted in 0.425000 seconds.
+clock: 20%
+pottedplant: 76%
+microwave: 19%
+pottedplant: 60%
+pottedplant: 15%
+vase: 23%
+vase: 33%
+diningtable: 12%
+tvmonitor: 56%
+chair: 58%
+sofa: 24%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001633_21i79q_20150620_045936e.jpg: Predicted in 0.432000 seconds.
+pottedplant: 61%
+microwave: 16%
+pottedplant: 13%
+vase: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001634_21i79q_20150620_045936e.jpg: Predicted in 0.419000 seconds.
+pottedplant: 49%
+microwave: 22%
+pottedplant: 34%
+pottedplant: 23%
+vase: 17%
+vase: 10%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001635_21i79q_20150620_045937e.jpg: Predicted in 0.416000 seconds.
+pottedplant: 46%
+microwave: 36%
+pottedplant: 22%
+vase: 13%
+vase: 26%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001636_21i79q_20150620_045937e.jpg: Predicted in 0.407000 seconds.
+microwave: 41%
+pottedplant: 62%
+pottedplant: 39%
+vase: 10%
+vase: 15%
+vase: 15%
+vase: 23%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001637_21i79q_20150620_045937e.jpg: Predicted in 0.423000 seconds.
+pottedplant: 37%
+pottedplant: 26%
+vase: 21%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001638_21i79q_20150620_045938e.jpg: Predicted in 0.459000 seconds.
+pottedplant: 58%
+pottedplant: 14%
+vase: 41%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001639_21i79q_20150620_045939e.jpg: Predicted in 0.416000 seconds.
+microwave: 33%
+pottedplant: 71%
+pottedplant: 28%
+vase: 39%
+tvmonitor: 11%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001640_21i79q_20150620_045939e.jpg: Predicted in 0.425000 seconds.
+pottedplant: 65%
+pottedplant: 12%
+vase: 11%
+vase: 38%
+D:/NTCIR_Lifelog_formal_run_Dataset/NTCIR-Lifelog_formal_run_images/u3/2015-06-19_2015-06-20\2015-06-20\b00001641_21i79q_20150620_045947e.jpg: Predicted in 0.420000 seconds.
+cup: 17%
+pottedplant: 17%
+pottedplant: 55%
+cup: 33%
+chair: 19%
+chair: 12%
+tvmonitor: 28%
+book: 10%
+tvmonitor: 41%
+book: 28%
+laptop: 44%
+chair: 13%
+mouse: 37%

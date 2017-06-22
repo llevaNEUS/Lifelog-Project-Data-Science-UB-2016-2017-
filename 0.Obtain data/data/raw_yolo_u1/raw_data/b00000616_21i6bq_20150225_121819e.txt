@@ -1,0 +1,19 @@
+/home/nuria/TFP/images/u1/2015-02-25/b00000616_21i6bq_20150225_121819e.jpg: Predicted in 20.224232 seconds.
+person: 13%
+person: 24%
+chair: 16%
+cake: 11%
+sandwich: 14%
+donut: 13%
+bottle: 21%
+person: 38%
+person: 69%
+person: 84%
+cup: 16%
+bowl: 11%
+cake: 19%
+knife: 14%
+person: 18%
+person: 72%
+diningtable: 29%
+person: 91%

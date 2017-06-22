@@ -1,0 +1,20 @@
+/home/nuria/TFP/images/u1/2015-03-15/b00000777_21i6bq_20150315_151249e.jpg: Predicted in 15.589766 seconds.
+bowl: 22%
+book: 17%
+pizza: 25%
+bottle: 18%
+book: 16%
+bottle: 24%
+book: 21%
+bottle: 20%
+book: 14%
+book: 16%
+bottle: 13%
+bottle: 11%
+pizza: 19%
+book: 24%
+book: 34%
+handbag: 27%
+handbag: 34%
+person: 86%
+refrigerator: 12%

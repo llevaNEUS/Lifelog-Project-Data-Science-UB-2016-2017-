@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-18/b00000648_21i6bq_20150318_150051e.jpg: Predicted in 23.396666 seconds.
+orange: 24%
+apple: 26%
+orange: 11%
+mouse: 49%
+umbrella: 11%
+person: 23%
+person: 30%
+diningtable: 37%

@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-02-27/b00001088_21i6bq_20150227_191859e.jpg: Predicted in 22.391399 seconds.
+traffic light: 11%
+knife: 26%
+backpack: 26%
+person: 25%
+person: 81%
+handbag: 24%
+person: 81%

@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-02-24/b00001303_21i6bq_20150224_195612e.jpg: Predicted in 27.530836 seconds.
+chair: 62%
+car: 39%
+person: 84%

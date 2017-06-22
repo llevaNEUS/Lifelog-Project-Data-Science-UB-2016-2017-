@@ -1,0 +1,24 @@
+/home/nuria/TFP/images/u1/2015-02-25/b00001113_21i6bq_20150225_173558e.jpg: Predicted in 25.224804 seconds.
+book: 14%
+cup: 43%
+book: 13%
+remote: 11%
+person: 22%
+person: 13%
+person: 11%
+person: 15%
+handbag: 20%
+laptop: 52%
+handbag: 16%
+book: 12%
+book: 11%
+laptop: 11%
+laptop: 12%
+chair: 14%
+tvmonitor: 83%
+person: 62%
+person: 56%
+person: 60%
+person: 11%
+person: 62%
+diningtable: 26%

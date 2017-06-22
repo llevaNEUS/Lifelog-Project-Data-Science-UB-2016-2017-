@@ -1,0 +1,2 @@
+/home/nuria/TFP/images/u1/2015-03-10/b00000336_21i6bq_20150310_162853e.jpg: Predicted in 27.842999 seconds.
+elephant: 59%

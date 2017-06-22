@@ -1,0 +1,3 @@
+/home/nuria/TFP/images/u1/2015-03-12/b00001151_21i6bq_20150312_201012e.jpg: Predicted in 26.621017 seconds.
+bird: 15%
+microwave: 40%

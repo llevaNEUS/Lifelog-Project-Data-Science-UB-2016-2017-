@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-02-28/b00001317_21i6bq_20150228_211759e.jpg: Predicted in 16.409725 seconds.
+mouse: 13%
+pottedplant: 10%
+keyboard: 16%
+laptop: 66%
+sofa: 42%

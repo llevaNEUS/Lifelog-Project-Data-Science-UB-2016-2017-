@@ -1,0 +1,15 @@
+/home/nuria/TFP/images/u1/2015-03-16/b00002544_21i6bq_20150316_170542e.jpg: Predicted in 16.445011 seconds.
+suitcase: 27%
+backpack: 30%
+person: 28%
+cell phone: 24%
+person: 24%
+chair: 11%
+person: 25%
+person: 33%
+person: 46%
+backpack: 37%
+person: 76%
+train: 52%
+person: 71%
+person: 26%

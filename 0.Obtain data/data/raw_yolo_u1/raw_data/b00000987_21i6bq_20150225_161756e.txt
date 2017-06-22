@@ -1,0 +1,19 @@
+/home/nuria/TFP/images/u1/2015-02-25/b00000987_21i6bq_20150225_161756e.jpg: Predicted in 25.936222 seconds.
+person: 27%
+person: 24%
+wine glass: 15%
+person: 17%
+sink: 11%
+cup: 49%
+knife: 38%
+knife: 14%
+broccoli: 16%
+cup: 22%
+knife: 15%
+pizza: 22%
+person: 58%
+cup: 71%
+pizza: 37%
+pizza: 69%
+person: 88%
+diningtable: 59%

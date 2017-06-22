@@ -1,0 +1,15 @@
+/home/nuria/TFP/images/u1/2015-03-08/b00001105_21i6bq_20150308_211429e.jpg: Predicted in 21.929756 seconds.
+bottle: 30%
+cup: 20%
+book: 10%
+cup: 20%
+cup: 16%
+book: 12%
+book: 37%
+cell phone: 51%
+toothbrush: 18%
+cell phone: 14%
+sofa: 30%
+tvmonitor: 86%
+person: 18%
+person: 83%

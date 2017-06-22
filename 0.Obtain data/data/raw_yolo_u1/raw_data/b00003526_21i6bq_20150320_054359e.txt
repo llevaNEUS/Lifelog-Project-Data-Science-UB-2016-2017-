@@ -1,0 +1,16 @@
+/home/nuria/TFP/images/u1/2015-03-20/b00003526_21i6bq_20150320_054359e.jpg: Predicted in 19.099895 seconds.
+pottedplant: 24%
+pottedplant: 10%
+pottedplant: 38%
+pottedplant: 23%
+pottedplant: 25%
+pottedplant: 27%
+pottedplant: 14%
+pottedplant: 31%
+bench: 26%
+pottedplant: 16%
+pottedplant: 72%
+pottedplant: 56%
+pottedplant: 28%
+pottedplant: 19%
+bench: 15%

@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-14/b00000067_21i6bq_20150314_064550e.jpg: Predicted in 14.145338 seconds.
+knife: 11%
+traffic light: 20%
+book: 15%
+remote: 36%
+remote: 29%
+cat: 21%
+sofa: 38%

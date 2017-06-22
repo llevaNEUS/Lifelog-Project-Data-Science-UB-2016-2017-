@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-03-11/b00001123_21i6bq_20150311_185433e.jpg: Predicted in 25.237440 seconds.
+cup: 19%
+wine glass: 28%
+aeroplane: 50%

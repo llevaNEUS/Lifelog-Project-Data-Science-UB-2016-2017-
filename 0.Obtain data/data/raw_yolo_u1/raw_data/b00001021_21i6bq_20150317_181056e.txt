@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-17/b00001021_21i6bq_20150317_181056e.jpg: Predicted in 16.970490 seconds.
+bottle: 13%
+person: 13%
+tvmonitor: 13%
+parking meter: 23%
+person: 88%

@@ -1,0 +1,22 @@
+/home/nuria/TFP/images/u1/2015-02-25/b00000997_21i6bq_20150225_162400e.jpg: Predicted in 27.434431 seconds.
+fork: 10%
+bottle: 18%
+chair: 17%
+cell phone: 22%
+pizza: 54%
+person: 76%
+chair: 41%
+fork: 16%
+fork: 13%
+chair: 20%
+pizza: 13%
+chair: 10%
+chair: 41%
+knife: 17%
+knife: 26%
+pizza: 77%
+pizza: 36%
+pizza: 23%
+person: 93%
+person: 88%
+diningtable: 27%

@@ -1,0 +1,11 @@
+/home/nuria/TFP/images/u1/2015-03-17/b00000861_21i6bq_20150317_164230e.jpg: Predicted in 29.768003 seconds.
+handbag: 17%
+tie: 12%
+tie: 49%
+remote: 27%
+person: 16%
+tie: 18%
+person: 78%
+bottle: 34%
+person: 84%
+person: 74%

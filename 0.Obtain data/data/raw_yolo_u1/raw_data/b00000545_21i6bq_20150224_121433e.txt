@@ -1,0 +1,16 @@
+/home/nuria/TFP/images/u1/2015-02-24/b00000545_21i6bq_20150224_121433e.jpg: Predicted in 25.531288 seconds.
+donut: 16%
+donut: 17%
+donut: 21%
+tvmonitor: 42%
+carrot: 18%
+person: 18%
+laptop: 26%
+cup: 74%
+keyboard: 31%
+chair: 53%
+person: 57%
+person: 50%
+laptop: 82%
+tvmonitor: 91%
+diningtable: 15%

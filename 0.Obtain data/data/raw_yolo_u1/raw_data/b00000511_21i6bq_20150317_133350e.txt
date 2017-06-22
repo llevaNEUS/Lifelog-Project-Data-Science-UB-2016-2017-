@@ -1,0 +1,23 @@
+/home/nuria/TFP/images/u1/2015-03-17/b00000511_21i6bq_20150317_133350e.jpg: Predicted in 26.357269 seconds.
+person: 16%
+person: 11%
+cell phone: 10%
+person: 12%
+person: 11%
+person: 10%
+person: 15%
+cell phone: 12%
+person: 32%
+person: 31%
+person: 33%
+person: 31%
+person: 10%
+tvmonitor: 40%
+person: 21%
+person: 21%
+person: 14%
+person: 41%
+person: 67%
+keyboard: 18%
+diningtable: 35%
+person: 80%

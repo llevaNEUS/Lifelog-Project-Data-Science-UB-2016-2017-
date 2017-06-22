@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-01/b00000022_21i6bq_20150301_072048e.jpg: Predicted in 25.144257 seconds.
+bowl: 35%
+remote: 14%
+wine glass: 22%
+remote: 56%

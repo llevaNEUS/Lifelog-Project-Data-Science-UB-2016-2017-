@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-11/b00001142_21i6bq_20150311_192427e.jpg: Predicted in 25.692810 seconds.
+person: 16%
+mouse: 18%
+person: 14%
+sink: 33%
+person: 62%
+aeroplane: 19%
+bed: 12%

@@ -1,0 +1,13 @@
+/home/nuria/TFP/images/u1/2015-03-19/b00001843_21i6bq_20150319_095600e.jpg: Predicted in 17.271685 seconds.
+person: 15%
+person: 11%
+person: 20%
+bottle: 13%
+person: 20%
+person: 50%
+person: 16%
+person: 13%
+motorbike: 13%
+person: 29%
+person: 16%
+person: 50%

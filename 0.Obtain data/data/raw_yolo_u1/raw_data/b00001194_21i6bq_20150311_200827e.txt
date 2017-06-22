@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-11/b00001194_21i6bq_20150311_200827e.jpg: Predicted in 25.437021 seconds.
+bottle: 17%
+sink: 12%
+person: 20%
+diningtable: 64%

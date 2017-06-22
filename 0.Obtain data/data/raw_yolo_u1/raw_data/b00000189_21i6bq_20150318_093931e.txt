@@ -1,0 +1,12 @@
+/home/nuria/TFP/images/u1/2015-03-18/b00000189_21i6bq_20150318_093931e.jpg: Predicted in 25.261456 seconds.
+book: 24%
+book: 24%
+book: 15%
+knife: 12%
+book: 12%
+book: 17%
+toothbrush: 16%
+bed: 11%
+tvmonitor: 70%
+refrigerator: 27%
+laptop: 80%

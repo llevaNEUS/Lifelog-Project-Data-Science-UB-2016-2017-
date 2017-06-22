@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00000448_21i6bq_20150226_111334e.jpg: Predicted in 25.034901 seconds.
+tie: 25%
+bottle: 12%
+bottle: 11%
+cup: 10%
+knife: 11%
+bottle: 10%
+person: 81%
+tvmonitor: 45%

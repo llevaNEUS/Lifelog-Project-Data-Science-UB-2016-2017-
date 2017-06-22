@@ -1,0 +1,19 @@
+/home/nuria/TFP/images/u1/2015-03-09/b00000002_21i6bq_20150309_064740e.jpg: Predicted in 27.435980 seconds.
+remote: 10%
+remote: 20%
+remote: 31%
+apple: 55%
+mouse: 15%
+clock: 30%
+bottle: 15%
+backpack: 28%
+laptop: 29%
+keyboard: 32%
+book: 22%
+remote: 22%
+book: 36%
+book: 22%
+sofa: 13%
+sofa: 69%
+person: 41%
+tvmonitor: 88%

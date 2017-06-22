@@ -1,0 +1,12 @@
+/home/nuria/TFP/images/u1/2015-03-05/b00000497_21i6bq_20150305_113354e.jpg: Predicted in 14.129228 seconds.
+person: 55%
+person: 33%
+cake: 14%
+cake: 13%
+person: 62%
+donut: 17%
+cake: 16%
+cake: 24%
+cake: 25%
+person: 25%
+diningtable: 25%

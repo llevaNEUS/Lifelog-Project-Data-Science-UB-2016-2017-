@@ -1,0 +1,19 @@
+/home/nuria/TFP/images/u1/2015-03-13/b00000478_21i6bq_20150313_102626e.jpg: Predicted in 14.391986 seconds.
+tvmonitor: 18%
+sink: 15%
+cell phone: 11%
+mouse: 10%
+mouse: 17%
+pottedplant: 62%
+person: 78%
+tvmonitor: 34%
+sink: 35%
+sink: 10%
+laptop: 15%
+tvmonitor: 52%
+chair: 26%
+laptop: 14%
+laptop: 43%
+laptop: 12%
+pottedplant: 13%
+chair: 46%

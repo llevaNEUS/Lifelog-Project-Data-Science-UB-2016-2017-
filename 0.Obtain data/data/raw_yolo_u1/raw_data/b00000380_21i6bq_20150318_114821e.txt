@@ -1,0 +1,16 @@
+/home/nuria/TFP/images/u1/2015-03-18/b00000380_21i6bq_20150318_114821e.jpg: Predicted in 20.372572 seconds.
+cell phone: 13%
+tie: 14%
+tie: 15%
+bottle: 12%
+bottle: 17%
+knife: 18%
+knife: 10%
+knife: 10%
+person: 57%
+knife: 16%
+laptop: 59%
+laptop: 28%
+person: 84%
+person: 92%
+sofa: 37%

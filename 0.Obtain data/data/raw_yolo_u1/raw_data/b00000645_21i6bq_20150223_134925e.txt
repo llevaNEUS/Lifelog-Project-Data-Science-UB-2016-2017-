@@ -1,0 +1,11 @@
+/home/nuria/TFP/images/u1/2015-02-23/b00000645_21i6bq_20150223_134925e.jpg: Predicted in 26.086000 seconds.
+cake: 42%
+cake: 16%
+sandwich: 29%
+spoon: 37%
+spoon: 33%
+pizza: 45%
+spoon: 28%
+bowl: 16%
+person: 13%
+oven: 24%

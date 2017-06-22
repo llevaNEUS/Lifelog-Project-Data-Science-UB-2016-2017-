@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-09/b00000357_21i6bq_20150309_103533e.jpg: Predicted in 24.321501 seconds.
+book: 11%
+bottle: 20%
+cake: 31%
+bottle: 65%
+spoon: 12%
+cake: 43%
+cup: 42%
+person: 28%

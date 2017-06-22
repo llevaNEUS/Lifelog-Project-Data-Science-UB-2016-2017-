@@ -1,0 +1,37 @@
+/home/nuria/TFP/images/u1/2015-02-25/b00000611_21i6bq_20150225_121511e.jpg: Predicted in 23.664225 seconds.
+bottle: 19%
+bottle: 18%
+bottle: 26%
+bottle: 20%
+bowl: 20%
+bottle: 22%
+bottle: 10%
+bottle: 22%
+bottle: 12%
+bottle: 14%
+knife: 20%
+knife: 16%
+tvmonitor: 35%
+bowl: 12%
+person: 66%
+oven: 44%
+bowl: 24%
+cup: 12%
+bowl: 24%
+cup: 13%
+knife: 28%
+sandwich: 24%
+cell phone: 16%
+cup: 22%
+cup: 62%
+donut: 20%
+donut: 15%
+donut: 27%
+donut: 52%
+donut: 13%
+sandwich: 13%
+oven: 33%
+pizza: 52%
+diningtable: 13%
+person: 84%
+diningtable: 29%

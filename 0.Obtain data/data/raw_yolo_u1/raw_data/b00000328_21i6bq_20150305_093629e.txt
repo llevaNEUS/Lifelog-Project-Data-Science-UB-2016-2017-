@@ -1,0 +1,11 @@
+/home/nuria/TFP/images/u1/2015-03-05/b00000328_21i6bq_20150305_093629e.jpg: Predicted in 27.789385 seconds.
+bottle: 36%
+bottle: 31%
+tvmonitor: 13%
+tvmonitor: 11%
+bottle: 57%
+keyboard: 14%
+tvmonitor: 19%
+person: 75%
+laptop: 65%
+refrigerator: 24%

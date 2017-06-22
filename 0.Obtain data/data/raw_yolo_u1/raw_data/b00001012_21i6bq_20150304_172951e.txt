@@ -1,0 +1,24 @@
+/home/nuria/TFP/images/u1/2015-03-04/b00001012_21i6bq_20150304_172951e.jpg: Predicted in 25.054167 seconds.
+person: 31%
+person: 21%
+bottle: 13%
+bottle: 11%
+car: 19%
+person: 14%
+bottle: 23%
+bottle: 10%
+broccoli: 10%
+stop sign: 20%
+person: 36%
+bottle: 11%
+cup: 50%
+person: 27%
+bowl: 34%
+broccoli: 26%
+broccoli: 27%
+spoon: 13%
+bowl: 49%
+broccoli: 29%
+bowl: 24%
+person: 83%
+diningtable: 52%

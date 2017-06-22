@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-03-08/b00000904_21i6bq_20150308_191651e.jpg: Predicted in 22.680506 seconds.
+person: 29%
+tvmonitor: 59%
+cat: 12%

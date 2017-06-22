@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-02-27/b00000442_21i6bq_20150227_115048e.jpg: Predicted in 32.981041 seconds.
+skateboard: 25%
+laptop: 10%
+bowl: 23%

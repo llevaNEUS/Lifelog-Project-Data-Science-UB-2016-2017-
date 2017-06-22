@@ -1,0 +1,17 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00000748_21i6bq_20150226_141721e.jpg: Predicted in 28.786329 seconds.
+person: 13%
+cup: 78%
+person: 15%
+pizza: 25%
+carrot: 11%
+carrot: 16%
+fork: 11%
+fork: 19%
+person: 13%
+person: 72%
+person: 63%
+pizza: 18%
+bowl: 69%
+carrot: 14%
+fork: 11%
+diningtable: 27%

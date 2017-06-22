@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-02-28/b00000182_21i6bq_20150228_074450e.jpg: Predicted in 23.271011 seconds.
+cup: 24%
+cup: 12%
+cup: 11%
+clock: 38%
+book: 12%
+microwave: 11%
+microwave: 12%
+tvmonitor: 41%

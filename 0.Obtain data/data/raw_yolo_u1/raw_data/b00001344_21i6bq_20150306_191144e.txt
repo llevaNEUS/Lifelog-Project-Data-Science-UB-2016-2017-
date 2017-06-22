@@ -1,0 +1,10 @@
+/home/nuria/TFP/images/u1/2015-03-06/b00001344_21i6bq_20150306_191144e.jpg: Predicted in 24.117189 seconds.
+car: 11%
+car: 20%
+chair: 15%
+chair: 42%
+chair: 24%
+tennis racket: 45%
+chair: 25%
+bicycle: 17%
+car: 20%

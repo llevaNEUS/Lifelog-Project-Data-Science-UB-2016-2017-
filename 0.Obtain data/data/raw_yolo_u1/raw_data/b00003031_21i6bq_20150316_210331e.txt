@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-16/b00003031_21i6bq_20150316_210331e.jpg: Predicted in 19.053749 seconds.
+boat: 14%
+boat: 35%
+boat: 14%
+boat: 34%
+boat: 33%

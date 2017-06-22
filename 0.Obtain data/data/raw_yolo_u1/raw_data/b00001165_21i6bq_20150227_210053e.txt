@@ -1,0 +1,11 @@
+/home/nuria/TFP/images/u1/2015-02-27/b00001165_21i6bq_20150227_210053e.jpg: Predicted in 16.724150 seconds.
+bowl: 17%
+bowl: 11%
+spoon: 12%
+bowl: 15%
+bowl: 11%
+person: 64%
+sink: 15%
+person: 49%
+person: 16%
+toilet: 36%

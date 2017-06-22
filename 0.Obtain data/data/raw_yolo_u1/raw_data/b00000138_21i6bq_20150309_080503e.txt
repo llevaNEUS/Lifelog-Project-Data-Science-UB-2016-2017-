@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-09/b00000138_21i6bq_20150309_080503e.jpg: Predicted in 24.114561 seconds.
+aeroplane: 69%
+person: 40%
+person: 11%
+cell phone: 15%

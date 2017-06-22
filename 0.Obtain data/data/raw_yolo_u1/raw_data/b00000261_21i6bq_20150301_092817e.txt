@@ -1,0 +1,17 @@
+/home/nuria/TFP/images/u1/2015-03-01/b00000261_21i6bq_20150301_092817e.jpg: Predicted in 29.319420 seconds.
+person: 22%
+person: 20%
+pottedplant: 40%
+bottle: 21%
+vase: 18%
+bottle: 20%
+cup: 17%
+bottle: 23%
+bottle: 13%
+person: 12%
+person: 20%
+pottedplant: 10%
+person: 16%
+pottedplant: 18%
+bottle: 16%
+diningtable: 26%

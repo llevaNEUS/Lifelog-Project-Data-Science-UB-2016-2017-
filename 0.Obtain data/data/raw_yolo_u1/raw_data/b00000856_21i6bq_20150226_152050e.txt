@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00000856_21i6bq_20150226_152050e.jpg: Predicted in 26.757532 seconds.
+toothbrush: 18%
+person: 73%
+cell phone: 15%
+laptop: 68%
+person: 60%

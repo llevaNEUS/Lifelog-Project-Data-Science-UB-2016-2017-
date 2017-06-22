@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-15/b00000760_21i6bq_20150315_150249e.jpg: Predicted in 23.715321 seconds.
+car: 32%
+pottedplant: 33%
+pottedplant: 30%
+car: 87%
+pottedplant: 14%
+tie: 74%
+handbag: 50%
+person: 82%

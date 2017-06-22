@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-02-24/b00001332_21i6bq_20150224_201323e.jpg: Predicted in 20.371231 seconds.
+sofa: 13%
+laptop: 42%
+toilet: 13%

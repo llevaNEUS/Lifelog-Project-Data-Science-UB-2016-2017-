@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-02-25/b00000783_21i6bq_20150225_135853e.jpg: Predicted in 17.024576 seconds.
+motorbike: 12%
+tie: 61%
+person: 35%
+person: 44%
+bicycle: 33%
+bicycle: 20%
+person: 88%

@@ -1,0 +1,25 @@
+/home/nuria/TFP/images/u1/2015-03-08/b00000791_21i6bq_20150308_173225e.jpg: Predicted in 16.840607 seconds.
+knife: 20%
+toothbrush: 15%
+knife: 17%
+spoon: 32%
+spoon: 18%
+spoon: 26%
+spoon: 12%
+bottle: 26%
+bottle: 23%
+bottle: 67%
+bowl: 41%
+cup: 33%
+cup: 55%
+cup: 68%
+bottle: 16%
+bowl: 21%
+knife: 14%
+cup: 47%
+wine glass: 13%
+cup: 33%
+cup: 31%
+cup: 52%
+bottle: 52%
+oven: 20%

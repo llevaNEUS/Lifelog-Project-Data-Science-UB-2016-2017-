@@ -1,0 +1,2 @@
+/home/nuria/TFP/images/u1/2015-03-11/b00001347_21i6bq_20150311_222154e.jpg: Predicted in 25.255024 seconds.
+bear: 30%

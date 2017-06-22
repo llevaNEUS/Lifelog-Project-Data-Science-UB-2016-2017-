@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-02/b00000734_21i6bq_20150302_145444e.jpg: Predicted in 21.338133 seconds.
+boat: 11%
+chair: 25%
+diningtable: 10%
+backpack: 43%
+refrigerator: 14%
+chair: 67%
+person: 17%

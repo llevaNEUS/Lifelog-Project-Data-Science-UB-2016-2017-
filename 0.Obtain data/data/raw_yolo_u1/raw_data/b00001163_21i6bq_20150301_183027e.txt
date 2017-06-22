@@ -1,0 +1,2 @@
+/home/nuria/TFP/images/u1/2015-03-01/b00001163_21i6bq_20150301_183027e.jpg: Predicted in 25.502413 seconds.
+parking meter: 44%

@@ -1,0 +1,28 @@
+/home/nuria/TFP/images/u1/2015-03-06/b00001311_21i6bq_20150306_184923e.jpg: Predicted in 25.729935 seconds.
+person: 11%
+person: 12%
+bottle: 17%
+person: 23%
+remote: 21%
+person: 23%
+person: 25%
+person: 11%
+person: 15%
+person: 29%
+person: 41%
+person: 27%
+person: 11%
+cup: 13%
+diningtable: 11%
+cell phone: 11%
+handbag: 23%
+person: 69%
+person: 18%
+person: 27%
+person: 12%
+person: 12%
+bus: 12%
+person: 20%
+person: 28%
+person: 45%
+person: 27%

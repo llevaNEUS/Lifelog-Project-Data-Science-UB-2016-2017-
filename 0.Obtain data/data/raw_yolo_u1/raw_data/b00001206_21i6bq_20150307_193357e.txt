@@ -1,0 +1,20 @@
+/home/nuria/TFP/images/u1/2015-03-07/b00001206_21i6bq_20150307_193357e.jpg: Predicted in 23.911509 seconds.
+person: 22%
+person: 35%
+tvmonitor: 13%
+person: 41%
+person: 23%
+person: 11%
+broccoli: 46%
+laptop: 35%
+diningtable: 29%
+chair: 37%
+chair: 54%
+chair: 14%
+diningtable: 17%
+chair: 16%
+person: 22%
+person: 14%
+broccoli: 17%
+diningtable: 11%
+cat: 26%

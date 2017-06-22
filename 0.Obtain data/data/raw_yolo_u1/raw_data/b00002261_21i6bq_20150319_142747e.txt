@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-19/b00002261_21i6bq_20150319_142747e.jpg: Predicted in 32.135956 seconds.
+book: 13%
+person: 53%
+book: 18%
+cell phone: 32%
+parking meter: 31%
+person: 13%

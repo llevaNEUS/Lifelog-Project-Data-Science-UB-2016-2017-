@@ -1,0 +1,23 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00000601_21i6bq_20150226_124458e.jpg: Predicted in 27.866116 seconds.
+pottedplant: 10%
+vase: 24%
+vase: 13%
+person: 29%
+keyboard: 11%
+mouse: 17%
+mouse: 13%
+mouse: 37%
+mouse: 24%
+pottedplant: 48%
+pottedplant: 39%
+pottedplant: 19%
+pottedplant: 68%
+chair: 31%
+tvmonitor: 11%
+mouse: 35%
+keyboard: 35%
+tvmonitor: 82%
+refrigerator: 78%
+tvmonitor: 87%
+sofa: 35%
+person: 92%

@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-03-09/b00001083_21i6bq_20150309_182049e.jpg: Predicted in 24.679359 seconds.
+snowboard: 14%
+chair: 28%
+cup: 16%

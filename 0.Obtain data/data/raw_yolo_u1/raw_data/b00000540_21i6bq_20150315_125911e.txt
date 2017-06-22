@@ -1,0 +1,23 @@
+/home/nuria/TFP/images/u1/2015-03-15/b00000540_21i6bq_20150315_125911e.jpg: Predicted in 15.471850 seconds.
+book: 24%
+book: 11%
+book: 20%
+book: 32%
+book: 24%
+cup: 12%
+person: 10%
+book: 25%
+book: 15%
+book: 34%
+book: 44%
+book: 48%
+book: 26%
+tvmonitor: 12%
+remote: 13%
+remote: 33%
+book: 14%
+cup: 42%
+book: 25%
+cell phone: 56%
+microwave: 15%
+tvmonitor: 57%

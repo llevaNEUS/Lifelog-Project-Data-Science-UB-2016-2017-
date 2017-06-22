@@ -1,0 +1,15 @@
+/home/nuria/TFP/images/u1/2015-03-08/b00000445_21i6bq_20150308_123156e.jpg: Predicted in 18.627527 seconds.
+person: 10%
+handbag: 11%
+handbag: 18%
+handbag: 22%
+handbag: 10%
+person: 18%
+person: 15%
+person: 46%
+person: 66%
+person: 58%
+person: 83%
+person: 82%
+person: 25%
+bus: 40%

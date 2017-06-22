@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00001373_21i6bq_20150226_222326e.jpg: Predicted in 29.654747 seconds.
+person: 66%
+cell phone: 72%
+person: 77%
+person: 11%
+person: 38%

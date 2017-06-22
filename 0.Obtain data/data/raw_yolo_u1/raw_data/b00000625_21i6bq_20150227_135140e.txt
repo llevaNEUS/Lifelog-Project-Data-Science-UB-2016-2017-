@@ -1,0 +1,14 @@
+/home/nuria/TFP/images/u1/2015-02-27/b00000625_21i6bq_20150227_135140e.jpg: Predicted in 29.605963 seconds.
+knife: 15%
+cup: 48%
+cup: 21%
+bottle: 12%
+cup: 38%
+sandwich: 10%
+fork: 66%
+vase: 61%
+sandwich: 31%
+person: 78%
+sandwich: 49%
+person: 87%
+diningtable: 24%

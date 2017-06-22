@@ -1,0 +1,21 @@
+/home/nuria/TFP/images/u1/2015-03-15/b00000708_21i6bq_20150315_143511e.jpg: Predicted in 15.512845 seconds.
+pottedplant: 33%
+bottle: 14%
+bottle: 17%
+vase: 39%
+book: 15%
+book: 37%
+book: 32%
+remote: 60%
+remote: 26%
+remote: 12%
+remote: 12%
+book: 10%
+book: 13%
+book: 13%
+book: 12%
+book: 46%
+remote: 18%
+sofa: 11%
+diningtable: 15%
+sofa: 60%

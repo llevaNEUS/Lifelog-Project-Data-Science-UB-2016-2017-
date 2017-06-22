@@ -1,0 +1,14 @@
+/home/nuria/TFP/images/u1/2015-02-28/b00000554_21i6bq_20150228_113355e.jpg: Predicted in 26.793495 seconds.
+cake: 22%
+cake: 17%
+cake: 10%
+frisbee: 72%
+person: 69%
+bottle: 41%
+bottle: 51%
+bottle: 53%
+person: 47%
+parking meter: 10%
+laptop: 53%
+person: 25%
+refrigerator: 13%

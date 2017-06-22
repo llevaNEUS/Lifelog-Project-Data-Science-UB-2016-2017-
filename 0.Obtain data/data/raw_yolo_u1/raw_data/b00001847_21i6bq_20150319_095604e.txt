@@ -1,0 +1,11 @@
+/home/nuria/TFP/images/u1/2015-03-19/b00001847_21i6bq_20150319_095604e.jpg: Predicted in 19.562742 seconds.
+person: 28%
+scissors: 10%
+knife: 42%
+person: 75%
+cup: 52%
+cup: 13%
+knife: 33%
+person: 80%
+person: 16%
+person: 81%

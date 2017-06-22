@@ -1,0 +1,10 @@
+/home/nuria/TFP/images/u1/2015-03-15/b00000005_21i6bq_20150315_075113e.jpg: Predicted in 14.190421 seconds.
+knife: 19%
+cup: 44%
+cup: 17%
+cell phone: 15%
+knife: 33%
+keyboard: 27%
+bowl: 66%
+bottle: 22%
+bowl: 14%

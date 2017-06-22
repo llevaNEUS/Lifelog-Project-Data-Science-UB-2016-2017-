@@ -1,0 +1,20 @@
+/home/nuria/TFP/images/u1/2015-03-07/b00000452_21i6bq_20150307_113251e.jpg: Predicted in 27.015884 seconds.
+chair: 13%
+chair: 12%
+chair: 12%
+pottedplant: 15%
+bowl: 33%
+tvmonitor: 11%
+bottle: 11%
+chair: 10%
+chair: 19%
+chair: 10%
+chair: 21%
+pottedplant: 20%
+chair: 40%
+diningtable: 27%
+chair: 45%
+chair: 18%
+cup: 19%
+tvmonitor: 44%
+bus: 17%

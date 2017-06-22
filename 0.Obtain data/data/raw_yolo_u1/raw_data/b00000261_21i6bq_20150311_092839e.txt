@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-11/b00000261_21i6bq_20150311_092839e.jpg: Predicted in 26.915560 seconds.
+traffic light: 34%
+cup: 87%
+cup: 31%
+person: 70%
+person: 16%
+laptop: 89%
+person: 16%

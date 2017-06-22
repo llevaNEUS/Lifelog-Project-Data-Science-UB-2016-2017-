@@ -1,0 +1,19 @@
+/home/nuria/TFP/images/u1/2015-03-06/b00001144_21i6bq_20150306_170408e.jpg: Predicted in 28.969402 seconds.
+pottedplant: 11%
+person: 15%
+diningtable: 11%
+diningtable: 38%
+person: 34%
+diningtable: 27%
+chair: 11%
+chair: 11%
+diningtable: 17%
+chair: 16%
+person: 79%
+chair: 28%
+diningtable: 37%
+chair: 73%
+chair: 56%
+chair: 33%
+chair: 54%
+chair: 82%

@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-01/b00000410_21i6bq_20150301_110009e.jpg: Predicted in 15.853591 seconds.
+knife: 19%
+carrot: 12%
+person: 26%
+diningtable: 14%
+person: 13%
+book: 49%

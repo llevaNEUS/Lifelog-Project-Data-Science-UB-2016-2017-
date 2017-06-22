@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-02-24/b00000572_21i6bq_20150224_123111e.jpg: Predicted in 26.586000 seconds.
+sports ball: 12%
+car: 14%
+toilet: 13%
+person: 15%
+handbag: 17%

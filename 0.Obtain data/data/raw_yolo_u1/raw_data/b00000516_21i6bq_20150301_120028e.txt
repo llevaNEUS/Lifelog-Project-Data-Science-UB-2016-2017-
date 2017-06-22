@@ -1,0 +1,31 @@
+/home/nuria/TFP/images/u1/2015-03-01/b00000516_21i6bq_20150301_120028e.jpg: Predicted in 28.196115 seconds.
+book: 31%
+book: 16%
+book: 31%
+book: 10%
+book: 29%
+book: 16%
+book: 28%
+book: 21%
+book: 16%
+book: 18%
+wine glass: 17%
+wine glass: 16%
+chair: 15%
+wine glass: 10%
+vase: 19%
+book: 13%
+book: 13%
+book: 12%
+chair: 21%
+chair: 49%
+chair: 35%
+chair: 62%
+wine glass: 31%
+chair: 63%
+chair: 32%
+chair: 31%
+vase: 16%
+person: 83%
+pottedplant: 52%
+diningtable: 87%

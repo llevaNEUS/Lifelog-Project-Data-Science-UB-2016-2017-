@@ -1,0 +1,12 @@
+/home/nuria/TFP/images/u1/2015-02-25/b00000317_21i6bq_20150225_091605e.jpg: Predicted in 24.941011 seconds.
+person: 14%
+person: 13%
+book: 12%
+person: 76%
+knife: 20%
+book: 19%
+cell phone: 21%
+person: 75%
+person: 86%
+surfboard: 34%
+diningtable: 40%

@@ -1,0 +1,28 @@
+/home/nuria/TFP/images/u1/2015-03-07/b00000550_21i6bq_20150307_120121e.jpg: Predicted in 25.870636 seconds.
+wine glass: 10%
+vase: 21%
+vase: 12%
+vase: 10%
+vase: 11%
+bowl: 13%
+bowl: 10%
+bowl: 18%
+chair: 15%
+bowl: 12%
+bowl: 13%
+bowl: 14%
+bowl: 13%
+chair: 38%
+chair: 50%
+chair: 13%
+chair: 16%
+chair: 16%
+bowl: 10%
+bowl: 22%
+diningtable: 30%
+chair: 63%
+chair: 59%
+chair: 70%
+diningtable: 65%
+chair: 64%
+diningtable: 73%

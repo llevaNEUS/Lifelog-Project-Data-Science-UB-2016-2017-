@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-04/b00001045_21i6bq_20150304_175208e.jpg: Predicted in 26.249895 seconds.
+person: 61%
+person: 64%
+hair drier: 17%
+bottle: 35%
+person: 25%
+laptop: 79%

@@ -1,0 +1,17 @@
+/home/nuria/TFP/images/u1/2015-03-15/b00001116_21i6bq_20150315_183202e.jpg: Predicted in 15.635419 seconds.
+backpack: 13%
+tie: 17%
+car: 12%
+car: 25%
+car: 43%
+car: 34%
+car: 59%
+car: 22%
+car: 10%
+car: 88%
+car: 77%
+truck: 44%
+car: 87%
+person: 77%
+car: 12%
+car: 23%

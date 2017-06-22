@@ -1,0 +1,21 @@
+/home/nuria/TFP/images/u1/2015-03-15/b00001269_21i6bq_20150315_195027e.jpg: Predicted in 14.144635 seconds.
+person: 13%
+person: 29%
+person: 49%
+person: 33%
+person: 39%
+surfboard: 22%
+person: 13%
+person: 32%
+person: 55%
+person: 48%
+person: 68%
+bench: 12%
+bench: 12%
+person: 28%
+bench: 33%
+person: 78%
+person: 18%
+bench: 43%
+bench: 34%
+bench: 11%

@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-15/b00000327_21i6bq_20150315_104942e.jpg: Predicted in 15.505180 seconds.
+scissors: 52%
+person: 36%
+scissors: 16%
+person: 24%
+person: 66%
+person: 11%
+diningtable: 39%

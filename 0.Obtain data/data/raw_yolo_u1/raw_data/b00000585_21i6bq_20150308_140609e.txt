@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-08/b00000585_21i6bq_20150308_140609e.jpg: Predicted in 14.520316 seconds.
+person: 19%
+dog: 70%
+person: 27%
+oven: 45%
+microwave: 16%
+person: 66%

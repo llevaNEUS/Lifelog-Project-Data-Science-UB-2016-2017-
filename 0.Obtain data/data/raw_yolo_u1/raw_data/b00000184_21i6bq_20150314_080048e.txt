@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-14/b00000184_21i6bq_20150314_080048e.jpg: Predicted in 14.134121 seconds.
+banana: 24%
+car: 12%
+person: 78%
+cup: 11%

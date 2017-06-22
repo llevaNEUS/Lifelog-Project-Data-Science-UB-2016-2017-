@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-19/b00001868_21i6bq_20150319_100651e.jpg: Predicted in 15.492802 seconds.
+person: 45%
+microwave: 12%
+motorbike: 59%
+parking meter: 13%

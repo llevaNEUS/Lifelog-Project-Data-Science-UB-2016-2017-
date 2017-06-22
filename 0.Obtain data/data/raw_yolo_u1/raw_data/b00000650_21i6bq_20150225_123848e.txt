@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-02-25/b00000650_21i6bq_20150225_123848e.jpg: Predicted in 27.108269 seconds.
+spoon: 10%
+cup: 66%
+cell phone: 42%
+tvmonitor: 58%
+keyboard: 11%
+laptop: 90%
+person: 84%

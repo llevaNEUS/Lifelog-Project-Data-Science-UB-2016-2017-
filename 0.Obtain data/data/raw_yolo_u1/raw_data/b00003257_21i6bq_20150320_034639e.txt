@@ -1,0 +1,16 @@
+/home/nuria/TFP/images/u1/2015-03-20/b00003257_21i6bq_20150320_034639e.jpg: Predicted in 23.628778 seconds.
+traffic light: 20%
+tvmonitor: 67%
+person: 16%
+person: 14%
+person: 17%
+person: 20%
+handbag: 33%
+handbag: 16%
+chair: 11%
+traffic light: 44%
+person: 62%
+person: 78%
+suitcase: 42%
+person: 79%
+chair: 59%

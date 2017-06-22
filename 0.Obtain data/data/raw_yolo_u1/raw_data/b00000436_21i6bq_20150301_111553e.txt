@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-01/b00000436_21i6bq_20150301_111553e.jpg: Predicted in 17.673723 seconds.
+snowboard: 15%
+book: 27%
+keyboard: 11%
+scissors: 25%

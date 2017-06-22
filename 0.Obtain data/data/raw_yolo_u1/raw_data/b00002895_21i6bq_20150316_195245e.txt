@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-16/b00002895_21i6bq_20150316_195245e.jpg: Predicted in 19.781221 seconds.
+car: 30%
+person: 35%
+wine glass: 37%
+person: 71%

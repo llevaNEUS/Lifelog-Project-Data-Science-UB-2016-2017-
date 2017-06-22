@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-02/b00000093_21i6bq_20150302_073300e.jpg: Predicted in 17.550892 seconds.
+snowboard: 35%
+mouse: 25%
+cell phone: 19%
+keyboard: 12%
+person: 17%

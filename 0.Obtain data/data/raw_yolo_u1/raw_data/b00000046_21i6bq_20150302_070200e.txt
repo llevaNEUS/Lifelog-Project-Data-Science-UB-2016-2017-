@@ -1,0 +1,17 @@
+/home/nuria/TFP/images/u1/2015-03-02/b00000046_21i6bq_20150302_070200e.jpg: Predicted in 26.614599 seconds.
+book: 11%
+book: 12%
+bottle: 24%
+book: 21%
+cup: 79%
+book: 12%
+bowl: 47%
+apple: 65%
+donut: 57%
+spoon: 25%
+donut: 55%
+donut: 80%
+bowl: 83%
+tvmonitor: 80%
+person: 63%
+diningtable: 71%

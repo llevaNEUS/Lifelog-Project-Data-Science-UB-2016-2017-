@@ -1,0 +1,33 @@
+/home/nuria/TFP/images/u1/2015-02-28/b00000950_21i6bq_20150228_155600e.jpg: Predicted in 29.362587 seconds.
+clock: 21%
+cell phone: 11%
+car: 28%
+person: 54%
+person: 14%
+bicycle: 18%
+bicycle: 16%
+bicycle: 21%
+bicycle: 24%
+bicycle: 19%
+bicycle: 16%
+bicycle: 47%
+bicycle: 24%
+bicycle: 22%
+bicycle: 15%
+cup: 24%
+car: 40%
+person: 27%
+person: 72%
+bicycle: 14%
+bicycle: 45%
+bicycle: 49%
+bicycle: 48%
+bicycle: 60%
+bicycle: 21%
+diningtable: 12%
+chair: 15%
+diningtable: 68%
+chair: 56%
+diningtable: 13%
+person: 83%
+person: 82%

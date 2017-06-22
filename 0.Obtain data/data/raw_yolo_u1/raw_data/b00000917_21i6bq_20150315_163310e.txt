@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-15/b00000917_21i6bq_20150315_163310e.jpg: Predicted in 14.110023 seconds.
+kite: 17%
+sports ball: 11%
+person: 25%
+person: 20%
+person: 40%
+chair: 13%

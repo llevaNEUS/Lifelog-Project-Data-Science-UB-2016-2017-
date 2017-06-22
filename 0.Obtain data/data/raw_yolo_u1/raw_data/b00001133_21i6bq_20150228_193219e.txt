@@ -1,0 +1,3 @@
+/home/nuria/TFP/images/u1/2015-02-28/b00001133_21i6bq_20150228_193219e.jpg: Predicted in 26.483747 seconds.
+cup: 49%
+microwave: 14%

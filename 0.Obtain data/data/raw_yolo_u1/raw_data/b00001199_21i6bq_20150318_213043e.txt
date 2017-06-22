@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-18/b00001199_21i6bq_20150318_213043e.jpg: Predicted in 27.516481 seconds.
+remote: 23%
+handbag: 11%
+backpack: 15%
+remote: 14%
+person: 69%

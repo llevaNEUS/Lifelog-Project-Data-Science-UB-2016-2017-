@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-03-14/b00001422_21i6bq_20150314_215736e.jpg: Predicted in 24.040468 seconds.
+chair: 12%
+bird: 39%
+toilet: 14%

@@ -1,0 +1,11 @@
+/home/nuria/TFP/images/u1/2015-03-10/b00001549_21i6bq_20150310_064714e.jpg: Predicted in 24.629543 seconds.
+teddy bear: 28%
+bottle: 32%
+cup: 44%
+book: 20%
+orange: 29%
+orange: 36%
+cup: 26%
+bottle: 51%
+diningtable: 57%
+person: 61%

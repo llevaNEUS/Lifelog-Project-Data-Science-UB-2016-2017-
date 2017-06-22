@@ -1,0 +1,14 @@
+/home/nuria/TFP/images/u1/2015-03-11/b00001137_21i6bq_20150311_192048e.jpg: Predicted in 29.214251 seconds.
+person: 12%
+person: 17%
+person: 11%
+donut: 16%
+carrot: 11%
+person: 16%
+person: 13%
+person: 35%
+umbrella: 20%
+umbrella: 12%
+vase: 19%
+vase: 11%
+person: 35%

@@ -1,0 +1,29 @@
+/home/nuria/TFP/images/u1/2015-03-08/b00000017_21i6bq_20150308_080831e.jpg: Predicted in 21.765043 seconds.
+cup: 11%
+chair: 14%
+tvmonitor: 14%
+cell phone: 18%
+banana: 13%
+donut: 12%
+donut: 13%
+pottedplant: 48%
+cup: 16%
+cup: 11%
+cup: 18%
+cup: 37%
+chair: 29%
+sandwich: 17%
+carrot: 29%
+donut: 15%
+orange: 13%
+cup: 29%
+chair: 25%
+fork: 14%
+donut: 13%
+donut: 13%
+person: 19%
+carrot: 22%
+bowl: 11%
+person: 75%
+person: 24%
+diningtable: 70%

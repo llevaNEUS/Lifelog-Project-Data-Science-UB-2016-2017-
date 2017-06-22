@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-14/b00000571_21i6bq_20150314_115123e.jpg: Predicted in 14.316705 seconds.
+pottedplant: 26%
+pottedplant: 12%
+pottedplant: 46%
+pottedplant: 69%
+pottedplant: 79%
+car: 79%
+stop sign: 11%

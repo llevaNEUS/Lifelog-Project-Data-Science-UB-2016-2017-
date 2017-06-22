@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-11/b00000708_21i6bq_20150311_140448e.jpg: Predicted in 26.625521 seconds.
+remote: 18%
+banana: 25%
+person: 60%
+cell phone: 12%
+person: 23%
+person: 40%
+bowl: 14%

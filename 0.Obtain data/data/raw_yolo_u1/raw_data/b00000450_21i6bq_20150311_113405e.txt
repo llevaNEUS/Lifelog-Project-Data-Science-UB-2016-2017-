@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-11/b00000450_21i6bq_20150311_113405e.jpg: Predicted in 30.736006 seconds.
+sports ball: 30%
+cup: 13%
+person: 59%
+laptop: 25%
+person: 22%
+person: 38%
+person: 17%

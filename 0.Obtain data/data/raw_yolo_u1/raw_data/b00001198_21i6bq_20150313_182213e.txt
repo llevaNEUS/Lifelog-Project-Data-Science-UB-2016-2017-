@@ -1,0 +1,11 @@
+/home/nuria/TFP/images/u1/2015-03-13/b00001198_21i6bq_20150313_182213e.jpg: Predicted in 14.356666 seconds.
+book: 12%
+book: 11%
+remote: 30%
+person: 17%
+book: 14%
+person: 84%
+refrigerator: 29%
+knife: 29%
+chair: 11%
+suitcase: 13%

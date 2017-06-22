@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-17/b00000349_21i6bq_20150317_115443e.jpg: Predicted in 22.608801 seconds.
+sports ball: 20%
+remote: 11%
+person: 73%
+person: 12%
+aeroplane: 34%

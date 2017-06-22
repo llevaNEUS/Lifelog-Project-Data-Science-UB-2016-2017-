@@ -1,0 +1,15 @@
+/home/nuria/TFP/images/u1/2015-02-25/b00000780_21i6bq_20150225_135711e.jpg: Predicted in 19.541365 seconds.
+car: 13%
+car: 12%
+diningtable: 14%
+tvmonitor: 13%
+tie: 10%
+tie: 20%
+car: 39%
+car: 28%
+car: 34%
+diningtable: 15%
+diningtable: 31%
+person: 33%
+person: 81%
+person: 89%

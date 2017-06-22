@@ -1,0 +1,21 @@
+/home/nuria/TFP/images/u1/2015-03-04/b00000958_21i6bq_20150304_165518e.jpg: Predicted in 29.005598 seconds.
+broccoli: 14%
+broccoli: 11%
+broccoli: 16%
+broccoli: 12%
+person: 74%
+cup: 12%
+broccoli: 15%
+broccoli: 21%
+broccoli: 14%
+broccoli: 25%
+carrot: 12%
+broccoli: 30%
+broccoli: 27%
+bowl: 24%
+person: 24%
+person: 39%
+bowl: 26%
+person: 64%
+person: 71%
+diningtable: 42%

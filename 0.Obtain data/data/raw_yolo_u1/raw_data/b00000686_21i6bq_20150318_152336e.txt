@@ -1,0 +1,12 @@
+/home/nuria/TFP/images/u1/2015-03-18/b00000686_21i6bq_20150318_152336e.jpg: Predicted in 16.878637 seconds.
+knife: 17%
+tie: 12%
+remote: 12%
+clock: 14%
+cup: 10%
+bottle: 18%
+person: 30%
+bottle: 36%
+backpack: 14%
+person: 75%
+laptop: 15%

@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-06/b00000622_21i6bq_20150306_115812e.jpg: Predicted in 27.576591 seconds.
+tie: 87%
+person: 30%
+book: 14%
+person: 79%
+person: 37%
+diningtable: 49%
