@@ -1,12 +1,15 @@
 # Lifelog Project  
-## Postgraduate in Data Science and Big Data (UB 2016-2017)
-Project for study and prediction of human activities related to lifelog data because of our postgraduate in Data Science and Big Data in Universitat de Barcelona during course 2016-2017 developed by:
+## Postgraduate course in Data Science and Big Data (UB 2016-2017)
+### Advancing the the state-of-the-art research in lifelogging as an application of information retrieval
+Project to study and predict human activities related to lifelog data within the scope of the postgraduate course in Data Science and Big Data at Universitat de Barcelona (2016-2017) developed by:
 
 * Manuel Forcales 
 * Aleix Llenas
 * Núria Pujol
 * Aneta Marcinkowska
 * Albert Comellas
+
+Supervised by Dr. Petia Radeva.
 
  ## Introduction and main objectives
 
