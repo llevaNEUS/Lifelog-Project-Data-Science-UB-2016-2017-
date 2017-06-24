@@ -1,0 +1,10 @@
+/home/nuria/TFP/images/u1/2015-03-17/b00000901_21i6bq_20150317_170740e.jpg: Predicted in 25.141373 seconds.
+sports ball: 46%
+remote: 10%
+person: 35%
+tvmonitor: 20%
+person: 58%
+tvmonitor: 12%
+sofa: 64%
+pottedplant: 39%
+person: 84%

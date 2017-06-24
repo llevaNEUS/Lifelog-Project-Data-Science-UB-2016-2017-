@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00000073_21i6bq_20150226_064749e.jpg: Predicted in 17.735136 seconds.
+cup: 30%
+clock: 31%
+book: 13%
+chair: 11%
+chair: 17%
+clock: 14%
+tvmonitor: 90%

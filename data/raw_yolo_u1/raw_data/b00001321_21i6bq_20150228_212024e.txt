@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-02-28/b00001321_21i6bq_20150228_212024e.jpg: Predicted in 27.488785 seconds.
+tvmonitor: 23%
+remote: 15%
+chair: 11%
+book: 15%
+keyboard: 12%
+bed: 14%
+person: 39%
+bed: 61%

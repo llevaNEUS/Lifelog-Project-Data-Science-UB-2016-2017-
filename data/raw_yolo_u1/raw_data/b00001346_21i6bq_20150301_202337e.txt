@@ -1,0 +1,3 @@
+/home/nuria/TFP/images/u1/2015-03-01/b00001346_21i6bq_20150301_202337e.jpg: Predicted in 18.117237 seconds.
+person: 14%
+refrigerator: 16%

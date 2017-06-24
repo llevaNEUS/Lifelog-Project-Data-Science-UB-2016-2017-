@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-19/b00001459_21i6bq_20150319_055155e.jpg: Predicted in 21.649628 seconds.
+person: 11%
+cup: 21%
+book: 18%
+person: 31%
+person: 24%
+tvmonitor: 77%
+diningtable: 21%

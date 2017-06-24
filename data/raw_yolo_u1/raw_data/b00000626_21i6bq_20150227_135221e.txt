@@ -1,0 +1,20 @@
+/home/nuria/TFP/images/u1/2015-02-27/b00000626_21i6bq_20150227_135221e.jpg: Predicted in 17.675331 seconds.
+person: 35%
+cup: 26%
+person: 11%
+person: 36%
+cup: 63%
+cup: 16%
+sandwich: 45%
+sandwich: 22%
+carrot: 16%
+broccoli: 44%
+broccoli: 15%
+broccoli: 43%
+person: 68%
+person: 28%
+person: 63%
+vase: 46%
+cup: 11%
+person: 75%
+diningtable: 60%

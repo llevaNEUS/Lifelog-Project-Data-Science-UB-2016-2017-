@@ -1,0 +1,2 @@
+/home/nuria/TFP/images/u1/2015-02-24/b00001219_21i6bq_20150224_190350e.jpg: Predicted in 21.988588 seconds.
+horse: 14%

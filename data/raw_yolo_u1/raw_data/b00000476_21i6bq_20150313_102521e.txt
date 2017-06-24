@@ -1,0 +1,10 @@
+/home/nuria/TFP/images/u1/2015-03-13/b00000476_21i6bq_20150313_102521e.jpg: Predicted in 14.336789 seconds.
+tvmonitor: 20%
+bottle: 17%
+pottedplant: 63%
+person: 79%
+microwave: 15%
+chair: 74%
+diningtable: 11%
+person: 25%
+chair: 63%

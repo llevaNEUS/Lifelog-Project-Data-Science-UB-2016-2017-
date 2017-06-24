@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-09/b00001007_21i6bq_20150309_173500e.jpg: Predicted in 26.333143 seconds.
+microwave: 12%
+remote: 14%
+diningtable: 17%
+toilet: 26%

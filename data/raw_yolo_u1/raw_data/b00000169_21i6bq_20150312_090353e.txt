@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-12/b00000169_21i6bq_20150312_090353e.jpg: Predicted in 24.708845 seconds.
+scissors: 18%
+bottle: 18%
+bottle: 40%
+bowl: 14%
+person: 37%
+person: 27%
+person: 57%
+diningtable: 13%

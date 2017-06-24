@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-03-07/b00001164_21i6bq_20150307_181436e.jpg: Predicted in 24.977592 seconds.
+teddy bear: 44%
+car: 48%
+motorbike: 10%

@@ -1,0 +1,12 @@
+/home/nuria/TFP/images/u1/2015-02-28/b00000849_21i6bq_20150228_144431e.jpg: Predicted in 17.368412 seconds.
+person: 14%
+person: 15%
+umbrella: 16%
+person: 24%
+person: 14%
+stop sign: 19%
+person: 60%
+person: 37%
+car: 30%
+person: 14%
+bus: 10%

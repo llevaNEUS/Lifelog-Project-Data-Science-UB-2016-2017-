@@ -1,0 +1,26 @@
+/home/nuria/TFP/images/u1/2015-03-04/b00000280_21i6bq_20150304_093727e.jpg: Predicted in 25.098669 seconds.
+book: 12%
+chair: 49%
+cup: 11%
+cup: 19%
+person: 20%
+person: 25%
+chair: 26%
+tvmonitor: 10%
+chair: 11%
+sandwich: 30%
+sandwich: 25%
+laptop: 41%
+sandwich: 14%
+donut: 21%
+cup: 48%
+sandwich: 36%
+donut: 21%
+book: 28%
+sandwich: 18%
+mouse: 27%
+person: 29%
+person: 85%
+laptop: 65%
+sandwich: 38%
+diningtable: 18%

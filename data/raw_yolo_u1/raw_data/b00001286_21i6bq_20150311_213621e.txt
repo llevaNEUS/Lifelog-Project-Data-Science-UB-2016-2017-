@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-11/b00001286_21i6bq_20150311_213621e.jpg: Predicted in 27.196354 seconds.
+person: 16%
+oven: 12%
+spoon: 11%
+pizza: 46%
+diningtable: 48%

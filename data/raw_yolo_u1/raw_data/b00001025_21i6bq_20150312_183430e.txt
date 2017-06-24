@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-12/b00001025_21i6bq_20150312_183430e.jpg: Predicted in 29.122601 seconds.
+clock: 11%
+pottedplant: 19%
+cell phone: 17%
+parking meter: 36%

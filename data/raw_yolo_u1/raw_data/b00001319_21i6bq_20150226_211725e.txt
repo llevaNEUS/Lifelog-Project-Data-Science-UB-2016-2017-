@@ -1,0 +1,15 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00001319_21i6bq_20150226_211725e.jpg: Predicted in 25.705273 seconds.
+bottle: 11%
+bottle: 17%
+chair: 11%
+diningtable: 15%
+chair: 41%
+chair: 22%
+chair: 62%
+chair: 23%
+diningtable: 15%
+chair: 89%
+chair: 80%
+chair: 50%
+diningtable: 16%
+chair: 11%

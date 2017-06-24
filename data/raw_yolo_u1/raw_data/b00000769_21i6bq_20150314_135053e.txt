@@ -1,0 +1,20 @@
+/home/nuria/TFP/images/u1/2015-03-14/b00000769_21i6bq_20150314_135053e.jpg: Predicted in 14.303486 seconds.
+bottle: 29%
+tie: 21%
+cup: 20%
+cup: 14%
+book: 21%
+book: 11%
+book: 14%
+book: 12%
+book: 18%
+cup: 16%
+person: 56%
+person: 22%
+book: 17%
+book: 43%
+book: 48%
+book: 10%
+tvmonitor: 80%
+chair: 26%
+bed: 13%

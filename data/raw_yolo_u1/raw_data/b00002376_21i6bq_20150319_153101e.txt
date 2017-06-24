@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-03-19/b00002376_21i6bq_20150319_153101e.jpg: Predicted in 19.309544 seconds.
+cup: 12%
+cow: 20%
+person: 13%

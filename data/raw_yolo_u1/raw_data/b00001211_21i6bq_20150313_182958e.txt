@@ -1,0 +1,21 @@
+/home/nuria/TFP/images/u1/2015-03-13/b00001211_21i6bq_20150313_182958e.jpg: Predicted in 14.122967 seconds.
+book: 14%
+book: 20%
+book: 25%
+book: 23%
+book: 36%
+book: 19%
+book: 13%
+book: 37%
+book: 12%
+book: 22%
+book: 45%
+book: 49%
+book: 39%
+book: 19%
+book: 49%
+book: 40%
+suitcase: 24%
+chair: 14%
+cup: 13%
+tvmonitor: 58%

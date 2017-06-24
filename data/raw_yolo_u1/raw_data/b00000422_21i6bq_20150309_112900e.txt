@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-09/b00000422_21i6bq_20150309_112900e.jpg: Predicted in 26.819328 seconds.
+person: 10%
+chair: 10%
+tvmonitor: 46%
+tennis racket: 46%

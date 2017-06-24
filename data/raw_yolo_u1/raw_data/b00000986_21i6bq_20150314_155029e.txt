@@ -1,0 +1,14 @@
+/home/nuria/TFP/images/u1/2015-03-14/b00000986_21i6bq_20150314_155029e.jpg: Predicted in 14.118402 seconds.
+bottle: 19%
+cup: 10%
+clock: 50%
+vase: 15%
+cup: 40%
+cup: 40%
+cup: 44%
+tvmonitor: 77%
+diningtable: 10%
+chair: 11%
+chair: 62%
+sofa: 41%
+diningtable: 69%

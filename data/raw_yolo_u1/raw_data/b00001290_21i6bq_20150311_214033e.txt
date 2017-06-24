@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-11/b00001290_21i6bq_20150311_214033e.jpg: Predicted in 27.015614 seconds.
+spoon: 42%
+bottle: 10%
+cup: 49%
+bottle: 44%
+bottle: 12%
+person: 45%
+cup: 71%
+diningtable: 40%

@@ -1,0 +1,12 @@
+/home/nuria/TFP/images/u1/2015-03-14/b00001522_21i6bq_20150314_225954e.jpg: Predicted in 19.835560 seconds.
+sports ball: 40%
+mouse: 68%
+bottle: 25%
+bottle: 24%
+remote: 12%
+remote: 12%
+remote: 17%
+remote: 16%
+remote: 30%
+person: 51%
+person: 57%

@@ -1,0 +1,19 @@
+/home/nuria/TFP/images/u1/2015-03-10/b00000424_21i6bq_20150310_172239e.jpg: Predicted in 27.024315 seconds.
+suitcase: 23%
+suitcase: 23%
+knife: 12%
+knife: 19%
+knife: 14%
+knife: 14%
+knife: 31%
+bottle: 14%
+bottle: 13%
+suitcase: 10%
+knife: 16%
+tvmonitor: 24%
+chair: 24%
+refrigerator: 40%
+person: 90%
+keyboard: 73%
+microwave: 42%
+person: 22%

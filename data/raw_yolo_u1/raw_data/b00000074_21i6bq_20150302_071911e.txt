@@ -1,0 +1,13 @@
+/home/nuria/TFP/images/u1/2015-03-02/b00000074_21i6bq_20150302_071911e.jpg: Predicted in 23.621027 seconds.
+bottle: 78%
+cup: 12%
+wine glass: 21%
+wine glass: 11%
+diningtable: 14%
+person: 11%
+vase: 48%
+person: 33%
+wine glass: 40%
+person: 39%
+diningtable: 12%
+person: 85%

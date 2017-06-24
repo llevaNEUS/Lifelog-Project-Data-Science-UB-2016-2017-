@@ -1,0 +1,3 @@
+/home/nuria/TFP/images/u1/2015-03-13/b00001289_21i6bq_20150313_220336e.jpg: Predicted in 25.806175 seconds.
+fork: 70%
+toothbrush: 12%

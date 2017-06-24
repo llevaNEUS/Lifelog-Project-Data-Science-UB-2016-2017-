@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-02-25/b00000956_21i6bq_20150225_155855e.jpg: Predicted in 20.950563 seconds.
+wine glass: 32%
+bottle: 34%
+person: 28%
+cell phone: 85%
+person: 42%
+person: 61%
+bed: 35%

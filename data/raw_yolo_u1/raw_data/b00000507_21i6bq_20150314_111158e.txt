@@ -1,0 +1,16 @@
+/home/nuria/TFP/images/u1/2015-03-14/b00000507_21i6bq_20150314_111158e.jpg: Predicted in 14.103837 seconds.
+cup: 13%
+person: 13%
+person: 14%
+person: 52%
+tvmonitor: 19%
+person: 13%
+donut: 11%
+donut: 23%
+hot dog: 10%
+person: 13%
+person: 76%
+hot dog: 43%
+person: 32%
+elephant: 38%
+hot dog: 17%

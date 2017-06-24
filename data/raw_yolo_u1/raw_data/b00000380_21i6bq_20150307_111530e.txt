@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-07/b00000380_21i6bq_20150307_111530e.jpg: Predicted in 21.138378 seconds.
+bottle: 12%
+bottle: 12%
+vase: 16%
+person: 15%
+wine glass: 18%
+person: 26%
+suitcase: 17%
+refrigerator: 22%

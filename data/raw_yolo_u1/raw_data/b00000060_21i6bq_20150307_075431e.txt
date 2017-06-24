@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-07/b00000060_21i6bq_20150307_075431e.jpg: Predicted in 27.720827 seconds.
+cup: 45%
+cup: 32%
+sink: 27%
+refrigerator: 12%
+person: 12%

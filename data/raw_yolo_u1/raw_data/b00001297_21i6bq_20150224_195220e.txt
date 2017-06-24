@@ -1,0 +1,12 @@
+/home/nuria/TFP/images/u1/2015-02-24/b00001297_21i6bq_20150224_195220e.jpg: Predicted in 18.882404 seconds.
+tvmonitor: 11%
+chair: 23%
+remote: 15%
+person: 81%
+chair: 42%
+chair: 80%
+cell phone: 66%
+person: 71%
+person: 72%
+bus: 14%
+bus: 30%

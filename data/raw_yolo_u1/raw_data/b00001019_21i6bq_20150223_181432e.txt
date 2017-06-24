@@ -1,0 +1,19 @@
+/home/nuria/TFP/images/u1/2015-02-23/b00001019_21i6bq_20150223_181432e.jpg: Predicted in 19.261967 seconds.
+donut: 17%
+knife: 27%
+cell phone: 11%
+donut: 46%
+keyboard: 59%
+donut: 43%
+donut: 35%
+donut: 67%
+donut: 72%
+donut: 66%
+person: 61%
+cup: 83%
+tvmonitor: 87%
+book: 21%
+person: 27%
+person: 61%
+person: 32%
+diningtable: 88%

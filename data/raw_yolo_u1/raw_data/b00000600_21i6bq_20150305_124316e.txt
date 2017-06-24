@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-05/b00000600_21i6bq_20150305_124316e.jpg: Predicted in 14.344278 seconds.
+cell phone: 25%
+clock: 23%
+cell phone: 14%
+carrot: 62%
+cell phone: 47%
+knife: 41%
+diningtable: 27%

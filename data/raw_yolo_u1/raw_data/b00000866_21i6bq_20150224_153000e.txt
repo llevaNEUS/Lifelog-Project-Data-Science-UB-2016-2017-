@@ -1,0 +1,15 @@
+/home/nuria/TFP/images/u1/2015-02-24/b00000866_21i6bq_20150224_153000e.jpg: Predicted in 26.282890 seconds.
+person: 14%
+car: 44%
+cup: 11%
+bicycle: 12%
+bicycle: 14%
+stop sign: 33%
+bicycle: 33%
+tvmonitor: 27%
+bicycle: 36%
+chair: 26%
+handbag: 29%
+chair: 17%
+person: 88%
+person: 87%

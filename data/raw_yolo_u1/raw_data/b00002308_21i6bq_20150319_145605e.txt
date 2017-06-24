@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-19/b00002308_21i6bq_20150319_145605e.jpg: Predicted in 16.905275 seconds.
+book: 11%
+chair: 32%
+toothbrush: 30%
+person: 53%
+cell phone: 67%

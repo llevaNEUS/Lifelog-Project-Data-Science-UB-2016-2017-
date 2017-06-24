@@ -1,0 +1,13 @@
+/home/nuria/TFP/images/u1/2015-03-17/b00001102_21i6bq_20150317_190624e.jpg: Predicted in 17.816883 seconds.
+person: 12%
+cup: 37%
+sandwich: 23%
+person: 15%
+banana: 21%
+person: 44%
+person: 22%
+pottedplant: 25%
+cup: 73%
+person: 79%
+person: 11%
+diningtable: 36%

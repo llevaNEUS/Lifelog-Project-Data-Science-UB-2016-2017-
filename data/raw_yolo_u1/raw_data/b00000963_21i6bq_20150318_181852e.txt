@@ -1,0 +1,16 @@
+/home/nuria/TFP/images/u1/2015-03-18/b00000963_21i6bq_20150318_181852e.jpg: Predicted in 22.347239 seconds.
+person: 15%
+remote: 15%
+chair: 21%
+remote: 17%
+remote: 20%
+tvmonitor: 23%
+toaster: 11%
+microwave: 34%
+person: 72%
+person: 30%
+person: 17%
+chair: 13%
+chair: 21%
+remote: 30%
+person: 37%

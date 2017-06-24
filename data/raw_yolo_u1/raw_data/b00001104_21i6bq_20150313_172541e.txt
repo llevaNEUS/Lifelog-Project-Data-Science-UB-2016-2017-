@@ -1,0 +1,19 @@
+/home/nuria/TFP/images/u1/2015-03-13/b00001104_21i6bq_20150313_172541e.jpg: Predicted in 23.826508 seconds.
+book: 12%
+book: 13%
+book: 16%
+book: 15%
+bottle: 13%
+bowl: 15%
+bowl: 32%
+knife: 11%
+suitcase: 16%
+book: 11%
+book: 30%
+suitcase: 10%
+sink: 18%
+bowl: 13%
+chair: 22%
+chair: 13%
+microwave: 12%
+person: 42%

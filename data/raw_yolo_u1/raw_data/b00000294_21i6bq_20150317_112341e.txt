@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-17/b00000294_21i6bq_20150317_112341e.jpg: Predicted in 16.975178 seconds.
+microwave: 16%
+oven: 51%
+remote: 23%
+tvmonitor: 55%
+refrigerator: 31%
+oven: 21%
+person: 33%

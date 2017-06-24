@@ -1,0 +1,12 @@
+/home/nuria/TFP/images/u1/2015-03-05/b00000607_21i6bq_20150305_124856e.jpg: Predicted in 14.232357 seconds.
+clock: 31%
+microwave: 13%
+cup: 77%
+cell phone: 26%
+diningtable: 23%
+knife: 44%
+remote: 14%
+knife: 12%
+bowl: 25%
+person: 77%
+person: 62%

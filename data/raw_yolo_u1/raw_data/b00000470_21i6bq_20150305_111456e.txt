@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-05/b00000470_21i6bq_20150305_111456e.jpg: Predicted in 14.188720 seconds.
+bottle: 49%
+knife: 12%
+person: 37%
+remote: 22%
+person: 10%
+laptop: 15%

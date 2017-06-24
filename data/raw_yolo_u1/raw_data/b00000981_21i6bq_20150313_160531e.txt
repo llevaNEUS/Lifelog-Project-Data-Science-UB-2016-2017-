@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-13/b00000981_21i6bq_20150313_160531e.jpg: Predicted in 14.122205 seconds.
+scissors: 11%
+person: 30%
+sheep: 12%
+person: 12%

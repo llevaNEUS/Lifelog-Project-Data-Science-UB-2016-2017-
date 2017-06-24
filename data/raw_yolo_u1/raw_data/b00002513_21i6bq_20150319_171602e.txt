@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-19/b00002513_21i6bq_20150319_171602e.jpg: Predicted in 21.102100 seconds.
+tvmonitor: 20%
+sink: 13%
+cell phone: 29%
+toilet: 58%

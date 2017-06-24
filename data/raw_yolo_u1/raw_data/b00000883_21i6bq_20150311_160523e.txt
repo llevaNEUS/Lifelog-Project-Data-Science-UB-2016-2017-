@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-11/b00000883_21i6bq_20150311_160523e.jpg: Predicted in 27.974953 seconds.
+donut: 16%
+donut: 37%
+donut: 18%
+person: 60%
+cup: 27%
+person: 67%
+book: 31%
+person: 85%

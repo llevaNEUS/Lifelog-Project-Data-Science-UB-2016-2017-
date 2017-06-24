@@ -1,0 +1,22 @@
+/home/nuria/TFP/images/u1/2015-03-13/b00000899_21i6bq_20150313_150643e.jpg: Predicted in 14.123067 seconds.
+tie: 12%
+person: 21%
+person: 22%
+person: 28%
+person: 22%
+bench: 11%
+bench: 16%
+bench: 27%
+person: 10%
+cell phone: 10%
+person: 31%
+person: 36%
+person: 34%
+person: 40%
+person: 22%
+bench: 29%
+bench: 17%
+book: 11%
+person: 81%
+backpack: 13%
+person: 83%

@@ -1,0 +1,15 @@
+/home/nuria/TFP/images/u1/2015-03-01/b00000747_21i6bq_20150301_142039e.jpg: Predicted in 20.564341 seconds.
+cup: 30%
+cup: 21%
+tvmonitor: 78%
+person: 73%
+sheep: 28%
+book: 15%
+keyboard: 46%
+tvmonitor: 41%
+backpack: 64%
+laptop: 88%
+sheep: 56%
+cat: 59%
+person: 80%
+person: 10%

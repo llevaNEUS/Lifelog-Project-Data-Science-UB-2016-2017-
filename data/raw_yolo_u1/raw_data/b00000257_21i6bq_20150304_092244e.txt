@@ -1,0 +1,16 @@
+/home/nuria/TFP/images/u1/2015-03-04/b00000257_21i6bq_20150304_092244e.jpg: Predicted in 28.678598 seconds.
+cup: 16%
+backpack: 31%
+cup: 13%
+bottle: 53%
+bottle: 33%
+bottle: 62%
+cup: 41%
+cup: 29%
+bottle: 51%
+bottle: 41%
+cup: 66%
+cup: 39%
+cup: 64%
+orange: 40%
+refrigerator: 35%

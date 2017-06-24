@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-02-28/b00000585_21i6bq_20150228_115400e.jpg: Predicted in 21.614952 seconds.
+bird: 22%
+tvmonitor: 40%
+teddy bear: 22%
+pottedplant: 12%
+bird: 39%
+dog: 20%
+chair: 54%
+bed: 58%

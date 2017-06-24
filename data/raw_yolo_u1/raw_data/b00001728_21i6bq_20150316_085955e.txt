@@ -1,0 +1,23 @@
+/home/nuria/TFP/images/u1/2015-03-16/b00001728_21i6bq_20150316_085955e.jpg: Predicted in 25.100334 seconds.
+cup: 35%
+donut: 17%
+donut: 27%
+cup: 14%
+person: 17%
+donut: 14%
+donut: 22%
+donut: 13%
+bowl: 14%
+hot dog: 17%
+cake: 11%
+donut: 35%
+hot dog: 33%
+hot dog: 43%
+hot dog: 12%
+cake: 11%
+cake: 25%
+donut: 15%
+hot dog: 21%
+sandwich: 19%
+donut: 32%
+oven: 14%

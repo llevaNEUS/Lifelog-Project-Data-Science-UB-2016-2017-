@@ -1,0 +1,3 @@
+/home/nuria/TFP/images/u1/2015-03-07/b00001148_21i6bq_20150307_180426e.jpg: Predicted in 25.330709 seconds.
+motorbike: 20%
+dog: 37%

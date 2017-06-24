@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-09/b00001089_21i6bq_20150309_182438e.jpg: Predicted in 26.015368 seconds.
+fork: 21%
+person: 20%
+remote: 24%
+book: 17%

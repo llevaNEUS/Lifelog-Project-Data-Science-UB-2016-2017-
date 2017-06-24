@@ -1,0 +1,12 @@
+/home/nuria/TFP/images/u1/2015-03-02/b00000154_21i6bq_20150302_081855e.jpg: Predicted in 16.294312 seconds.
+bottle: 21%
+bottle: 12%
+bottle: 28%
+bottle: 25%
+bottle: 18%
+bottle: 30%
+bottle: 33%
+bottle: 15%
+bottle: 23%
+bottle: 11%
+refrigerator: 17%

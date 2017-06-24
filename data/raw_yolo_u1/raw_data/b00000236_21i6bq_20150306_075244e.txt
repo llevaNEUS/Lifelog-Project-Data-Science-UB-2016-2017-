@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-06/b00000236_21i6bq_20150306_075244e.jpg: Predicted in 20.965616 seconds.
+stop sign: 26%
+car: 16%
+car: 23%
+car: 19%
+car: 69%
+bus: 13%
+train: 31%

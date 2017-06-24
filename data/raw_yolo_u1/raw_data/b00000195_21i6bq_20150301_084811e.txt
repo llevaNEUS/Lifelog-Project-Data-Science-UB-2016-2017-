@@ -1,0 +1,14 @@
+/home/nuria/TFP/images/u1/2015-03-01/b00000195_21i6bq_20150301_084811e.jpg: Predicted in 23.920555 seconds.
+bottle: 24%
+bottle: 47%
+clock: 63%
+microwave: 25%
+bottle: 14%
+book: 14%
+backpack: 11%
+dog: 17%
+chair: 32%
+chair: 17%
+backpack: 29%
+refrigerator: 20%
+bed: 34%

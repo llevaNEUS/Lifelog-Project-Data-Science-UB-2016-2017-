@@ -1,0 +1,15 @@
+/home/nuria/TFP/images/u1/2015-03-11/b00000818_21i6bq_20150311_151925e.jpg: Predicted in 21.675049 seconds.
+person: 73%
+person: 25%
+person: 65%
+chair: 39%
+chair: 21%
+person: 69%
+pottedplant: 41%
+person: 36%
+chair: 63%
+chair: 16%
+bench: 16%
+diningtable: 26%
+chair: 10%
+chair: 17%

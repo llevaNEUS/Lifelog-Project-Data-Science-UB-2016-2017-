@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-11/b00000731_21i6bq_20150311_141725e.jpg: Predicted in 24.168831 seconds.
+cell phone: 32%
+person: 18%
+person: 10%
+person: 50%
+motorbike: 21%

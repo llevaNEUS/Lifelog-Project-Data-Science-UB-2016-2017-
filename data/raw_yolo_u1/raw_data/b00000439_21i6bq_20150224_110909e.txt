@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-02-24/b00000439_21i6bq_20150224_110909e.jpg: Predicted in 17.711287 seconds.
+frisbee: 56%
+book: 33%
+chair: 46%
+person: 15%
+person: 12%
+person: 52%

@@ -1,0 +1,10 @@
+/home/nuria/TFP/images/u1/2015-03-10/b00000363_21i6bq_20150310_164512e.jpg: Predicted in 18.079706 seconds.
+dog: 23%
+person: 79%
+tvmonitor: 11%
+tvmonitor: 55%
+person: 85%
+keyboard: 53%
+person: 65%
+sofa: 12%
+oven: 12%

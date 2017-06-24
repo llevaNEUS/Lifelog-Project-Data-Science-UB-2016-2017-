@@ -1,0 +1,10 @@
+/home/nuria/TFP/images/u1/2015-02-24/b00000424_21i6bq_20150224_110043e.jpg: Predicted in 27.314100 seconds.
+clock: 39%
+frisbee: 21%
+chair: 22%
+person: 10%
+person: 16%
+cell phone: 30%
+person: 26%
+person: 37%
+person: 40%

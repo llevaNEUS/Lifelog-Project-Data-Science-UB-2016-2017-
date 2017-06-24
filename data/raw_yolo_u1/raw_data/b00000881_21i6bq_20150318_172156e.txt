@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-18/b00000881_21i6bq_20150318_172156e.jpg: Predicted in 23.647087 seconds.
+clock: 38%
+tvmonitor: 10%
+car: 15%
+chair: 30%
+chair: 16%
+chair: 26%
+pottedplant: 78%
+chair: 75%

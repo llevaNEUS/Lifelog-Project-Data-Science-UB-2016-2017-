@@ -1,0 +1,17 @@
+/home/nuria/TFP/images/u1/2015-03-07/b00000407_21i6bq_20150307_112124e.jpg: Predicted in 18.034164 seconds.
+vase: 18%
+vase: 25%
+book: 17%
+chair: 17%
+chair: 12%
+chair: 32%
+chair: 19%
+cup: 31%
+chair: 12%
+chair: 29%
+pottedplant: 11%
+pottedplant: 69%
+vase: 12%
+chair: 24%
+chair: 68%
+chair: 69%

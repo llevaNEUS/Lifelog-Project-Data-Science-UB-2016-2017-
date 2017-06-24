@@ -1,0 +1,18 @@
+/home/nuria/TFP/images/u1/2015-03-15/b00001364_21i6bq_20150315_205142e.jpg: Predicted in 14.112374 seconds.
+vase: 29%
+banana: 22%
+bowl: 39%
+bowl: 27%
+vase: 43%
+bottle: 16%
+bottle: 18%
+bottle: 45%
+bottle: 12%
+bottle: 13%
+banana: 60%
+cup: 12%
+bottle: 41%
+bowl: 25%
+sink: 14%
+diningtable: 17%
+chair: 64%

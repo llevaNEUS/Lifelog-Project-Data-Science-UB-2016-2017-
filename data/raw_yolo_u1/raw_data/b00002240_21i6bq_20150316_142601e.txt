@@ -1,0 +1,11 @@
+/home/nuria/TFP/images/u1/2015-03-16/b00002240_21i6bq_20150316_142601e.jpg: Predicted in 16.031126 seconds.
+person: 64%
+person: 73%
+person: 41%
+person: 40%
+person: 71%
+person: 48%
+person: 70%
+suitcase: 13%
+suitcase: 57%
+train: 76%

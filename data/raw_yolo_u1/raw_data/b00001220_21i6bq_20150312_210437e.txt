@@ -1,0 +1,23 @@
+/home/nuria/TFP/images/u1/2015-03-12/b00001220_21i6bq_20150312_210437e.jpg: Predicted in 24.486425 seconds.
+clock: 12%
+spoon: 13%
+person: 12%
+person: 13%
+person: 34%
+clock: 41%
+knife: 12%
+knife: 14%
+spoon: 13%
+bottle: 31%
+spoon: 11%
+bottle: 53%
+cup: 14%
+cup: 48%
+bowl: 74%
+bowl: 37%
+bowl: 11%
+book: 25%
+person: 63%
+cup: 21%
+diningtable: 24%
+diningtable: 11%

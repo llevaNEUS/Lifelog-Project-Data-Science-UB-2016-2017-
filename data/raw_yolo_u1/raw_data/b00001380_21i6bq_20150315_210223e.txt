@@ -1,0 +1,3 @@
+/home/nuria/TFP/images/u1/2015-03-15/b00001380_21i6bq_20150315_210223e.jpg: Predicted in 15.476712 seconds.
+clock: 11%
+book: 31%

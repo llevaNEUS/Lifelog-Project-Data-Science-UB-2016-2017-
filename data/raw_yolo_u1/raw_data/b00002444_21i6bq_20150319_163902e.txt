@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-19/b00002444_21i6bq_20150319_163902e.jpg: Predicted in 15.582390 seconds.
+remote: 14%
+clock: 42%
+cell phone: 64%
+toilet: 23%

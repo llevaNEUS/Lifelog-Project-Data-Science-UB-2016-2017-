@@ -1,0 +1,11 @@
+/home/nuria/TFP/images/u1/2015-03-13/b00000948_21i6bq_20150313_154000e.jpg: Predicted in 22.987553 seconds.
+person: 53%
+person: 44%
+person: 43%
+parking meter: 16%
+boat: 57%
+handbag: 15%
+person: 26%
+car: 24%
+person: 36%
+person: 42%

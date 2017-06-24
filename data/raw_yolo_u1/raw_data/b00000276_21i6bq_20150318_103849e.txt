@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-18/b00000276_21i6bq_20150318_103849e.jpg: Predicted in 23.219912 seconds.
+cup: 49%
+cup: 19%
+backpack: 17%
+person: 78%
+person: 86%

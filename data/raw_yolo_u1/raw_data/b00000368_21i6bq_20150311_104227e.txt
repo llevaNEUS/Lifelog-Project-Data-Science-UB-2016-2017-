@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-03-11/b00000368_21i6bq_20150311_104227e.jpg: Predicted in 32.076569 seconds.
+bird: 40%
+cup: 24%
+diningtable: 20%

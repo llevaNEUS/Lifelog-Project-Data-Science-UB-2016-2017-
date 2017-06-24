@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-06/b00000585_21i6bq_20150306_113616e.jpg: Predicted in 22.259947 seconds.
+remote: 34%
+tie: 77%
+chair: 31%
+person: 20%
+person: 64%
+person: 51%
+diningtable: 46%

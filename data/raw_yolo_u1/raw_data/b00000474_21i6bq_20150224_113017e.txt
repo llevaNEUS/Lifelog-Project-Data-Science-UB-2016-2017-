@@ -1,0 +1,11 @@
+/home/nuria/TFP/images/u1/2015-02-24/b00000474_21i6bq_20150224_113017e.jpg: Predicted in 28.333363 seconds.
+spoon: 25%
+bowl: 45%
+cup: 26%
+carrot: 30%
+sandwich: 14%
+knife: 10%
+pizza: 10%
+person: 75%
+person: 57%
+diningtable: 56%

@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-02-24/b00000661_21i6bq_20150224_132540e.jpg: Predicted in 25.738596 seconds.
+toilet: 22%
+person: 40%
+suitcase: 11%
+microwave: 24%
+person: 18%

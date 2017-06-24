@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-19/b00002225_21i6bq_20150319_140908e.jpg: Predicted in 19.813984 seconds.
+knife: 14%
+knife: 27%
+person: 40%
+book: 64%
+parking meter: 25%
+person: 39%

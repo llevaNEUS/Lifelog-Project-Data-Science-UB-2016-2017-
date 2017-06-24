@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-09/b00000407_21i6bq_20150309_111914e.jpg: Predicted in 26.316067 seconds.
+person: 17%
+person: 21%
+person: 13%
+person: 18%
+person: 61%
+laptop: 38%
+tennis racket: 12%
+aeroplane: 19%

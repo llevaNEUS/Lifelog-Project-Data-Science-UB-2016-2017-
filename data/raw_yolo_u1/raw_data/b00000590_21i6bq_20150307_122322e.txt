@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-07/b00000590_21i6bq_20150307_122322e.jpg: Predicted in 26.228008 seconds.
+frisbee: 33%
+cell phone: 45%
+person: 76%
+person: 83%
+car: 34%

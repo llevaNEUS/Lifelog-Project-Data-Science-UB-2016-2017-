@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-01/b00000092_21i6bq_20150301_075003e.jpg: Predicted in 19.930027 seconds.
+cell phone: 14%
+bottle: 11%
+book: 28%
+hot dog: 11%
+chair: 11%
+hot dog: 71%
+person: 61%
+sofa: 27%

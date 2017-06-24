@@ -1,0 +1,18 @@
+/home/nuria/TFP/images/u1/2015-02-28/b00000423_21i6bq_20150228_100558e.jpg: Predicted in 25.833933 seconds.
+book: 11%
+book: 20%
+book: 29%
+book: 12%
+book: 25%
+book: 24%
+book: 35%
+book: 49%
+book: 13%
+book: 40%
+book: 11%
+book: 37%
+book: 32%
+traffic light: 15%
+suitcase: 15%
+person: 33%
+microwave: 81%

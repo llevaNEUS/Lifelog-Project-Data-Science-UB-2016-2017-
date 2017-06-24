@@ -1,0 +1,37 @@
+/home/nuria/TFP/images/u1/2015-02-27/b00000766_21i6bq_20150227_152934e.jpg: Predicted in 23.465754 seconds.
+person: 11%
+wine glass: 15%
+handbag: 14%
+handbag: 12%
+person: 16%
+backpack: 23%
+backpack: 15%
+backpack: 33%
+backpack: 18%
+person: 41%
+person: 18%
+laptop: 32%
+wine glass: 12%
+person: 31%
+handbag: 13%
+sink: 12%
+handbag: 13%
+handbag: 63%
+backpack: 18%
+handbag: 17%
+diningtable: 27%
+person: 27%
+person: 49%
+person: 57%
+person: 79%
+person: 69%
+person: 13%
+person: 76%
+person: 79%
+person: 52%
+person: 71%
+person: 56%
+person: 77%
+chair: 43%
+oven: 14%
+bus: 12%

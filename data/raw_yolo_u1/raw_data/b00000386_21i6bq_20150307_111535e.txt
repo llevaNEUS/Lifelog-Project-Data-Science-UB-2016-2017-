@@ -1,0 +1,29 @@
+/home/nuria/TFP/images/u1/2015-03-07/b00000386_21i6bq_20150307_111535e.jpg: Predicted in 28.755100 seconds.
+cup: 16%
+bowl: 12%
+spoon: 12%
+spoon: 11%
+spoon: 14%
+bottle: 25%
+bottle: 25%
+bottle: 19%
+bowl: 22%
+cup: 31%
+bowl: 16%
+bowl: 16%
+bottle: 12%
+bottle: 22%
+vase: 22%
+vase: 27%
+vase: 26%
+vase: 12%
+bottle: 11%
+bowl: 19%
+spoon: 21%
+bowl: 17%
+wine glass: 26%
+giraffe: 35%
+vase: 26%
+sink: 21%
+person: 17%
+chair: 27%

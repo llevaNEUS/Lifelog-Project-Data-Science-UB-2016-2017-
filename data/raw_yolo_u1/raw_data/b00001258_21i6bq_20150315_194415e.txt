@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-15/b00001258_21i6bq_20150315_194415e.jpg: Predicted in 15.510642 seconds.
+vase: 15%
+vase: 14%
+bottle: 21%
+vase: 15%
+vase: 14%
+pottedplant: 19%
+toilet: 14%
+chair: 13%

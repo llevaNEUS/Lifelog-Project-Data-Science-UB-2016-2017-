@@ -1,0 +1,15 @@
+/home/nuria/TFP/images/u1/2015-03-09/b00000723_21i6bq_20150309_144119e.jpg: Predicted in 29.567408 seconds.
+person: 11%
+cup: 14%
+person: 15%
+banana: 12%
+cup: 11%
+book: 31%
+clock: 15%
+person: 29%
+hair drier: 29%
+person: 62%
+cup: 18%
+laptop: 40%
+diningtable: 12%
+diningtable: 11%

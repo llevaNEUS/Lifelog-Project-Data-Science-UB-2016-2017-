@@ -1,0 +1,11 @@
+/home/nuria/TFP/images/u1/2015-03-03/b00000432_21i6bq_20150303_105258e.jpg: Predicted in 26.938343 seconds.
+remote: 15%
+sink: 11%
+chair: 34%
+chair: 30%
+handbag: 11%
+chair: 35%
+tvmonitor: 33%
+toilet: 13%
+chair: 29%
+person: 81%

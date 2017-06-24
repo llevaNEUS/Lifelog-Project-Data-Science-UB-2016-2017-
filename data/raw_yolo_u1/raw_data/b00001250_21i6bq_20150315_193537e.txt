@@ -1,0 +1,20 @@
+/home/nuria/TFP/images/u1/2015-03-15/b00001250_21i6bq_20150315_193537e.jpg: Predicted in 26.302576 seconds.
+bird: 17%
+person: 41%
+person: 41%
+vase: 29%
+person: 60%
+person: 39%
+person: 51%
+bench: 16%
+bench: 11%
+person: 66%
+bench: 19%
+bench: 11%
+bench: 12%
+bench: 17%
+bench: 80%
+bench: 17%
+bench: 45%
+bench: 70%
+bench: 12%

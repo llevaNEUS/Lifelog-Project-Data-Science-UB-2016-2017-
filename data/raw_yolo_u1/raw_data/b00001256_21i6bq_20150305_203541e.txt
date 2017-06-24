@@ -1,0 +1,16 @@
+/home/nuria/TFP/images/u1/2015-03-05/b00001256_21i6bq_20150305_203541e.jpg: Predicted in 14.119087 seconds.
+laptop: 23%
+laptop: 21%
+bowl: 11%
+cell phone: 22%
+cell phone: 31%
+donut: 13%
+bottle: 10%
+laptop: 39%
+laptop: 15%
+wine glass: 20%
+fork: 20%
+fork: 27%
+person: 70%
+person: 41%
+diningtable: 21%

@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-15/b00000876_21i6bq_20150315_160816e.jpg: Predicted in 15.593751 seconds.
+cup: 14%
+book: 31%
+person: 17%
+diningtable: 25%

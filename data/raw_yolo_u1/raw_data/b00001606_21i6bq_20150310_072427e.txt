@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-03-10/b00001606_21i6bq_20150310_072427e.jpg: Predicted in 24.421549 seconds.
+carrot: 29%
+fork: 50%
+diningtable: 31%

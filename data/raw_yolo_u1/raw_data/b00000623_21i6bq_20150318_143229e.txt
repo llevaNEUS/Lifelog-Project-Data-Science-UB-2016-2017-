@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-18/b00000623_21i6bq_20150318_143229e.jpg: Predicted in 19.752100 seconds.
+truck: 14%
+aeroplane: 11%
+person: 45%
+aeroplane: 14%
+laptop: 11%
+person: 18%

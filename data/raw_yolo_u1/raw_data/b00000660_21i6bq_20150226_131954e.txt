@@ -1,0 +1,15 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00000660_21i6bq_20150226_131954e.jpg: Predicted in 28.335016 seconds.
+car: 29%
+car: 15%
+car: 10%
+car: 19%
+car: 55%
+car: 52%
+car: 42%
+car: 72%
+car: 75%
+car: 65%
+person: 21%
+person: 46%
+person: 82%
+laptop: 72%

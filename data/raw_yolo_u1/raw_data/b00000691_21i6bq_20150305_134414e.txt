@@ -1,0 +1,21 @@
+/home/nuria/TFP/images/u1/2015-03-05/b00000691_21i6bq_20150305_134414e.jpg: Predicted in 14.384317 seconds.
+chair: 46%
+chair: 61%
+chair: 11%
+chair: 19%
+cup: 14%
+cup: 14%
+cup: 30%
+wine glass: 14%
+person: 72%
+chair: 43%
+chair: 15%
+chair: 15%
+chair: 10%
+chair: 68%
+chair: 52%
+chair: 25%
+person: 76%
+person: 85%
+diningtable: 76%
+chair: 23%

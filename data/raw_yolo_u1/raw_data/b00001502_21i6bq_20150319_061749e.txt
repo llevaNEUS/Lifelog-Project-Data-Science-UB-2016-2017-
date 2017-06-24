@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-19/b00001502_21i6bq_20150319_061749e.jpg: Predicted in 16.104429 seconds.
+aeroplane: 30%
+remote: 14%
+aeroplane: 35%
+remote: 49%
+toilet: 11%
+mouse: 13%

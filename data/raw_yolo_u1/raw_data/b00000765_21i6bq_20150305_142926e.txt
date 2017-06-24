@@ -1,0 +1,13 @@
+/home/nuria/TFP/images/u1/2015-03-05/b00000765_21i6bq_20150305_142926e.jpg: Predicted in 14.090149 seconds.
+clock: 28%
+person: 22%
+tvmonitor: 14%
+person: 69%
+person: 17%
+chair: 14%
+person: 72%
+person: 23%
+person: 80%
+person: 72%
+person: 81%
+book: 28%

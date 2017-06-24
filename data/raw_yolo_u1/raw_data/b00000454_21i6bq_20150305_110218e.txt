@@ -1,0 +1,12 @@
+/home/nuria/TFP/images/u1/2015-03-05/b00000454_21i6bq_20150305_110218e.jpg: Predicted in 14.198356 seconds.
+person: 12%
+hot dog: 15%
+person: 40%
+person: 12%
+chair: 14%
+hot dog: 33%
+hot dog: 27%
+hot dog: 31%
+tvmonitor: 11%
+person: 70%
+laptop: 73%

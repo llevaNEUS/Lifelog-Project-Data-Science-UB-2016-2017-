@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-03-02/b00000537_21i6bq_20150302_123213e.jpg: Predicted in 27.726604 seconds.
+knife: 10%
+aeroplane: 63%
+toilet: 13%

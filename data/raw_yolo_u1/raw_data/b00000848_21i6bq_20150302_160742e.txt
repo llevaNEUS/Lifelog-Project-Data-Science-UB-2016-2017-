@@ -1,0 +1,19 @@
+/home/nuria/TFP/images/u1/2015-03-02/b00000848_21i6bq_20150302_160742e.jpg: Predicted in 24.960684 seconds.
+stop sign: 44%
+car: 48%
+car: 28%
+car: 46%
+car: 14%
+car: 40%
+car: 29%
+car: 22%
+car: 12%
+car: 24%
+car: 14%
+car: 30%
+fire hydrant: 14%
+car: 48%
+car: 50%
+car: 16%
+person: 69%
+car: 83%

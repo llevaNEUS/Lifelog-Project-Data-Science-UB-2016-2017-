@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-19/b00001913_21i6bq_20150319_103434e.jpg: Predicted in 15.735068 seconds.
+teddy bear: 13%
+book: 12%
+book: 22%
+teddy bear: 49%
+laptop: 70%
+bed: 87%
+bed: 16%

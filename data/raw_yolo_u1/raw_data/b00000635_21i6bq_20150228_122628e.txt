@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-02-28/b00000635_21i6bq_20150228_122628e.jpg: Predicted in 24.416756 seconds.
+cell phone: 61%
+pottedplant: 54%
+pottedplant: 11%
+backpack: 15%
+person: 13%
+person: 84%

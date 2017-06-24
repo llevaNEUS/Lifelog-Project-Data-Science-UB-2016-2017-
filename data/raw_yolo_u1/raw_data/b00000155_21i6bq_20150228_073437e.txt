@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-02-28/b00000155_21i6bq_20150228_073437e.jpg: Predicted in 26.910952 seconds.
+bird: 11%
+car: 46%
+car: 43%

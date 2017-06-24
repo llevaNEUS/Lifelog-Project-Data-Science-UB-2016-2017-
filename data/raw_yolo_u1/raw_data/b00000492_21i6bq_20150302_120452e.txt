@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-02/b00000492_21i6bq_20150302_120452e.jpg: Predicted in 26.300280 seconds.
+snowboard: 42%
+person: 13%
+cell phone: 20%
+car: 46%
+cell phone: 12%

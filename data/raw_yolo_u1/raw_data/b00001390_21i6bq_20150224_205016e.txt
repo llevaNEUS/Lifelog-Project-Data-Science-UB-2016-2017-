@@ -1,0 +1,12 @@
+/home/nuria/TFP/images/u1/2015-02-24/b00001390_21i6bq_20150224_205016e.jpg: Predicted in 16.625170 seconds.
+bottle: 27%
+bottle: 16%
+vase: 17%
+remote: 11%
+remote: 24%
+remote: 11%
+backpack: 16%
+book: 15%
+remote: 27%
+sofa: 73%
+diningtable: 17%

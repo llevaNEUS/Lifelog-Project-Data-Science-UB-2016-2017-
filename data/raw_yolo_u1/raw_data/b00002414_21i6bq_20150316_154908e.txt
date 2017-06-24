@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-16/b00002414_21i6bq_20150316_154908e.jpg: Predicted in 19.157309 seconds.
+apple: 47%
+person: 82%
+chair: 61%
+cup: 36%
+person: 28%

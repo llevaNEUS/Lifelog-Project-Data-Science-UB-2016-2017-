@@ -1,0 +1,10 @@
+/home/nuria/TFP/images/u1/2015-02-28/b00000522_21i6bq_20150228_111305e.jpg: Predicted in 25.321104 seconds.
+cake: 12%
+bottle: 23%
+bottle: 21%
+bottle: 14%
+cake: 10%
+sandwich: 10%
+sandwich: 17%
+bottle: 16%
+person: 50%

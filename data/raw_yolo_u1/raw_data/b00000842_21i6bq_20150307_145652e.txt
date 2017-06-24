@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-07/b00000842_21i6bq_20150307_145652e.jpg: Predicted in 26.899788 seconds.
+cell phone: 61%
+remote: 64%
+cell phone: 30%
+toilet: 32%
+person: 81%
+parking meter: 14%

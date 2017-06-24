@@ -1,0 +1,13 @@
+/home/nuria/TFP/images/u1/2015-03-05/b00000752_21i6bq_20150305_142126e.jpg: Predicted in 14.099564 seconds.
+bowl: 19%
+bottle: 23%
+bottle: 18%
+tvmonitor: 13%
+backpack: 15%
+tvmonitor: 28%
+tvmonitor: 12%
+person: 80%
+person: 58%
+person: 57%
+person: 76%
+person: 56%

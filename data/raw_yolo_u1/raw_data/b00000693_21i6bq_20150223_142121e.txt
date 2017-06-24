@@ -1,0 +1,10 @@
+/home/nuria/TFP/images/u1/2015-02-23/b00000693_21i6bq_20150223_142121e.jpg: Predicted in 28.063993 seconds.
+person: 28%
+person: 14%
+pottedplant: 17%
+person: 33%
+person: 12%
+person: 15%
+person: 23%
+skateboard: 18%
+person: 78%

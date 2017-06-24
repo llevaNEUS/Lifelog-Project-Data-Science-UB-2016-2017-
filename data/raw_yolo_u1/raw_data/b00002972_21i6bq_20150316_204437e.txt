@@ -1,0 +1,13 @@
+/home/nuria/TFP/images/u1/2015-03-16/b00002972_21i6bq_20150316_204437e.jpg: Predicted in 18.101992 seconds.
+traffic light: 13%
+car: 25%
+car: 18%
+car: 10%
+car: 18%
+car: 20%
+car: 18%
+car: 20%
+bus: 12%
+bus: 30%
+car: 17%
+train: 20%

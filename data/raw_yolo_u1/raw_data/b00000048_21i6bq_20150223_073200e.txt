@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-02-23/b00000048_21i6bq_20150223_073200e.jpg: Predicted in 18.155046 seconds.
+snowboard: 18%
+remote: 17%
+chair: 41%
+parking meter: 24%

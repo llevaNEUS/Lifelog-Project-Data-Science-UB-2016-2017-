@@ -1,0 +1,13 @@
+/home/nuria/TFP/images/u1/2015-03-16/b00002894_21i6bq_20150316_195214e.jpg: Predicted in 24.122513 seconds.
+person: 26%
+fork: 19%
+car: 11%
+car: 11%
+car: 34%
+car: 16%
+cup: 72%
+cup: 14%
+chair: 31%
+cup: 12%
+laptop: 41%
+person: 27%

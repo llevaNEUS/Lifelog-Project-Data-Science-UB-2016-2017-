@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-14/b00000505_21i6bq_20150314_111050e.jpg: Predicted in 14.097785 seconds.
+traffic light: 11%
+clock: 22%
+tvmonitor: 13%
+chair: 10%
+banana: 10%

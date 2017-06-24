@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-11/b00000670_21i6bq_20150311_134541e.jpg: Predicted in 24.240969 seconds.
+person: 33%
+skateboard: 12%
+person: 79%
+person: 16%
+scissors: 37%
+person: 80%
+person: 44%

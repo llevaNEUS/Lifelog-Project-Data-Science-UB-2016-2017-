@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-08/b00000562_21i6bq_20150308_134712e.jpg: Predicted in 14.107637 seconds.
+car: 57%
+car: 15%
+suitcase: 57%
+person: 34%
+person: 86%
+suitcase: 19%
+train: 18%
+bus: 32%

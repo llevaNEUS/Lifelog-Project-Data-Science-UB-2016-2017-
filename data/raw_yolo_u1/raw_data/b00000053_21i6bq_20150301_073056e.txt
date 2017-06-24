@@ -1,0 +1,14 @@
+/home/nuria/TFP/images/u1/2015-03-01/b00000053_21i6bq_20150301_073056e.jpg: Predicted in 25.010971 seconds.
+cup: 27%
+bottle: 24%
+bottle: 52%
+bottle: 47%
+bottle: 63%
+bottle: 31%
+bottle: 70%
+cup: 24%
+pottedplant: 13%
+bowl: 28%
+pottedplant: 33%
+clock: 36%
+toilet: 13%

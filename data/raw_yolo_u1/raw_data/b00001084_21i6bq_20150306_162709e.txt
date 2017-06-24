@@ -1,0 +1,22 @@
+/home/nuria/TFP/images/u1/2015-03-06/b00001084_21i6bq_20150306_162709e.jpg: Predicted in 27.782345 seconds.
+clock: 32%
+car: 43%
+car: 27%
+car: 40%
+person: 17%
+person: 19%
+person: 24%
+car: 14%
+person: 19%
+person: 25%
+car: 19%
+person: 11%
+bench: 40%
+stop sign: 75%
+person: 60%
+person: 25%
+car: 26%
+person: 69%
+person: 46%
+person: 35%
+person: 37%

@@ -1,0 +1,14 @@
+/home/nuria/TFP/images/u1/2015-02-28/b00000519_21i6bq_20150228_111110e.jpg: Predicted in 24.362667 seconds.
+cell phone: 11%
+cell phone: 20%
+book: 27%
+remote: 13%
+remote: 12%
+book: 10%
+book: 24%
+book: 12%
+person: 69%
+tvmonitor: 44%
+keyboard: 37%
+laptop: 46%
+tvmonitor: 19%

@@ -1,0 +1,16 @@
+/home/nuria/TFP/images/u1/2015-03-07/b00000446_21i6bq_20150307_113245e.jpg: Predicted in 25.984560 seconds.
+vase: 35%
+vase: 49%
+vase: 42%
+vase: 25%
+clock: 12%
+vase: 12%
+bowl: 14%
+bowl: 14%
+scissors: 22%
+chair: 54%
+chair: 18%
+chair: 39%
+chair: 15%
+vase: 26%
+chair: 37%

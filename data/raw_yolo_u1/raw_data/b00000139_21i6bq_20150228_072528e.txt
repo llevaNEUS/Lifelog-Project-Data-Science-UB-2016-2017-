@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-02-28/b00000139_21i6bq_20150228_072528e.jpg: Predicted in 25.974344 seconds.
+aeroplane: 23%
+skateboard: 13%
+mouse: 20%
+cell phone: 32%
+diningtable: 13%
+person: 13%

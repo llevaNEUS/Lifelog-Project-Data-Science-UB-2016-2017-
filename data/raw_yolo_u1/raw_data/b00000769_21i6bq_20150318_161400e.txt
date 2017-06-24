@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-18/b00000769_21i6bq_20150318_161400e.jpg: Predicted in 24.933155 seconds.
+person: 14%
+backpack: 16%
+tvmonitor: 31%
+person: 69%
+laptop: 61%
+diningtable: 19%

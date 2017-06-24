@@ -1,0 +1,13 @@
+/home/nuria/TFP/images/u1/2015-02-27/b00000590_21i6bq_20150227_132851e.jpg: Predicted in 14.222233 seconds.
+person: 20%
+car: 14%
+bicycle: 22%
+bottle: 47%
+car: 38%
+person: 42%
+bicycle: 38%
+cup: 13%
+bowl: 31%
+laptop: 38%
+diningtable: 12%
+bench: 30%

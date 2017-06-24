@@ -1,0 +1,15 @@
+/home/nuria/TFP/images/u1/2015-03-16/b00002907_21i6bq_20150316_200753e.jpg: Predicted in 23.413857 seconds.
+knife: 12%
+wine glass: 48%
+cup: 15%
+cup: 23%
+tvmonitor: 16%
+cup: 13%
+cup: 51%
+knife: 27%
+cake: 37%
+spoon: 15%
+spoon: 15%
+cup: 20%
+person: 80%
+diningtable: 18%

@@ -1,0 +1,23 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00001048_21i6bq_20150226_172813e.jpg: Predicted in 28.684103 seconds.
+traffic light: 11%
+remote: 11%
+tvmonitor: 14%
+car: 12%
+car: 32%
+car: 35%
+tvmonitor: 18%
+diningtable: 16%
+chair: 15%
+diningtable: 15%
+diningtable: 25%
+chair: 26%
+diningtable: 10%
+diningtable: 46%
+diningtable: 28%
+chair: 39%
+chair: 32%
+chair: 17%
+person: 87%
+chair: 64%
+diningtable: 39%
+diningtable: 14%

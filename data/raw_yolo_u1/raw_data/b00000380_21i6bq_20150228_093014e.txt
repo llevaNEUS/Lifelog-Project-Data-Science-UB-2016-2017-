@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-02-28/b00000380_21i6bq_20150228_093014e.jpg: Predicted in 26.429878 seconds.
+pottedplant: 24%
+pottedplant: 25%
+tvmonitor: 15%
+tvmonitor: 36%
+pottedplant: 66%
+person: 12%

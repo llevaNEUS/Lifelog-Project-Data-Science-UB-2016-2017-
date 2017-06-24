@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-03-17/b00001574_21i6bq_20150317_233214e.jpg: Predicted in 17.351385 seconds.
+keyboard: 43%
+person: 10%
+person: 78%

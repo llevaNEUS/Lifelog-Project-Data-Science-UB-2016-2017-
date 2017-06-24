@@ -1,0 +1,31 @@
+/home/nuria/TFP/images/u1/2015-02-24/b00000745_21i6bq_20150224_141635e.jpg: Predicted in 26.539848 seconds.
+car: 41%
+car: 23%
+car: 54%
+car: 28%
+chair: 26%
+cell phone: 20%
+tvmonitor: 16%
+person: 16%
+person: 43%
+person: 26%
+cup: 56%
+chair: 31%
+chair: 12%
+chair: 25%
+chair: 19%
+diningtable: 21%
+cup: 80%
+keyboard: 48%
+book: 55%
+chair: 45%
+person: 22%
+person: 66%
+diningtable: 25%
+person: 26%
+chair: 37%
+chair: 28%
+chair: 14%
+laptop: 89%
+person: 62%
+diningtable: 23%

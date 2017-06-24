@@ -1,0 +1,25 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00000010_21i6bq_20150226_061300e.jpg: Predicted in 16.220787 seconds.
+bottle: 17%
+bottle: 13%
+cup: 13%
+cup: 17%
+bowl: 20%
+bowl: 19%
+person: 36%
+book: 13%
+remote: 57%
+remote: 50%
+bottle: 55%
+bowl: 62%
+bowl: 47%
+banana: 12%
+bowl: 56%
+bowl: 65%
+apple: 13%
+banana: 69%
+knife: 12%
+tvmonitor: 89%
+person: 24%
+diningtable: 29%
+chair: 59%
+person: 74%

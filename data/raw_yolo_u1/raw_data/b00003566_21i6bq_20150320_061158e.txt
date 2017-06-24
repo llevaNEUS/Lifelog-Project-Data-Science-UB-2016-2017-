@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-03-20/b00003566_21i6bq_20150320_061158e.jpg: Predicted in 23.919292 seconds.
+person: 12%
+toothbrush: 34%
+person: 21%

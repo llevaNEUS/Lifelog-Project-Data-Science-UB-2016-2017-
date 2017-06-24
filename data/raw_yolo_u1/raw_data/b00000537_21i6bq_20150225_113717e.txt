@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-02-25/b00000537_21i6bq_20150225_113717e.jpg: Predicted in 24.576733 seconds.
+frisbee: 47%
+person: 67%
+truck: 10%
+umbrella: 13%
+tvmonitor: 43%

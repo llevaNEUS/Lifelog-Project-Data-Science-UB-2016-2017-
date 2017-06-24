@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-15/b00000652_21i6bq_20150315_135922e.jpg: Predicted in 15.909152 seconds.
+snowboard: 15%
+remote: 10%
+person: 44%
+person: 55%
+aeroplane: 16%
+person: 25%
+car: 36%
+aeroplane: 33%

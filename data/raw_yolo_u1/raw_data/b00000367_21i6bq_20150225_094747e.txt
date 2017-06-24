@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-02-25/b00000367_21i6bq_20150225_094747e.jpg: Predicted in 24.999628 seconds.
+backpack: 35%
+toilet: 11%
+person: 47%
+person: 12%
+parking meter: 84%

@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-18/b00000031_21i6bq_20150318_075322e.jpg: Predicted in 19.942347 seconds.
+cup: 10%
+sink: 16%
+sink: 13%
+sink: 26%
+sink: 35%
+microwave: 48%

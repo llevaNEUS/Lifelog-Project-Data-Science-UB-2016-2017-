@@ -1,0 +1,10 @@
+/home/nuria/TFP/images/u1/2015-03-04/b00000029_21i6bq_20150304_065728e.jpg: Predicted in 28.008589 seconds.
+tvmonitor: 37%
+clock: 18%
+umbrella: 12%
+handbag: 16%
+bowl: 11%
+tvmonitor: 60%
+sofa: 51%
+oven: 18%
+bed: 30%

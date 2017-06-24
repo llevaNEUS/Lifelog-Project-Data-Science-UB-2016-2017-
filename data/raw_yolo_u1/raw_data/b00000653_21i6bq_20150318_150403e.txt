@@ -1,0 +1,13 @@
+/home/nuria/TFP/images/u1/2015-03-18/b00000653_21i6bq_20150318_150403e.jpg: Predicted in 25.874464 seconds.
+vase: 13%
+apple: 27%
+orange: 13%
+orange: 28%
+apple: 21%
+tvmonitor: 22%
+person: 39%
+pottedplant: 35%
+chair: 21%
+laptop: 62%
+person: 58%
+diningtable: 61%

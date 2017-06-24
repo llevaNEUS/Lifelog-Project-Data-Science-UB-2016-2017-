@@ -1,0 +1,12 @@
+/home/nuria/TFP/images/u1/2015-03-07/b00000042_21i6bq_20150307_074331e.jpg: Predicted in 27.191830 seconds.
+hair drier: 11%
+knife: 12%
+chair: 39%
+bottle: 32%
+toothbrush: 11%
+chair: 17%
+person: 67%
+toothbrush: 64%
+person: 23%
+cup: 74%
+chair: 14%

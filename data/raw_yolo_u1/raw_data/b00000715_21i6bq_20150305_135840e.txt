@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-05/b00000715_21i6bq_20150305_135840e.jpg: Predicted in 14.093059 seconds.
+bottle: 10%
+bottle: 19%
+book: 12%
+tvmonitor: 29%
+chair: 34%
+hot dog: 25%
+person: 60%
+person: 73%

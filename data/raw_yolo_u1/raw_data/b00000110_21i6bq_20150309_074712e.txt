@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-09/b00000110_21i6bq_20150309_074712e.jpg: Predicted in 27.835735 seconds.
+teddy bear: 23%
+teddy bear: 11%
+teddy bear: 22%
+vase: 66%
+pottedplant: 33%
+pottedplant: 41%
+sofa: 36%
+sofa: 78%

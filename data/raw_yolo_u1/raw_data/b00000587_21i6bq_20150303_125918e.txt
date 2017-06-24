@@ -1,0 +1,10 @@
+/home/nuria/TFP/images/u1/2015-03-03/b00000587_21i6bq_20150303_125918e.jpg: Predicted in 25.160748 seconds.
+remote: 13%
+cup: 27%
+cup: 49%
+cup: 14%
+spoon: 17%
+book: 38%
+cake: 30%
+person: 55%
+diningtable: 52%

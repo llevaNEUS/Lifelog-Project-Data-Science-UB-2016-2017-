@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-02-23/b00000454_21i6bq_20150223_115225e.jpg: Predicted in 27.874910 seconds.
+tie: 19%
+bottle: 25%
+mouse: 14%
+person: 20%
+person: 13%
+person: 65%
+tvmonitor: 55%
+refrigerator: 15%

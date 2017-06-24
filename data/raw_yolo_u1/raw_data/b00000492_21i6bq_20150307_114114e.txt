@@ -1,0 +1,14 @@
+/home/nuria/TFP/images/u1/2015-03-07/b00000492_21i6bq_20150307_114114e.jpg: Predicted in 21.777868 seconds.
+teddy bear: 12%
+tvmonitor: 18%
+chair: 10%
+bowl: 17%
+traffic light: 16%
+teddy bear: 11%
+person: 46%
+vase: 19%
+laptop: 12%
+vase: 18%
+tvmonitor: 27%
+person: 63%
+sofa: 29%

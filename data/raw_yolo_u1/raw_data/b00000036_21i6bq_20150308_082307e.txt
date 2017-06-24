@@ -1,0 +1,18 @@
+/home/nuria/TFP/images/u1/2015-03-08/b00000036_21i6bq_20150308_082307e.jpg: Predicted in 24.575075 seconds.
+vase: 14%
+tvmonitor: 66%
+pottedplant: 50%
+pottedplant: 29%
+bowl: 19%
+cup: 15%
+chair: 69%
+wine glass: 14%
+pottedplant: 22%
+orange: 11%
+cup: 35%
+cup: 62%
+cake: 33%
+pizza: 12%
+fork: 35%
+person: 31%
+diningtable: 30%

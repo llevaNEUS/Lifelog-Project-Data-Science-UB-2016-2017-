@@ -1,0 +1,20 @@
+/home/nuria/TFP/images/u1/2015-02-24/b00000931_21i6bq_20150224_161010e.jpg: Predicted in 28.233152 seconds.
+person: 14%
+person: 54%
+person: 53%
+person: 12%
+bottle: 59%
+bowl: 30%
+pizza: 33%
+fork: 28%
+pizza: 17%
+knife: 14%
+pizza: 32%
+person: 70%
+pizza: 24%
+person: 67%
+pizza: 56%
+pizza: 22%
+person: 80%
+person: 33%
+diningtable: 30%

@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00000456_21i6bq_20150226_111821e.jpg: Predicted in 26.229927 seconds.
+remote: 18%
+bottle: 34%
+laptop: 26%
+person: 73%
+person: 49%
+refrigerator: 16%

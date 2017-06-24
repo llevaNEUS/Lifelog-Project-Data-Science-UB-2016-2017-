@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-18/b00000108_21i6bq_20150318_084200e.jpg: Predicted in 20.016651 seconds.
+wine glass: 19%
+person: 47%
+book: 22%
+train: 41%
+wine glass: 55%

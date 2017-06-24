@@ -1,0 +1,10 @@
+/home/nuria/TFP/images/u1/2015-02-25/b00001218_21i6bq_20150225_184442e.jpg: Predicted in 27.471769 seconds.
+backpack: 13%
+person: 14%
+person: 18%
+person: 13%
+person: 21%
+person: 11%
+bicycle: 12%
+person: 73%
+train: 51%

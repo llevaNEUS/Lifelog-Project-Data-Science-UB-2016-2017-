@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-15/b00000866_21i6bq_20150315_160155e.jpg: Predicted in 15.485995 seconds.
+kite: 23%
+person: 32%
+person: 69%
+sofa: 36%
+person: 53%
+person: 21%

@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-02-25/b00000256_21i6bq_20150225_083849e.jpg: Predicted in 16.380756 seconds.
+donut: 20%
+donut: 15%
+donut: 11%
+cake: 27%
+cake: 21%
+donut: 22%
+cake: 20%

@@ -1,0 +1,16 @@
+/home/nuria/TFP/images/u1/2015-02-24/b00000938_21i6bq_20150224_161423e.jpg: Predicted in 27.525488 seconds.
+chair: 10%
+cup: 43%
+knife: 19%
+fork: 24%
+fork: 22%
+pizza: 50%
+banana: 18%
+banana: 20%
+person: 81%
+knife: 11%
+banana: 24%
+diningtable: 41%
+person: 55%
+person: 62%
+diningtable: 18%

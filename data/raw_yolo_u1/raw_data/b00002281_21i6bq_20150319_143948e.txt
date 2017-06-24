@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-19/b00002281_21i6bq_20150319_143948e.jpg: Predicted in 15.380966 seconds.
+toothbrush: 23%
+book: 12%
+sink: 12%
+keyboard: 22%
+book: 41%
+person: 64%
+refrigerator: 14%
+person: 14%

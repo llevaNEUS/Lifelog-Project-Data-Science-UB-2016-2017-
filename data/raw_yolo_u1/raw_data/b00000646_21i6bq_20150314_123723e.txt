@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-14/b00000646_21i6bq_20150314_123723e.jpg: Predicted in 22.447256 seconds.
+chair: 13%
+teddy bear: 13%
+person: 33%
+cell phone: 32%

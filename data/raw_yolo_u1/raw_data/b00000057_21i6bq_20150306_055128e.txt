@@ -1,0 +1,27 @@
+/home/nuria/TFP/images/u1/2015-03-06/b00000057_21i6bq_20150306_055128e.jpg: Predicted in 26.776276 seconds.
+pizza: 12%
+person: 13%
+donut: 17%
+bowl: 12%
+donut: 10%
+bowl: 13%
+donut: 14%
+donut: 15%
+donut: 37%
+donut: 20%
+donut: 23%
+donut: 11%
+knife: 13%
+donut: 12%
+donut: 15%
+donut: 14%
+donut: 12%
+bowl: 22%
+person: 13%
+person: 49%
+bottle: 45%
+donut: 14%
+person: 20%
+donut: 18%
+diningtable: 12%
+person: 80%

@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-13/b00000879_21i6bq_20150313_145446e.jpg: Predicted in 14.204022 seconds.
+cup: 33%
+vase: 20%
+mouse: 16%
+aeroplane: 12%
+boat: 12%

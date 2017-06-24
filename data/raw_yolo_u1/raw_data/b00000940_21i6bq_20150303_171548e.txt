@@ -1,0 +1,11 @@
+/home/nuria/TFP/images/u1/2015-03-03/b00000940_21i6bq_20150303_171548e.jpg: Predicted in 28.243193 seconds.
+bottle: 24%
+bottle: 32%
+laptop: 40%
+cup: 61%
+book: 12%
+keyboard: 11%
+person: 14%
+person: 83%
+person: 72%
+refrigerator: 51%

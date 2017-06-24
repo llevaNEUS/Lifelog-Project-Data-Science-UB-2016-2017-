@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-02/b00000653_21i6bq_20150302_135846e.jpg: Predicted in 25.617926 seconds.
+cat: 10%
+person: 51%
+person: 81%
+handbag: 13%
+laptop: 43%
+oven: 33%

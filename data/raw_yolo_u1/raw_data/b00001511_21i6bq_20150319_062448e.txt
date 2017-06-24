@@ -1,0 +1,2 @@
+/home/nuria/TFP/images/u1/2015-03-19/b00001511_21i6bq_20150319_062448e.jpg: Predicted in 22.764280 seconds.
+suitcase: 25%

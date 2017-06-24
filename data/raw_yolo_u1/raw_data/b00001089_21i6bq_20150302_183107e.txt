@@ -1,0 +1,20 @@
+/home/nuria/TFP/images/u1/2015-03-02/b00001089_21i6bq_20150302_183107e.jpg: Predicted in 26.555737 seconds.
+chair: 11%
+carrot: 12%
+carrot: 26%
+carrot: 12%
+knife: 18%
+knife: 43%
+bowl: 28%
+book: 19%
+carrot: 21%
+carrot: 19%
+spoon: 12%
+spoon: 27%
+person: 66%
+carrot: 15%
+bowl: 44%
+person: 57%
+bowl: 15%
+bowl: 14%
+bowl: 40%

@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00000792_21i6bq_20150226_144116e.jpg: Predicted in 26.290140 seconds.
+oven: 20%
+oven: 17%
+oven: 26%
+bowl: 19%
+cake: 17%
+person: 43%
+diningtable: 10%

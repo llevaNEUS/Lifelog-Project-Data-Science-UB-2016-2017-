@@ -1,0 +1,20 @@
+/home/nuria/TFP/images/u1/2015-03-10/b00000494_21i6bq_20150310_181305e.jpg: Predicted in 25.422750 seconds.
+bottle: 13%
+knife: 11%
+knife: 13%
+knife: 10%
+knife: 16%
+knife: 33%
+knife: 17%
+knife: 13%
+knife: 12%
+knife: 14%
+chair: 26%
+bowl: 45%
+mouse: 12%
+cell phone: 29%
+keyboard: 38%
+tvmonitor: 30%
+refrigerator: 57%
+keyboard: 22%
+laptop: 92%

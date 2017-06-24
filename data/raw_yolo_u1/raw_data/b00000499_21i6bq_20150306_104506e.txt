@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-03-06/b00000499_21i6bq_20150306_104506e.jpg: Predicted in 26.686546 seconds.
+microwave: 29%
+toaster: 15%
+cup: 17%
+knife: 26%
+sink: 63%
+toilet: 14%
+person: 84%
+microwave: 32%

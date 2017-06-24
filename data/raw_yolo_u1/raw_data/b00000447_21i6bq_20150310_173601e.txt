@@ -1,0 +1,13 @@
+/home/nuria/TFP/images/u1/2015-03-10/b00000447_21i6bq_20150310_173601e.jpg: Predicted in 27.622755 seconds.
+car: 14%
+tvmonitor: 14%
+cup: 64%
+keyboard: 15%
+mouse: 87%
+keyboard: 64%
+car: 20%
+chair: 16%
+tvmonitor: 43%
+laptop: 11%
+keyboard: 53%
+laptop: 30%

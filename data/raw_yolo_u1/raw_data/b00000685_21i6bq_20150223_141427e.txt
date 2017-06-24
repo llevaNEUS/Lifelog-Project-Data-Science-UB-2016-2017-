@@ -1,0 +1,13 @@
+/home/nuria/TFP/images/u1/2015-02-23/b00000685_21i6bq_20150223_141427e.jpg: Predicted in 21.719727 seconds.
+tvmonitor: 74%
+person: 49%
+cup: 13%
+cup: 58%
+cup: 17%
+cup: 17%
+person: 11%
+person: 10%
+person: 85%
+person: 86%
+bowl: 13%
+diningtable: 30%

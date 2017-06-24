@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-03-14/b00001164_21i6bq_20150314_174109e.jpg: Predicted in 14.196881 seconds.
+bird: 10%
+person: 13%
+person: 21%

@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-05/b00000149_21i6bq_20150305_074306e.jpg: Predicted in 14.122979 seconds.
+book: 10%
+book: 17%
+book: 13%
+person: 32%
+cell phone: 10%
+person: 36%
+bowl: 11%

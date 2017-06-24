@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-11/b00000312_21i6bq_20150311_100056e.jpg: Predicted in 23.945194 seconds.
+bottle: 17%
+bowl: 11%
+tvmonitor: 37%
+person: 79%
+cell phone: 54%
+skateboard: 47%

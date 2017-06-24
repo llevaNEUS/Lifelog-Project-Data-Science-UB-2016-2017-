@@ -1,0 +1,16 @@
+/home/nuria/TFP/images/u1/2015-03-01/b00000504_21i6bq_20150301_115211e.jpg: Predicted in 15.925416 seconds.
+fork: 21%
+pottedplant: 63%
+suitcase: 21%
+suitcase: 16%
+knife: 12%
+cup: 23%
+person: 19%
+bowl: 31%
+bottle: 57%
+bottle: 74%
+bottle: 14%
+bottle: 24%
+person: 18%
+sink: 23%
+person: 73%

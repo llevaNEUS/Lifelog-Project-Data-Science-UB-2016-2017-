@@ -1,0 +1,14 @@
+/home/nuria/TFP/images/u1/2015-03-17/b00001032_21i6bq_20150317_181849e.jpg: Predicted in 16.352463 seconds.
+person: 14%
+person: 51%
+person: 25%
+tvmonitor: 15%
+person: 42%
+person: 76%
+person: 11%
+cell phone: 24%
+person: 77%
+cell phone: 25%
+bus: 38%
+person: 80%
+cow: 25%

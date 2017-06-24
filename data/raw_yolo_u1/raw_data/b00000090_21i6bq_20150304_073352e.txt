@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-04/b00000090_21i6bq_20150304_073352e.jpg: Predicted in 28.472998 seconds.
+toothbrush: 12%
+toothbrush: 11%
+toothbrush: 15%
+toothbrush: 12%
+cup: 29%
+toothbrush: 13%
+refrigerator: 11%

@@ -1,0 +1,13 @@
+/home/nuria/TFP/images/u1/2015-03-03/b00000036_21i6bq_20150303_062410e.jpg: Predicted in 24.218191 seconds.
+knife: 15%
+remote: 39%
+spoon: 10%
+spoon: 10%
+spoon: 21%
+spoon: 20%
+remote: 38%
+cup: 22%
+cup: 64%
+person: 86%
+sink: 17%
+person: 82%

@@ -1,0 +1,2 @@
+/home/nuria/TFP/images/u1/2015-03-20/b00003640_21i6bq_20150320_070340e.jpg: Predicted in 22.987116 seconds.
+sink: 35%

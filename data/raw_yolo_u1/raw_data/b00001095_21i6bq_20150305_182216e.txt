@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-05/b00001095_21i6bq_20150305_182216e.jpg: Predicted in 14.177688 seconds.
+sports ball: 56%
+person: 20%
+person: 16%
+diningtable: 31%

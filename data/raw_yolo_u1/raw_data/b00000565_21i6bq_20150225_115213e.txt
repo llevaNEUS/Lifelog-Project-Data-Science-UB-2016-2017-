@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-02-25/b00000565_21i6bq_20150225_115213e.jpg: Predicted in 21.636429 seconds.
+frisbee: 58%
+bottle: 22%
+umbrella: 15%
+aeroplane: 33%
+aeroplane: 15%

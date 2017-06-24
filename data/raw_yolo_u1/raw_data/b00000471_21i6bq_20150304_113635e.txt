@@ -1,0 +1,15 @@
+/home/nuria/TFP/images/u1/2015-03-04/b00000471_21i6bq_20150304_113635e.jpg: Predicted in 21.735888 seconds.
+clock: 53%
+cell phone: 21%
+person: 18%
+tie: 11%
+backpack: 24%
+backpack: 18%
+keyboard: 15%
+person: 30%
+tvmonitor: 73%
+backpack: 13%
+person: 26%
+person: 49%
+person: 84%
+person: 88%

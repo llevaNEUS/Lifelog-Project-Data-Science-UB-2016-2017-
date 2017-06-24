@@ -1,0 +1,14 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00000765_21i6bq_20150226_142458e.jpg: Predicted in 16.909422 seconds.
+cup: 15%
+bowl: 17%
+bowl: 43%
+sandwich: 12%
+fork: 13%
+pottedplant: 13%
+person: 80%
+wine glass: 11%
+bowl: 27%
+bowl: 35%
+diningtable: 16%
+person: 11%
+diningtable: 25%

@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-06/b00000415_21i6bq_20150306_095140e.jpg: Predicted in 24.388767 seconds.
+spoon: 17%
+person: 82%
+person: 28%
+person: 25%
+aeroplane: 20%

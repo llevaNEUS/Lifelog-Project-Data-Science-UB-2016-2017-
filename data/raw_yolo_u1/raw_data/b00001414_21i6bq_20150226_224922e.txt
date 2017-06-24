@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00001414_21i6bq_20150226_224922e.jpg: Predicted in 29.430494 seconds.
+toothbrush: 18%
+chair: 46%
+person: 57%
+person: 86%
+person: 12%
+aeroplane: 61%

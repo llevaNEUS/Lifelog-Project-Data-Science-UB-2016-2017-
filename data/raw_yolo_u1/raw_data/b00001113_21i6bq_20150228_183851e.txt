@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-02-28/b00001113_21i6bq_20150228_183851e.jpg: Predicted in 27.648235 seconds.
+bottle: 11%
+bus: 10%
+parking meter: 44%

@@ -1,0 +1,20 @@
+/home/nuria/TFP/images/u1/2015-03-04/b00000414_21i6bq_20150304_110022e.jpg: Predicted in 18.629953 seconds.
+bottle: 40%
+bottle: 42%
+bottle: 45%
+bottle: 30%
+tvmonitor: 17%
+tvmonitor: 14%
+person: 10%
+person: 21%
+bottle: 29%
+chair: 23%
+person: 32%
+person: 19%
+chair: 51%
+pizza: 33%
+oven: 10%
+oven: 30%
+refrigerator: 20%
+oven: 18%
+refrigerator: 30%

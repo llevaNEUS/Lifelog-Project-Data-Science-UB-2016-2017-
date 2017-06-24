@@ -1,0 +1,16 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00000223_21i6bq_20150226_083802e.jpg: Predicted in 26.641815 seconds.
+person: 10%
+person: 12%
+person: 19%
+person: 11%
+tvmonitor: 10%
+person: 76%
+pottedplant: 42%
+cup: 83%
+chair: 27%
+cup: 25%
+book: 25%
+cell phone: 61%
+person: 31%
+person: 24%
+person: 28%

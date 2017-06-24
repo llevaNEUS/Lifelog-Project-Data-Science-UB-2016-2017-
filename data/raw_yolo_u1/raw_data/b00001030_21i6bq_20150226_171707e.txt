@@ -1,0 +1,20 @@
+/home/nuria/TFP/images/u1/2015-02-26/b00001030_21i6bq_20150226_171707e.jpg: Predicted in 30.619678 seconds.
+handbag: 14%
+tvmonitor: 36%
+pottedplant: 11%
+cup: 11%
+cup: 26%
+tvmonitor: 61%
+bench: 33%
+laptop: 34%
+diningtable: 12%
+chair: 46%
+chair: 19%
+chair: 27%
+chair: 58%
+chair: 19%
+chair: 74%
+person: 73%
+chair: 53%
+diningtable: 13%
+diningtable: 30%

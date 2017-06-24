@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-19/b00002045_21i6bq_20150319_120755e.jpg: Predicted in 22.706871 seconds.
+person: 12%
+boat: 21%
+boat: 52%
+boat: 33%
+car: 42%
+suitcase: 13%

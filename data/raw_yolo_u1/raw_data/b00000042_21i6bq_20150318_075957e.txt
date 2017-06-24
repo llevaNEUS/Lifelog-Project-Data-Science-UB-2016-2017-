@@ -1,0 +1,4 @@
+/home/nuria/TFP/images/u1/2015-03-18/b00000042_21i6bq_20150318_075957e.jpg: Predicted in 21.732887 seconds.
+snowboard: 33%
+cell phone: 34%
+toilet: 28%

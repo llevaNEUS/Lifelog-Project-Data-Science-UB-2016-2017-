@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-02-27/b00000066_21i6bq_20150227_074731e.jpg: Predicted in 22.725054 seconds.
+vase: 49%
+cup: 13%
+vase: 48%
+pottedplant: 22%
+pottedplant: 71%
+bottle: 80%
+bus: 15%

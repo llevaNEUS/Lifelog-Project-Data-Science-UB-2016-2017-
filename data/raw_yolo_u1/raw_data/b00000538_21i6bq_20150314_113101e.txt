@@ -1,0 +1,12 @@
+/home/nuria/TFP/images/u1/2015-03-14/b00000538_21i6bq_20150314_113101e.jpg: Predicted in 20.831383 seconds.
+bottle: 19%
+bottle: 21%
+bottle: 22%
+bottle: 14%
+traffic light: 14%
+bottle: 18%
+bottle: 11%
+bottle: 14%
+book: 14%
+chair: 61%
+person: 66%

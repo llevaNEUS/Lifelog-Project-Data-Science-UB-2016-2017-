@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-02-24/b00000573_21i6bq_20150224_123146e.jpg: Predicted in 26.246569 seconds.
+person: 13%
+person: 39%
+car: 33%
+person: 46%
+microwave: 46%
+remote: 14%
+person: 32%
+person: 23%

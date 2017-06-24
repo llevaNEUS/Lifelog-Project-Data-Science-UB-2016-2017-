@@ -1,0 +1,14 @@
+/home/nuria/TFP/images/u1/2015-03-05/b00000822_21i6bq_20150305_150612e.jpg: Predicted in 14.185313 seconds.
+knife: 16%
+knife: 17%
+knife: 11%
+knife: 11%
+orange: 42%
+knife: 10%
+knife: 17%
+person: 14%
+bottle: 19%
+spoon: 17%
+tvmonitor: 43%
+person: 91%
+tvmonitor: 45%

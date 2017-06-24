@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-19/b00002688_21i6bq_20150319_191137e.jpg: Predicted in 15.559897 seconds.
+cup: 27%
+orange: 43%
+cup: 11%
+wine glass: 13%
+wine glass: 15%
+toilet: 31%

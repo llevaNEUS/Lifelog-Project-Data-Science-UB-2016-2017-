@@ -1,0 +1,19 @@
+/home/nuria/TFP/images/u1/2015-02-28/b00001114_21i6bq_20150228_192104e.jpg: Predicted in 27.623001 seconds.
+bottle: 16%
+bottle: 10%
+sports ball: 18%
+bottle: 24%
+person: 11%
+clock: 11%
+cup: 12%
+bottle: 11%
+vase: 21%
+bottle: 18%
+bottle: 12%
+diningtable: 11%
+chair: 22%
+bottle: 46%
+wine glass: 11%
+bottle: 34%
+clock: 11%
+diningtable: 35%

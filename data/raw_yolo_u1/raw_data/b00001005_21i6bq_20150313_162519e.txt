@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-03-13/b00001005_21i6bq_20150313_162519e.jpg: Predicted in 25.431213 seconds.
+tie: 10%
+cell phone: 31%
+hair drier: 11%
+cell phone: 72%
+sink: 15%
+person: 56%
+person: 55%

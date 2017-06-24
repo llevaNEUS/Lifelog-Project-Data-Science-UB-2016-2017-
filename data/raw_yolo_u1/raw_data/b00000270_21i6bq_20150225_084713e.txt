@@ -1,0 +1,9 @@
+/home/nuria/TFP/images/u1/2015-02-25/b00000270_21i6bq_20150225_084713e.jpg: Predicted in 25.126877 seconds.
+chair: 15%
+bed: 21%
+cake: 54%
+knife: 45%
+refrigerator: 22%
+cell phone: 58%
+person: 56%
+diningtable: 52%

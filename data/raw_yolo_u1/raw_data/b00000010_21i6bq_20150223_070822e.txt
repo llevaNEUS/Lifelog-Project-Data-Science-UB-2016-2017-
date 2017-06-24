@@ -1,0 +1,12 @@
+/home/nuria/TFP/images/u1/2015-02-23/b00000010_21i6bq_20150223_070822e.jpg: Predicted in 24.691805 seconds.
+orange: 12%
+bottle: 18%
+apple: 12%
+apple: 11%
+bottle: 45%
+bottle: 18%
+apple: 36%
+orange: 33%
+chair: 11%
+cat: 15%
+chair: 29%

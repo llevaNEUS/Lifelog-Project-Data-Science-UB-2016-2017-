@@ -1,0 +1,7 @@
+/home/nuria/TFP/images/u1/2015-03-16/b00002933_21i6bq_20150316_202850e.jpg: Predicted in 23.553085 seconds.
+pottedplant: 37%
+tvmonitor: 34%
+cup: 53%
+person: 45%
+person: 38%
+donut: 56%

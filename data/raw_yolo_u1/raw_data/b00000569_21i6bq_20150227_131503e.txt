@@ -1,0 +1,16 @@
+/home/nuria/TFP/images/u1/2015-02-27/b00000569_21i6bq_20150227_131503e.jpg: Predicted in 24.917532 seconds.
+apple: 19%
+cup: 25%
+person: 22%
+backpack: 13%
+backpack: 10%
+person: 12%
+cell phone: 15%
+laptop: 42%
+cup: 18%
+backpack: 34%
+person: 25%
+person: 15%
+person: 23%
+diningtable: 12%
+person: 79%

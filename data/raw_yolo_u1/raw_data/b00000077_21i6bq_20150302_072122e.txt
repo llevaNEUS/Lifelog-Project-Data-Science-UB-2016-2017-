@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-03-02/b00000077_21i6bq_20150302_072122e.jpg: Predicted in 21.906101 seconds.
+pottedplant: 27%
+bottle: 13%
+pottedplant: 51%
+person: 45%
+bed: 19%

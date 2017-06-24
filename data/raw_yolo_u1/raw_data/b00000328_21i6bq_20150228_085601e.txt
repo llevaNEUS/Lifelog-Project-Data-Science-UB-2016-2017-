@@ -1,0 +1,6 @@
+/home/nuria/TFP/images/u1/2015-02-28/b00000328_21i6bq_20150228_085601e.jpg: Predicted in 28.757736 seconds.
+kite: 11%
+kite: 14%
+kite: 13%
+bird: 30%
+bird: 18%

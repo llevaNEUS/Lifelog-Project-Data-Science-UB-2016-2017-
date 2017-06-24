@@ -1,0 +1,8 @@
+/home/nuria/TFP/images/u1/2015-02-24/b00000242_21i6bq_20150224_090727e.jpg: Predicted in 27.631516 seconds.
+mouse: 11%
+hair drier: 29%
+keyboard: 78%
+keyboard: 19%
+person: 38%
+person: 73%
+laptop: 92%

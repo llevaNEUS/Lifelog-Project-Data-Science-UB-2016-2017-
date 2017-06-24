@@ -1,0 +1,25 @@
+/home/nuria/TFP/images/u1/2015-03-05/b00001252_21i6bq_20150305_203307e.jpg: Predicted in 14.125483 seconds.
+book: 13%
+book: 16%
+person: 21%
+laptop: 34%
+cup: 30%
+cup: 41%
+remote: 23%
+remote: 23%
+remote: 13%
+cell phone: 41%
+donut: 16%
+donut: 38%
+donut: 37%
+donut: 19%
+donut: 34%
+cell phone: 23%
+donut: 45%
+donut: 32%
+cat: 67%
+donut: 10%
+tvmonitor: 82%
+person: 58%
+person: 23%
+diningtable: 77%

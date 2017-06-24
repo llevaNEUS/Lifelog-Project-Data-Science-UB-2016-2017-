@@ -1,0 +1,5 @@
+/home/nuria/TFP/images/u1/2015-03-11/b00000357_21i6bq_20150311_103600e.jpg: Predicted in 25.983177 seconds.
+bottle: 34%
+bottle: 35%
+keyboard: 14%
+laptop: 82%
