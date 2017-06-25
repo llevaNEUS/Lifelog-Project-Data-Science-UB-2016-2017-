@@ -16,8 +16,9 @@ Supervised by Dr. Petia Radeva.
 We have devided the repository into diferent folders where we can find different .ipnb files with all code developed in the different project tasks:
 
   0. Obtain Data
-  1. Clean data and add extra features
-  2. Training and prediction
-  3. Conclusions and results
+  1. Data analysis
+  2. Clean data and add extra features
+  3. Trainings and predictions
+  4. Results and conclusions
   
  You can find further information in this project [Wiki](https://github.com/llevaNEUS/Lifelog-Project-Data-Science-UB-2016-2017-/wiki)
