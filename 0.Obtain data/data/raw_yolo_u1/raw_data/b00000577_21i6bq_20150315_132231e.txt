@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-15/b00000577_21i6bq_20150315_132231e.jpg: Predicted in 14.420540 seconds.
-snowboard: 36%
-person: 70%
-motorbike: 20%
-person: 13%
-toilet: 24%

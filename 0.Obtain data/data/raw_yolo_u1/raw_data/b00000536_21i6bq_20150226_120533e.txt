@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-26/b00000536_21i6bq_20150226_120533e.jpg: Predicted in 24.327089 seconds.
-knife: 38%
-bowl: 32%
-chair: 16%
-remote: 15%
-person: 79%
-bed: 17%

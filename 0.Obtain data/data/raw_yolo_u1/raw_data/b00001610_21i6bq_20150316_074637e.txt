@@ -1,3 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-16/b00001610_21i6bq_20150316_074637e.jpg: Predicted in 25.667212 seconds.
-skis: 11%
-toilet: 24%

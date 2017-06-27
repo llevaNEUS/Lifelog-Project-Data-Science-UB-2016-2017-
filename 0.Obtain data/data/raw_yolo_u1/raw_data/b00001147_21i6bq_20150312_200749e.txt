@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-12/b00001147_21i6bq_20150312_200749e.jpg: Predicted in 25.261072 seconds.
-knife: 18%
-fork: 40%
-fork: 10%
-knife: 11%
-knife: 16%
-fork: 40%
-person: 87%
-refrigerator: 82%

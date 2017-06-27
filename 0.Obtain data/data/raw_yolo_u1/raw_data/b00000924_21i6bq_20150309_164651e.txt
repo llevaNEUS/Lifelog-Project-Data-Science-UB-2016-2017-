@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-09/b00000924_21i6bq_20150309_164651e.jpg: Predicted in 25.923956 seconds.
-mouse: 14%
-book: 30%
-cup: 46%
-book: 33%
-bottle: 27%

@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-02/b00000420_21i6bq_20150302_111628e.jpg: Predicted in 25.858929 seconds.
-clock: 16%
-donut: 13%
-person: 21%
-scissors: 12%
-toothbrush: 28%
-person: 67%

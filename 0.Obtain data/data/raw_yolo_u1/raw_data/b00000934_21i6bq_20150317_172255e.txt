@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-17/b00000934_21i6bq_20150317_172255e.jpg: Predicted in 23.278172 seconds.
-orange: 15%
-sofa: 32%
-chair: 34%
-person: 28%
-tvmonitor: 42%

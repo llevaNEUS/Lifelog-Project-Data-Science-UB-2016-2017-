@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-13/b00000031_21i6bq_20150313_060156e.jpg: Predicted in 25.071960 seconds.
-teddy bear: 11%
-teddy bear: 34%
-tvmonitor: 63%
-book: 16%
-remote: 22%
-teddy bear: 55%
-person: 15%
-bed: 30%

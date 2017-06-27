@@ -1,3 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-28/b00000624_21i6bq_20150228_121830e.jpg: Predicted in 26.123552 seconds.
-cup: 24%
-surfboard: 19%

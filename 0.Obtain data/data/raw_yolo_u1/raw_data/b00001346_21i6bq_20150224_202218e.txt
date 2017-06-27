@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-24/b00001346_21i6bq_20150224_202218e.jpg: Predicted in 24.842344 seconds.
-bottle: 31%
-vase: 15%
-bottle: 11%
-cup: 24%
-bottle: 64%
-bottle: 55%
-vase: 19%
-sink: 85%

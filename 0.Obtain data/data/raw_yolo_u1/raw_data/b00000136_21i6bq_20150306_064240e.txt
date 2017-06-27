@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-06/b00000136_21i6bq_20150306_064240e.jpg: Predicted in 17.999037 seconds.
-book: 69%
-suitcase: 19%
-handbag: 19%

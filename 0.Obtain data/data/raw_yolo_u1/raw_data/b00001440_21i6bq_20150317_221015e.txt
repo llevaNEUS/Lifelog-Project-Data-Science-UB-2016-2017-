@@ -1,3 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-17/b00001440_21i6bq_20150317_221015e.jpg: Predicted in 23.431339 seconds.
-laptop: 77%
-suitcase: 11%

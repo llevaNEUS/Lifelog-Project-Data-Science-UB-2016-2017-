@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-14/b00001020_21i6bq_20150314_161113e.jpg: Predicted in 14.075188 seconds.
-skis: 30%
-sink: 47%
-car: 30%

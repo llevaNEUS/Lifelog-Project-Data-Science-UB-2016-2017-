@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-14/b00000088_21i6bq_20150314_065645e.jpg: Predicted in 29.145348 seconds.
-remote: 17%
-person: 20%
-toilet: 40%
-parking meter: 14%

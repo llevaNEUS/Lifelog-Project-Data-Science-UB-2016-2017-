@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-07/b00000835_21i6bq_20150307_145246e.jpg: Predicted in 26.758781 seconds.
-knife: 10%
-cell phone: 12%
-cell phone: 19%
-motorbike: 28%

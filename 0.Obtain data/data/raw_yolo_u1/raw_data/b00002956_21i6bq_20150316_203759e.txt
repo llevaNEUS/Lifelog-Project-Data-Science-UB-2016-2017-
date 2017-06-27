@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-16/b00002956_21i6bq_20150316_203759e.jpg: Predicted in 19.393194 seconds.
-car: 12%
-car: 11%
-car: 46%
-car: 33%
-baseball bat: 29%
-person: 46%

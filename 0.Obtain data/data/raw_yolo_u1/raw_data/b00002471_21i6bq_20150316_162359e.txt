@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-16/b00002471_21i6bq_20150316_162359e.jpg: Predicted in 21.895575 seconds.
-suitcase: 59%
-sink: 21%
-suitcase: 52%

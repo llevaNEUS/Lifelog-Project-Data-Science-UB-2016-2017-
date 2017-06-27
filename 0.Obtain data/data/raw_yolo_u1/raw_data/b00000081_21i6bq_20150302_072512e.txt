@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-02/b00000081_21i6bq_20150302_072512e.jpg: Predicted in 27.624998 seconds.
-teddy bear: 34%
-bottle: 15%
-bottle: 20%
-bottle: 12%
-person: 45%
-sofa: 51%

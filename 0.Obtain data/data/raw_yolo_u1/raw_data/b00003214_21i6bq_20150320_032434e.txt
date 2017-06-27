@@ -1,3 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-20/b00003214_21i6bq_20150320_032434e.jpg: Predicted in 20.781532 seconds.
-suitcase: 35%
-toilet: 48%

@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-19/b00002196_21i6bq_20150319_134312e.jpg: Predicted in 22.873352 seconds.
-person: 11%
-sink: 17%
-chair: 26%
-toilet: 52%
-chair: 13%
-book: 19%

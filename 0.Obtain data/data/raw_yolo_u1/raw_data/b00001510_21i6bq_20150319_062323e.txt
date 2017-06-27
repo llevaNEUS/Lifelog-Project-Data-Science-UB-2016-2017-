@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-19/b00001510_21i6bq_20150319_062323e.jpg: Predicted in 15.660625 seconds.
-traffic light: 19%
-train: 12%
-aeroplane: 37%

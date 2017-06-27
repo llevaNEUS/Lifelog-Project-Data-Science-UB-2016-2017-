@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-19/b00001900_21i6bq_20150319_102625e.jpg: Predicted in 21.825724 seconds.
-traffic light: 21%
-car: 22%
-car: 14%
-bottle: 85%
-person: 11%
-chair: 63%
-chair: 21%
-person: 91%

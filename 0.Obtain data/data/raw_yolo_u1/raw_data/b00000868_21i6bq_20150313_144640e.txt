@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-13/b00000868_21i6bq_20150313_144640e.jpg: Predicted in 14.080633 seconds.
-traffic light: 12%
-chair: 20%
-cup: 11%
-person: 68%
-aeroplane: 12%
-boat: 36%

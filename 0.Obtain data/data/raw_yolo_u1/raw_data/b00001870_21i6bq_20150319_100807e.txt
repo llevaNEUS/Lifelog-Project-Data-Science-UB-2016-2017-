@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-19/b00001870_21i6bq_20150319_100807e.jpg: Predicted in 23.772951 seconds.
-person: 32%
-motorbike: 27%
-parking meter: 13%

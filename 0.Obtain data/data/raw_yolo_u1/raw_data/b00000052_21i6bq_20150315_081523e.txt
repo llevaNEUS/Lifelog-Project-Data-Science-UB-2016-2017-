@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-15/b00000052_21i6bq_20150315_081523e.jpg: Predicted in 14.131024 seconds.
-cup: 12%
-bowl: 14%
-sofa: 10%
-tvmonitor: 83%
-cake: 23%
-person: 39%
-dog: 28%

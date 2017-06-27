@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-27/b00000607_21i6bq_20150227_133923e.jpg: Predicted in 26.549513 seconds.
-person: 19%
-laptop: 53%
-person: 36%
-person: 66%
-refrigerator: 25%

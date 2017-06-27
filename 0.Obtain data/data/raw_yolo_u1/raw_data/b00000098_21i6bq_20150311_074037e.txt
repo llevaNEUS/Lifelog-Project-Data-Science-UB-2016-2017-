@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-11/b00000098_21i6bq_20150311_074037e.jpg: Predicted in 23.141832 seconds.
-aeroplane: 19%
-cell phone: 23%
-aeroplane: 11%
-tvmonitor: 50%
-diningtable: 15%
-mouse: 38%

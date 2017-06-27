@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-28/b00000805_21i6bq_20150228_141340e.jpg: Predicted in 25.603573 seconds.
-snowboard: 17%
-person: 40%
-aeroplane: 30%

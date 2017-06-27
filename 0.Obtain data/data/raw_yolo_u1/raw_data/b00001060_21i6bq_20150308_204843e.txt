@@ -1,3 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-08/b00001060_21i6bq_20150308_204843e.jpg: Predicted in 24.317825 seconds.
-aeroplane: 16%
-refrigerator: 12%

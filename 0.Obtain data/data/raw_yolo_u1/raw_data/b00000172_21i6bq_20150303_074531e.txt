@@ -1,3 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-03/b00000172_21i6bq_20150303_074531e.jpg: Predicted in 27.698275 seconds.
-sheep: 16%
-sheep: 39%

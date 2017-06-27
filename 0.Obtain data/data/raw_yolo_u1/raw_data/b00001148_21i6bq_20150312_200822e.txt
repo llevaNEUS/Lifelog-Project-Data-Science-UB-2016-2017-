@@ -1,3 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-12/b00001148_21i6bq_20150312_200822e.jpg: Predicted in 25.067030 seconds.
-train: 32%
-train: 10%

@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-05/b00000976_21i6bq_20150305_165827e.jpg: Predicted in 14.098242 seconds.
-knife: 13%
-book: 24%
-bowl: 16%
-refrigerator: 16%
-cup: 29%
-person: 84%
-laptop: 85%
-person: 55%

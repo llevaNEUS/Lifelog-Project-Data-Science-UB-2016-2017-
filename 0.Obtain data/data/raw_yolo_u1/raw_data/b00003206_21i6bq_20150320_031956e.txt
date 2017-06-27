@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-20/b00003206_21i6bq_20150320_031956e.jpg: Predicted in 30.508596 seconds.
-cell phone: 67%
-suitcase: 20%
-toilet: 15%

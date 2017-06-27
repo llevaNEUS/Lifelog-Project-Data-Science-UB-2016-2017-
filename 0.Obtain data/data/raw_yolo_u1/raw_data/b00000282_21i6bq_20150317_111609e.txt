@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-17/b00000282_21i6bq_20150317_111609e.jpg: Predicted in 21.872784 seconds.
-cup: 12%
-toothbrush: 24%
-cup: 17%
-toilet: 90%
-sink: 85%

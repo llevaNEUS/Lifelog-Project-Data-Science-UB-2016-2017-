@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-14/b00000374_21i6bq_20150314_095446e.jpg: Predicted in 24.564968 seconds.
-book: 15%
-person: 14%
-person: 75%
-person: 29%
-laptop: 58%
-person: 88%

@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-13/b00000194_21i6bq_20150313_073114e.jpg: Predicted in 14.097729 seconds.
-chair: 25%
-chair: 64%
-vase: 40%
-oven: 36%
-refrigerator: 29%

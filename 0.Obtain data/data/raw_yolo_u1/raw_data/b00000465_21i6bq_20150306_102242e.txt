@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-06/b00000465_21i6bq_20150306_102242e.jpg: Predicted in 28.517780 seconds.
-knife: 14%
-remote: 11%
-person: 31%
-person: 27%
-motorbike: 15%

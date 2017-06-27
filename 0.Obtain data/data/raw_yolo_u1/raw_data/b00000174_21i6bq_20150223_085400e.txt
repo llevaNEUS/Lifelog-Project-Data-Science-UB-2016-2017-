@@ -1,3 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-23/b00000174_21i6bq_20150223_085400e.jpg: Predicted in 27.601149 seconds.
-chair: 12%
-surfboard: 14%

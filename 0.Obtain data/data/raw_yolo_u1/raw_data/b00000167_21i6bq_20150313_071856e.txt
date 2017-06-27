@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-13/b00000167_21i6bq_20150313_071856e.jpg: Predicted in 23.055689 seconds.
-bird: 15%
-car: 21%
-bus: 37%
-person: 23%

@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-27/b00000364_21i6bq_20150227_110048e.jpg: Predicted in 25.989183 seconds.
-bottle: 30%
-sports ball: 11%
-knife: 11%
-tvmonitor: 36%
-refrigerator: 20%

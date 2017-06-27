@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-16/b00002445_21i6bq_20150316_160756e.jpg: Predicted in 20.869200 seconds.
-bottle: 15%
-mouse: 20%
-hair drier: 25%
-person: 48%
-person: 23%
-book: 28%
-person: 20%
-toilet: 11%

@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-18/b00001015_21i6bq_20150318_185723e.jpg: Predicted in 21.858271 seconds.
-mouse: 10%
-mouse: 13%
-bird: 14%
-traffic light: 12%

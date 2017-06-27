@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-13/b00001152_21i6bq_20150313_175446e.jpg: Predicted in 14.139143 seconds.
-book: 14%
-toothbrush: 26%
-knife: 18%
-knife: 11%
-cup: 26%

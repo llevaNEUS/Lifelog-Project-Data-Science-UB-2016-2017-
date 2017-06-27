@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-11/b00000703_21i6bq_20150311_140445e.jpg: Predicted in 20.996168 seconds.
-mouse: 11%
-person: 67%
-person: 77%
-banana: 15%
-chair: 17%
-chair: 12%
-bowl: 29%

@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-03/b00000000_21i6bq_20150303_060446e.jpg: Predicted in 25.206425 seconds.
-vase: 12%
-vase: 53%
-suitcase: 20%
-backpack: 23%
-diningtable: 15%
-person: 54%
-diningtable: 17%

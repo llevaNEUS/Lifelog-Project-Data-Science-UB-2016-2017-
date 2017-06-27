@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-17/b00001100_21i6bq_20150317_190517e.jpg: Predicted in 16.684105 seconds.
-sandwich: 11%
-cup: 30%
-sandwich: 36%
-person: 38%
-diningtable: 19%

@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-17/b00000062_21i6bq_20150317_090913e.jpg: Predicted in 18.560503 seconds.
-chair: 43%
-laptop: 34%
-cup: 56%
-chair: 73%
-chair: 15%

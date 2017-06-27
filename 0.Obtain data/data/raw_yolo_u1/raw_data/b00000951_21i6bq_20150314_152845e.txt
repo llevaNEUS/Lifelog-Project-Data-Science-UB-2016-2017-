@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-14/b00000951_21i6bq_20150314_152845e.jpg: Predicted in 23.733667 seconds.
-person: 10%
-bird: 21%
-cake: 12%
-knife: 17%

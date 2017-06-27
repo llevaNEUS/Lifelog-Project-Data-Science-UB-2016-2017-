@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-19/b00002680_21i6bq_20150319_190425e.jpg: Predicted in 15.530483 seconds.
-toothbrush: 22%
-wine glass: 38%
-toilet: 66%

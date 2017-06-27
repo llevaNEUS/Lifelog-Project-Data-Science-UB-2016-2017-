@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-08/b00000808_21i6bq_20150308_174239e.jpg: Predicted in 14.096484 seconds.
-clock: 56%
-clock: 40%
-remote: 17%
-person: 14%
-person: 19%
-person: 83%
-chair: 45%

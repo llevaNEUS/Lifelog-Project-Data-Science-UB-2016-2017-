@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-23/b00000138_21i6bq_20150223_082819e.jpg: Predicted in 27.234875 seconds.
-fork: 15%
-handbag: 11%
-person: 45%
-train: 16%
-refrigerator: 35%

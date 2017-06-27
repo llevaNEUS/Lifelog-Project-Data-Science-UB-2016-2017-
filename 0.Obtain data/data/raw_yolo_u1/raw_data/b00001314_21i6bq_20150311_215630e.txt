@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-11/b00001314_21i6bq_20150311_215630e.jpg: Predicted in 28.913515 seconds.
-refrigerator: 14%
-bowl: 67%
-tvmonitor: 19%
-cup: 86%
-diningtable: 55%
-person: 67%
-person: 28%

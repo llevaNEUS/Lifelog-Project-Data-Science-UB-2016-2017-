@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-26/b00000755_21i6bq_20150226_141854e.jpg: Predicted in 26.616907 seconds.
-bottle: 25%
-cup: 61%
-bowl: 14%
-person: 11%
-cat: 11%
-bowl: 76%
-knife: 24%
-diningtable: 44%

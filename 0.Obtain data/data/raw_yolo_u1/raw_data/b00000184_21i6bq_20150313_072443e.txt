@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-13/b00000184_21i6bq_20150313_072443e.jpg: Predicted in 14.201370 seconds.
-person: 14%
-refrigerator: 13%
-keyboard: 32%
-person: 77%
-sink: 22%
-refrigerator: 18%
-sink: 64%

@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-20/b00003247_21i6bq_20150320_033849e.jpg: Predicted in 21.668396 seconds.
-sink: 11%
-cell phone: 12%
-bed: 19%
-toilet: 19%

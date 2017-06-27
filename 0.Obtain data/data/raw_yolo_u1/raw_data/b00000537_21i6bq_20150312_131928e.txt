@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-12/b00000537_21i6bq_20150312_131928e.jpg: Predicted in 24.376228 seconds.
-bowl: 11%
-person: 58%
-cake: 39%

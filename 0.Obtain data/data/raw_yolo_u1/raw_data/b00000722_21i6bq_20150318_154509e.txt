@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-18/b00000722_21i6bq_20150318_154509e.jpg: Predicted in 16.548027 seconds.
-laptop: 12%
-bowl: 22%
-tvmonitor: 15%
-keyboard: 42%
-laptop: 59%
-person: 45%
-diningtable: 27%

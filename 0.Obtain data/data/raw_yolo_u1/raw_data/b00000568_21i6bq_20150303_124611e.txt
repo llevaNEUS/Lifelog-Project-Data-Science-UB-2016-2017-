@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-03/b00000568_21i6bq_20150303_124611e.jpg: Predicted in 29.002176 seconds.
-car: 20%
-spoon: 10%
-person: 46%
-person: 61%
-diningtable: 44%

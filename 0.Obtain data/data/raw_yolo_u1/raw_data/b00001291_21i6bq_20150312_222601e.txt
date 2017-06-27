@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-12/b00001291_21i6bq_20150312_222601e.jpg: Predicted in 26.918278 seconds.
-cup: 39%
-bottle: 72%
-toilet: 12%
-person: 55%

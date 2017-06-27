@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-18/b00000644_21i6bq_20150318_144639e.jpg: Predicted in 23.093817 seconds.
-bottle: 12%
-pottedplant: 73%
-bench: 32%
-pottedplant: 65%

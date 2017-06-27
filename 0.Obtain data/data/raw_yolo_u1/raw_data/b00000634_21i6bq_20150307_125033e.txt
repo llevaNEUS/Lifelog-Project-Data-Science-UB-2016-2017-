@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-07/b00000634_21i6bq_20150307_125033e.jpg: Predicted in 27.574780 seconds.
-frisbee: 11%
-book: 14%
-book: 14%
-remote: 15%
-person: 32%
-person: 67%
-car: 22%

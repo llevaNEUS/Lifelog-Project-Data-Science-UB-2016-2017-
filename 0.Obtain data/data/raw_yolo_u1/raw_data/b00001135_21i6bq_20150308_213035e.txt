@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-08/b00001135_21i6bq_20150308_213035e.jpg: Predicted in 20.072502 seconds.
-vase: 23%
-pottedplant: 59%
-bed: 31%

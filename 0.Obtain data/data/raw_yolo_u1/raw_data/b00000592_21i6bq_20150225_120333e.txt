@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-25/b00000592_21i6bq_20150225_120333e.jpg: Predicted in 21.730240 seconds.
-spoon: 59%
-diningtable: 12%
-clock: 10%
-person: 11%
-toilet: 21%

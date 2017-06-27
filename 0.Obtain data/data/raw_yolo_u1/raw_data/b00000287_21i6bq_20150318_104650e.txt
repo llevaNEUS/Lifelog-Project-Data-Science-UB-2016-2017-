@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-18/b00000287_21i6bq_20150318_104650e.jpg: Predicted in 25.021879 seconds.
-suitcase: 16%
-tvmonitor: 17%
-book: 17%
-chair: 21%
-person: 34%
-laptop: 83%
-chair: 13%

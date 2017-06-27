@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-11/b00000461_21i6bq_20150311_114101e.jpg: Predicted in 23.926012 seconds.
-knife: 19%
-knife: 21%
-knife: 26%
-knife: 39%
-person: 48%
-person: 33%
-refrigerator: 33%

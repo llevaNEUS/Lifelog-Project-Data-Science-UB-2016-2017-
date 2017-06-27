@@ -1,3 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-08/b00000565_21i6bq_20150308_134901e.jpg: Predicted in 26.141085 seconds.
-person: 10%
-fire hydrant: 23%

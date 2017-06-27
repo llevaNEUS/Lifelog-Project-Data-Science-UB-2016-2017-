@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-28/b00000735_21i6bq_20150228_133428e.jpg: Predicted in 24.657091 seconds.
-knife: 12%
-remote: 34%
-person: 82%
-aeroplane: 13%
-toilet: 33%

@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-15/b00001252_21i6bq_20150315_194044e.jpg: Predicted in 15.697288 seconds.
-bottle: 25%
-bottle: 21%
-cup: 21%
-cup: 16%
-pottedplant: 15%
-person: 11%
-cup: 11%
-clock: 19%

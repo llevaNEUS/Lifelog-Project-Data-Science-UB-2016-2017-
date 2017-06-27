@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-02/b00001148_21i6bq_20150302_190747e.jpg: Predicted in 28.563456 seconds.
-remote: 23%
-cup: 52%
-mouse: 34%
-knife: 12%
-bowl: 51%
-spoon: 35%
-person: 47%

@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-04/b00000254_21i6bq_20150304_092025e.jpg: Predicted in 25.131247 seconds.
-bottle: 13%
-remote: 14%
-laptop: 22%
-chair: 23%
-person: 16%
-diningtable: 16%
-oven: 14%

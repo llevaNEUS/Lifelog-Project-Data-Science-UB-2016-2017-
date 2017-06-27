@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-25/b00000252_21i6bq_20150225_083645e.jpg: Predicted in 28.044254 seconds.
-bench: 11%
-bench: 15%
-bench: 10%
-bench: 13%
-bench: 31%
-bench: 30%
-bench: 44%
-train: 26%

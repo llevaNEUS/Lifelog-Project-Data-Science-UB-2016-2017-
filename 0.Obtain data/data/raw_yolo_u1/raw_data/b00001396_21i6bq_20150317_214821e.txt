@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-17/b00001396_21i6bq_20150317_214821e.jpg: Predicted in 19.435390 seconds.
-donut: 10%
-suitcase: 15%
-toilet: 19%
-laptop: 89%

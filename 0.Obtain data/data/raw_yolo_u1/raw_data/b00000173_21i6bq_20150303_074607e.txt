@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-03/b00000173_21i6bq_20150303_074607e.jpg: Predicted in 29.295868 seconds.
-person: 13%
-person: 11%
-person: 14%
-person: 21%
-bicycle: 15%
-person: 16%
-person: 65%
-bus: 20%

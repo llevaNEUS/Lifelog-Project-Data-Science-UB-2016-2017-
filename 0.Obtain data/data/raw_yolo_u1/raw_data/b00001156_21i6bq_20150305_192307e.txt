@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-05/b00001156_21i6bq_20150305_192307e.jpg: Predicted in 14.127169 seconds.
-book: 10%
-person: 67%
-suitcase: 19%
-bird: 55%
-person: 85%
-book: 20%

@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-18/b00000106_21i6bq_20150318_084021e.jpg: Predicted in 19.734064 seconds.
-spoon: 21%
-toilet: 12%
-vase: 43%
-sink: 16%

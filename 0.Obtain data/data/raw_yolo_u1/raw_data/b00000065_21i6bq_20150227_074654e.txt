@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-27/b00000065_21i6bq_20150227_074654e.jpg: Predicted in 26.379412 seconds.
-bottle: 31%
-bottle: 32%
-microwave: 12%
-refrigerator: 61%
-person: 69%

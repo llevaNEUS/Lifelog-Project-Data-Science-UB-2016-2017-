@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-26/b00001207_21i6bq_20150226_201742e.jpg: Predicted in 25.029892 seconds.
-book: 30%
-pottedplant: 22%
-chair: 15%
-sink: 11%

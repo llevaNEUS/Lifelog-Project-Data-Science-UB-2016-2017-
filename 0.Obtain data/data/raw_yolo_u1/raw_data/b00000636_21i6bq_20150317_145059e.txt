@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-17/b00000636_21i6bq_20150317_145059e.jpg: Predicted in 26.340485 seconds.
-sports ball: 19%
-tvmonitor: 41%
-aeroplane: 18%

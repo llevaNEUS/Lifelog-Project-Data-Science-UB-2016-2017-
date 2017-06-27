@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-13/b00000034_21i6bq_20150313_060340e.jpg: Predicted in 14.064018 seconds.
-teddy bear: 35%
-teddy bear: 18%
-book: 23%
-book: 23%
-person: 22%
-diningtable: 15%

@@ -1,3 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-16/b00001715_21i6bq_20150316_085141e.jpg: Predicted in 30.636972 seconds.
-knife: 31%
-mouse: 22%

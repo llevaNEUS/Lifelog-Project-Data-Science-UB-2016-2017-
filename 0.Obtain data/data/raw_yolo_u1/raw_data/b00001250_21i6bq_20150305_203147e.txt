@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-05/b00001250_21i6bq_20150305_203147e.jpg: Predicted in 14.156049 seconds.
-remote: 10%
-person: 22%
-spoon: 26%
-hot dog: 11%

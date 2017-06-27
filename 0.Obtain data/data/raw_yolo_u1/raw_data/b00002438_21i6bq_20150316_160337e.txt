@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-16/b00002438_21i6bq_20150316_160337e.jpg: Predicted in 18.441715 seconds.
-fork: 13%
-person: 49%
-cell phone: 25%
-umbrella: 11%
-book: 26%
-book: 49%

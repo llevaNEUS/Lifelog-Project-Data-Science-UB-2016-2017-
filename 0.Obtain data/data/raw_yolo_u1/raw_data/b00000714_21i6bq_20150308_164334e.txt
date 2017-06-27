@@ -1,3 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-08/b00000714_21i6bq_20150308_164334e.jpg: Predicted in 22.694836 seconds.
-motorbike: 26%
-cup: 19%

@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-15/b00000738_21i6bq_20150315_144917e.jpg: Predicted in 14.148013 seconds.
-person: 15%
-cake: 11%
-person: 51%
-spoon: 13%
-toilet: 23%

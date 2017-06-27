@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-26/b00000261_21i6bq_20150226_090201e.jpg: Predicted in 26.804180 seconds.
-cup: 61%
-book: 36%
-pottedplant: 52%
-person: 74%
-person: 62%
-cell phone: 57%
-person: 16%

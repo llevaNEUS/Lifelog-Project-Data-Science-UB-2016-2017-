@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-27/b00000142_21i6bq_20150227_083958e.jpg: Predicted in 18.373682 seconds.
-microwave: 36%
-pizza: 16%
-person: 11%
-person: 27%
-tvmonitor: 29%
-person: 22%
-person: 55%
-person: 61%

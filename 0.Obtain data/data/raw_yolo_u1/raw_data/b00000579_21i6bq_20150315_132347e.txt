@@ -1,3 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-15/b00000579_21i6bq_20150315_132347e.jpg: Predicted in 15.505728 seconds.
-motorbike: 35%
-toilet: 29%

@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-08/b00000171_21i6bq_20150308_095757e.jpg: Predicted in 25.963024 seconds.
-snowboard: 40%
-cell phone: 25%
-person: 12%
-motorbike: 72%

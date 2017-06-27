@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-14/b00000648_21i6bq_20150314_123836e.jpg: Predicted in 14.112214 seconds.
-bowl: 35%
-diningtable: 41%
-toothbrush: 29%
-person: 20%

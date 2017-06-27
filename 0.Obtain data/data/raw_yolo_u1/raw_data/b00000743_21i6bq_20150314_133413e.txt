@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-14/b00000743_21i6bq_20150314_133413e.jpg: Predicted in 14.214700 seconds.
-bowl: 28%
-apple: 19%
-bottle: 12%
-cup: 16%
-orange: 34%
-person: 47%
-microwave: 42%

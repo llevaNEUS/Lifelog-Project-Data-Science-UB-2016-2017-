@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-13/b00000138_21i6bq_20150313_070106e.jpg: Predicted in 14.072433 seconds.
-knife: 14%
-cell phone: 50%
-bus: 34%

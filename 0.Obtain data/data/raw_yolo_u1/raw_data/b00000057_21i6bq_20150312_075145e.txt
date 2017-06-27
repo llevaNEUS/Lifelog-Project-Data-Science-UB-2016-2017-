@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-12/b00000057_21i6bq_20150312_075145e.jpg: Predicted in 26.659800 seconds.
-person: 11%
-aeroplane: 10%
-parking meter: 24%

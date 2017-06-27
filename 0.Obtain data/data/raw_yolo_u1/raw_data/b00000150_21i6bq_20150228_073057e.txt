@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-28/b00000150_21i6bq_20150228_073057e.jpg: Predicted in 29.034317 seconds.
-knife: 13%
-cup: 11%
-knife: 22%
-knife: 16%
-keyboard: 10%

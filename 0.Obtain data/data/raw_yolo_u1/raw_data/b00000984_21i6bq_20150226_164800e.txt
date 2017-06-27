@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-26/b00000984_21i6bq_20150226_164800e.jpg: Predicted in 24.520140 seconds.
-book: 13%
-cell phone: 28%
-cell phone: 18%
-cup: 80%
-book: 20%
-keyboard: 10%
-laptop: 88%

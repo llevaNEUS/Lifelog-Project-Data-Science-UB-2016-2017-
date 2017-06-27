@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-08/b00001018_21i6bq_20150308_202435e.jpg: Predicted in 20.690533 seconds.
-aeroplane: 39%
-toilet: 14%
-person: 50%

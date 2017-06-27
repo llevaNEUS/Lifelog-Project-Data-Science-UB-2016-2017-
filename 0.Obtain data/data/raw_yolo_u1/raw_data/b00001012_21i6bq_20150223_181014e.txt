@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-23/b00001012_21i6bq_20150223_181014e.jpg: Predicted in 23.049122 seconds.
-cup: 64%
-toaster: 36%
-cell phone: 52%
-person: 68%

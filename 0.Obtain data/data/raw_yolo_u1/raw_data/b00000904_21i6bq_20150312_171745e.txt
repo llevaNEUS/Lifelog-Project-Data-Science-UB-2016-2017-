@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-12/b00000904_21i6bq_20150312_171745e.jpg: Predicted in 26.645737 seconds.
-book: 15%
-person: 14%
-toothbrush: 23%
-person: 23%

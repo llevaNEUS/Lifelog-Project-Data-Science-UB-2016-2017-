@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-20/b00003146_21i6bq_20150320_024557e.jpg: Predicted in 16.583954 seconds.
-toothbrush: 48%
-chair: 38%
-cat: 33%

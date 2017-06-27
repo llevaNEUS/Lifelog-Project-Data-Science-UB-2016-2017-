@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-15/b00000867_21i6bq_20150315_160228e.jpg: Predicted in 15.572108 seconds.
-sports ball: 33%
-bottle: 37%
-bottle: 36%
-bottle: 42%
-person: 50%
-chair: 18%
-person: 55%

@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-13/b00000734_21i6bq_20150313_132011e.jpg: Predicted in 25.352198 seconds.
-skateboard: 28%
-skis: 21%
-skateboard: 15%

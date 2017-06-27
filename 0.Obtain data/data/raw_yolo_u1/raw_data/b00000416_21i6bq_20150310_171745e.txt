@@ -1,3 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-10/b00000416_21i6bq_20150310_171745e.jpg: Predicted in 26.382195 seconds.
-microwave: 23%
-laptop: 19%

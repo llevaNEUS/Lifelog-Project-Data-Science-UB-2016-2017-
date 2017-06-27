@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-16/b00001850_21i6bq_20150316_101943e.jpg: Predicted in 22.457596 seconds.
-remote: 13%
-cell phone: 29%
-toothbrush: 19%
-toothbrush: 14%
-sink: 23%
-chair: 45%

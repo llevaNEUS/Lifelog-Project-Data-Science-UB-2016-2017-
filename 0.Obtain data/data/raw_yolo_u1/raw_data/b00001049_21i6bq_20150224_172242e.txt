@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-24/b00001049_21i6bq_20150224_172242e.jpg: Predicted in 18.320320 seconds.
-handbag: 12%
-person: 64%
-person: 41%
-chair: 11%
-person: 89%
-person: 52%
-diningtable: 19%

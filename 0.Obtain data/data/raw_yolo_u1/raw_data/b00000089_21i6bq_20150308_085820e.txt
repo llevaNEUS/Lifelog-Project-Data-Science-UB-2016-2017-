@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-08/b00000089_21i6bq_20150308_085820e.jpg: Predicted in 22.441616 seconds.
-toothbrush: 21%
-cat: 50%
-laptop: 24%

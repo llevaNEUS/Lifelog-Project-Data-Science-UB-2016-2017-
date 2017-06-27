@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-08/b00001152_21i6bq_20150308_213936e.jpg: Predicted in 22.247313 seconds.
-tvmonitor: 47%
-refrigerator: 15%
-clock: 17%

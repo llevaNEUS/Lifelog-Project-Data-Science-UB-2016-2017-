@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-20/b00003248_21i6bq_20150320_033920e.jpg: Predicted in 16.407722 seconds.
-laptop: 52%
-cell phone: 21%
-person: 57%
-person: 39%
-person: 50%
-chair: 32%

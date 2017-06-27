@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-06/b00000148_21i6bq_20150306_065004e.jpg: Predicted in 25.195818 seconds.
-toothbrush: 22%
-sink: 17%
-mouse: 28%
-tvmonitor: 32%
-person: 16%
-person: 45%

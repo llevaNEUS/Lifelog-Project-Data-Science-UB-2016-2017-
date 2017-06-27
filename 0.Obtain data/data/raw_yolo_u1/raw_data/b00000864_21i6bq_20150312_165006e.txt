@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-12/b00000864_21i6bq_20150312_165006e.jpg: Predicted in 32.175323 seconds.
-chair: 10%
-banana: 42%
-diningtable: 21%

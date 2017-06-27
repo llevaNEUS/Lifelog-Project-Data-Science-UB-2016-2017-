@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-28/b00001328_21i6bq_20150228_212350e.jpg: Predicted in 27.919617 seconds.
-teddy bear: 34%
-laptop: 57%
-person: 21%
-person: 71%

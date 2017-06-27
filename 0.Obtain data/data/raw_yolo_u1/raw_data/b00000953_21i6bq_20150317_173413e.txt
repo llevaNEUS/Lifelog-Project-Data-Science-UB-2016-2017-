@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-17/b00000953_21i6bq_20150317_173413e.jpg: Predicted in 19.862633 seconds.
-sports ball: 22%
-chair: 12%
-chair: 31%
-person: 58%
-pottedplant: 49%
-sofa: 33%
-tvmonitor: 28%

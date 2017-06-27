@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-05/b00000107_21i6bq_20150305_071155e.jpg: Predicted in 22.527121 seconds.
-aeroplane: 15%
-car: 14%
-mouse: 13%

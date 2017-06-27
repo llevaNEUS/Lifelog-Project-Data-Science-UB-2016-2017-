@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-07/b00000859_21i6bq_20150307_150803e.jpg: Predicted in 26.737280 seconds.
-scissors: 14%
-person: 38%
-remote: 24%
-person: 51%
-aeroplane: 32%

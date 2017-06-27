@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-19/b00001914_21i6bq_20150319_103510e.jpg: Predicted in 19.413620 seconds.
-person: 14%
-teddy bear: 77%
-sink: 18%
-bed: 11%
-bed: 86%

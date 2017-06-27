@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-03/b00000962_21i6bq_20150303_173303e.jpg: Predicted in 27.087164 seconds.
-knife: 11%
-scissors: 21%
-person: 12%
-diningtable: 35%

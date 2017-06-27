@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-14/b00000657_21i6bq_20150314_124535e.jpg: Predicted in 14.060030 seconds.
-cup: 12%
-cup: 27%
-cup: 33%
-spoon: 23%
-knife: 25%
-person: 31%
-cat: 59%
-diningtable: 77%

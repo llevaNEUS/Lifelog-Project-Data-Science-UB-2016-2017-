@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-06/b00000513_21i6bq_20150306_105314e.jpg: Predicted in 27.778385 seconds.
-knife: 19%
-knife: 22%
-surfboard: 24%
-person: 17%
-person: 74%
-person: 36%
-diningtable: 43%

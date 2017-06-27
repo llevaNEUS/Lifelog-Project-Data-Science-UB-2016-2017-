@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-26/b00000145_21i6bq_20150226_073233e.jpg: Predicted in 27.091513 seconds.
-traffic light: 15%
-handbag: 12%
-bicycle: 55%
-bicycle: 12%
-bicycle: 58%
-bicycle: 22%
-bicycle: 79%
-bicycle: 62%

@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-15/b00000774_21i6bq_20150315_151048e.jpg: Predicted in 15.680604 seconds.
-stop sign: 18%
-mouse: 28%
-person: 10%
-person: 25%
-person: 66%
-person: 17%
-car: 61%

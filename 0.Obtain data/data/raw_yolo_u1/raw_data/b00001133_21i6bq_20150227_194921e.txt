@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-27/b00001133_21i6bq_20150227_194921e.jpg: Predicted in 24.743759 seconds.
-tvmonitor: 65%
-tvmonitor: 32%
-backpack: 13%
-person: 47%
-person: 48%
-bicycle: 48%
-person: 18%
-person: 87%

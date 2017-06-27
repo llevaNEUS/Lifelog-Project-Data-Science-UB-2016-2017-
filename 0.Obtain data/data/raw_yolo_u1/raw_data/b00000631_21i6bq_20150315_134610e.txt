@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-15/b00000631_21i6bq_20150315_134610e.jpg: Predicted in 23.909552 seconds.
-snowboard: 11%
-person: 66%
-toilet: 29%

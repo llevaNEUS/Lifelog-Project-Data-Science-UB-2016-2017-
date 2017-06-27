@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-27/b00000054_21i6bq_20150227_073940e.jpg: Predicted in 26.106297 seconds.
-vase: 12%
-laptop: 74%
-cell phone: 17%
-bowl: 16%
-backpack: 28%
-diningtable: 10%
-cat: 65%
-cat: 85%

@@ -1,3 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-07/b00000980_21i6bq_20150307_162240e.jpg: Predicted in 23.566383 seconds.
-car: 22%
-toilet: 56%

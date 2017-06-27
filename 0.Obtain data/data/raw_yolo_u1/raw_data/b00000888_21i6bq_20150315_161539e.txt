@@ -1,2 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-15/b00000888_21i6bq_20150315_161539e.jpg: Predicted in 14.143650 seconds.
-sports ball: 18%

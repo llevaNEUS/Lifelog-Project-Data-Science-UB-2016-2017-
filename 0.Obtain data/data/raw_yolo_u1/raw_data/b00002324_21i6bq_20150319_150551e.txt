@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-19/b00002324_21i6bq_20150319_150551e.jpg: Predicted in 17.094572 seconds.
-toilet: 25%
-train: 13%
-toilet: 71%

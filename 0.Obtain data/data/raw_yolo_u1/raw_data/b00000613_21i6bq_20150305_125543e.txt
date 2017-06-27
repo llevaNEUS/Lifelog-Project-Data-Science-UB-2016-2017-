@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-05/b00000613_21i6bq_20150305_125543e.jpg: Predicted in 24.795322 seconds.
-pizza: 13%
-scissors: 73%
-sofa: 51%
-person: 63%
-oven: 42%

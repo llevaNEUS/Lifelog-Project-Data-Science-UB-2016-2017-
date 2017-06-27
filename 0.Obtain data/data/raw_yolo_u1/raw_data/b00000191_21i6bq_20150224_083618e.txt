@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-24/b00000191_21i6bq_20150224_083618e.jpg: Predicted in 24.306728 seconds.
-person: 22%
-person: 64%
-person: 30%
-person: 93%
-dog: 70%
-car: 19%
-cell phone: 84%

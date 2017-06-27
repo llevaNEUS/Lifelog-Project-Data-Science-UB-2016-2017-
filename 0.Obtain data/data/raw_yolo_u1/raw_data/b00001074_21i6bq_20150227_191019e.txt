@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-27/b00001074_21i6bq_20150227_191019e.jpg: Predicted in 14.177233 seconds.
-bowl: 13%
-person: 40%
-chair: 13%
-bowl: 15%
-cup: 63%
-knife: 11%
-oven: 14%
-person: 88%

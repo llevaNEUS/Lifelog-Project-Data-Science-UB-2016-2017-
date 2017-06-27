@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-09/b00000939_21i6bq_20150309_165223e.jpg: Predicted in 26.929928 seconds.
-cell phone: 15%
-toilet: 12%
-person: 80%
-tvmonitor: 48%

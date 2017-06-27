@@ -1,3 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-02/b00000307_21i6bq_20150302_100336e.jpg: Predicted in 29.856764 seconds.
-bus: 17%
-truck: 34%

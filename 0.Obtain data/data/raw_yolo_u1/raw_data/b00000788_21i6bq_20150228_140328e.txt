@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-28/b00000788_21i6bq_20150228_140328e.jpg: Predicted in 28.056122 seconds.
-traffic light: 17%
-aeroplane: 22%
-bowl: 13%

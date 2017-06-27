@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-09/b00000714_21i6bq_20150309_143313e.jpg: Predicted in 28.614239 seconds.
-stop sign: 22%
-person: 25%
-refrigerator: 16%
-apple: 13%
-person: 24%
-person: 17%
-handbag: 22%
-person: 38%

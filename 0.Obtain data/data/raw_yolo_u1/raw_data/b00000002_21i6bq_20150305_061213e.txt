@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-05/b00000002_21i6bq_20150305_061213e.jpg: Predicted in 14.297745 seconds.
-cup: 29%
-bowl: 26%
-bowl: 12%
-bottle: 17%
-cup: 15%
-tvmonitor: 62%

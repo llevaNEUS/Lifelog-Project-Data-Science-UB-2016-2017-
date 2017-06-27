@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-09/b00001193_21i6bq_20150309_193154e.jpg: Predicted in 24.145948 seconds.
-bottle: 27%
-bottle: 14%
-cup: 15%
-cup: 41%
-cup: 23%
-bottle: 19%
-person: 86%
-tie: 51%

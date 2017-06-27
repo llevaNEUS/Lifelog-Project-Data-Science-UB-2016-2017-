@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-14/b00001033_21i6bq_20150314_161950e.jpg: Predicted in 23.543625 seconds.
-traffic light: 58%
-cell phone: 31%
-toilet: 27%

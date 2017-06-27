@@ -1,3 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-16/b00002999_21i6bq_20150316_205659e.jpg: Predicted in 16.892416 seconds.
-traffic light: 12%
-traffic light: 18%

@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-05/b00001051_21i6bq_20150305_175027e.jpg: Predicted in 14.386502 seconds.
-cup: 17%
-person: 61%
-keyboard: 18%
-person: 44%
-laptop: 90%
-laptop: 16%

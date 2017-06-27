@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-20/b00003057_21i6bq_20150320_014333e.jpg: Predicted in 18.271265 seconds.
-carrot: 26%
-cup: 81%
-cup: 26%
-person: 11%
-cup: 37%

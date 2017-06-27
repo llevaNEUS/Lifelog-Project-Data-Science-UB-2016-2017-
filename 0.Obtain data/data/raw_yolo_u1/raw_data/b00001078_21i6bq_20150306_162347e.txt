@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-06/b00001078_21i6bq_20150306_162347e.jpg: Predicted in 21.955729 seconds.
-person: 27%
-person: 19%
-cup: 13%
-pizza: 16%
-tvmonitor: 45%
-toilet: 18%

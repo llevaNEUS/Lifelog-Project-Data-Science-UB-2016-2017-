@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-27/b00000052_21i6bq_20150227_073832e.jpg: Predicted in 20.472900 seconds.
-vase: 11%
-laptop: 72%
-backpack: 35%
-bowl: 10%
-person: 16%
-cat: 24%
-cat: 39%

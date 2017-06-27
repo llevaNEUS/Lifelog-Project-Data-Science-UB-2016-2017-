@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-08/b00000413_21i6bq_20150308_121215e.jpg: Predicted in 14.075070 seconds.
-person: 13%
-scissors: 12%
-person: 69%
-chair: 15%
-chair: 18%
-bowl: 39%
-cup: 60%

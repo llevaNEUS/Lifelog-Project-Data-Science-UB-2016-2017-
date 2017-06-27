@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-28/b00001381_21i6bq_20150228_215537e.jpg: Predicted in 26.861609 seconds.
-backpack: 35%
-person: 26%
-sink: 24%
-person: 37%
-person: 20%

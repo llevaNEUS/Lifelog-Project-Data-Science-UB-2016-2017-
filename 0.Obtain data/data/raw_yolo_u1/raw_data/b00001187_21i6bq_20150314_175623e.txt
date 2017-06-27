@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-14/b00001187_21i6bq_20150314_175623e.jpg: Predicted in 14.215614 seconds.
-aeroplane: 86%
-cell phone: 12%
-person: 29%
-person: 17%
-car: 20%
-mouse: 29%

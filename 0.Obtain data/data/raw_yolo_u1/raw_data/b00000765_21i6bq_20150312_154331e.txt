@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-12/b00000765_21i6bq_20150312_154331e.jpg: Predicted in 25.600693 seconds.
-bottle: 14%
-toilet: 17%
-sink: 28%
-refrigerator: 29%

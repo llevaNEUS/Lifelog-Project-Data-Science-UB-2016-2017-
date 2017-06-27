@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-16/b00003348_21i6bq_20150316_232549e.jpg: Predicted in 20.934175 seconds.
-toothbrush: 15%
-toothbrush: 14%
-remote: 15%
-bowl: 62%
-bowl: 17%
-bowl: 16%
-person: 51%

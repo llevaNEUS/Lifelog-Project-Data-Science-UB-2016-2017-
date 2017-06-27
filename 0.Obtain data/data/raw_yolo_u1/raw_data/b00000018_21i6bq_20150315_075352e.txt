@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-15/b00000018_21i6bq_20150315_075352e.jpg: Predicted in 15.831063 seconds.
-cup: 24%
-toothbrush: 35%
-dog: 29%
-person: 11%

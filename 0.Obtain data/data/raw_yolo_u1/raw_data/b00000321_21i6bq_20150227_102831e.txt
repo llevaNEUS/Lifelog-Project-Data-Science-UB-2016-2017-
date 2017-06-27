@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-27/b00000321_21i6bq_20150227_102831e.jpg: Predicted in 21.625040 seconds.
-person: 29%
-person: 12%
-person: 34%
-person: 61%
-person: 86%
-person: 83%
-person: 75%
-oven: 26%

@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-14/b00000481_21i6bq_20150314_105526e.jpg: Predicted in 24.167315 seconds.
-person: 24%
-person: 11%
-cup: 10%
-bed: 11%
-cake: 27%
-bench: 34%
-bed: 66%
-person: 14%

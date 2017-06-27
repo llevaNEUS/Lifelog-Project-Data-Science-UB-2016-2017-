@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-04/b00000112_21i6bq_20150304_075018e.jpg: Predicted in 22.435352 seconds.
-microwave: 30%
-sink: 12%
-chair: 19%
-chair: 12%
-chair: 33%
-chair: 27%

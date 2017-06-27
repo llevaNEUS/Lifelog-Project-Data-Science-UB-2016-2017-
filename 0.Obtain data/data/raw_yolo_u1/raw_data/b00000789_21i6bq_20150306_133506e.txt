@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-06/b00000789_21i6bq_20150306_133506e.jpg: Predicted in 23.377808 seconds.
-tie: 12%
-chair: 21%
-tie: 53%
-person: 22%
-book: 11%
-laptop: 23%
-person: 41%
-diningtable: 43%

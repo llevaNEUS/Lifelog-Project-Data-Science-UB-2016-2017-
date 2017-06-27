@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-14/b00000185_21i6bq_20150314_080127e.jpg: Predicted in 14.164333 seconds.
-skateboard: 24%
-person: 15%
-person: 50%

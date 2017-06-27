@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-06/b00000386_21i6bq_20150306_093344e.jpg: Predicted in 28.852755 seconds.
-truck: 13%
-remote: 30%
-toilet: 63%
-person: 67%

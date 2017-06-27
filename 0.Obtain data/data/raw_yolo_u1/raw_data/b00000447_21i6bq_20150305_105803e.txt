@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-05/b00000447_21i6bq_20150305_105803e.jpg: Predicted in 24.751368 seconds.
-donut: 13%
-cell phone: 12%
-person: 93%
-keyboard: 13%
-laptop: 90%

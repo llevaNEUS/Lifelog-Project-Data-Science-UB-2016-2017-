@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-19/b00002101_21i6bq_20150319_123730e.jpg: Predicted in 15.580679 seconds.
-chair: 16%
-refrigerator: 12%
-cell phone: 14%
-person: 48%
-person: 64%
-person: 15%

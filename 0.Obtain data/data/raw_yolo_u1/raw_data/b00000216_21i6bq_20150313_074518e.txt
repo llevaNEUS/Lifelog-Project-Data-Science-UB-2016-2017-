@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-13/b00000216_21i6bq_20150313_074518e.jpg: Predicted in 14.090777 seconds.
-bottle: 11%
-bottle: 13%
-bottle: 16%
-person: 69%
-sink: 15%
-microwave: 38%
-person: 17%

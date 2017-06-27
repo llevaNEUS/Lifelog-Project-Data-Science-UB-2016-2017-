@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-25/b00000679_21i6bq_20150225_125552e.jpg: Predicted in 21.166073 seconds.
-cup: 89%
-laptop: 55%
-tvmonitor: 31%
-person: 91%
-person: 15%
-laptop: 87%
-person: 65%

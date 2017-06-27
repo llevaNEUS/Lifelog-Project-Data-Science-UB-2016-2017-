@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-03/b00000779_21i6bq_20150303_152449e.jpg: Predicted in 27.609505 seconds.
-person: 93%
-train: 24%
-refrigerator: 20%

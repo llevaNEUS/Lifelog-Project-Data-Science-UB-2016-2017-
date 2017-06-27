@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-04/b00001227_21i6bq_20150304_194818e.jpg: Predicted in 24.036352 seconds.
-tie: 39%
-bottle: 20%
-bottle: 29%
-cat: 74%
-person: 92%

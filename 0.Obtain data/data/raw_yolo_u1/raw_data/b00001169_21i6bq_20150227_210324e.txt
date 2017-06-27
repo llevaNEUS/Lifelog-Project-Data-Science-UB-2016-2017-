@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-27/b00001169_21i6bq_20150227_210324e.jpg: Predicted in 27.906614 seconds.
-knife: 26%
-tvmonitor: 24%
-bottle: 55%
-bowl: 11%
-bowl: 82%
-bowl: 13%
-bowl: 48%

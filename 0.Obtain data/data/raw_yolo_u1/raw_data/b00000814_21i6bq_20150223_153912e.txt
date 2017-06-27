@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-23/b00000814_21i6bq_20150223_153912e.jpg: Predicted in 28.542925 seconds.
-tvmonitor: 12%
-person: 21%
-person: 91%
-pottedplant: 35%
-person: 26%
-parking meter: 47%
-person: 77%

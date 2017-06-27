@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-14/b00000822_21i6bq_20150314_141905e.jpg: Predicted in 23.398804 seconds.
-tie: 27%
-chair: 27%
-pottedplant: 10%
-tvmonitor: 81%
-chair: 15%
-person: 37%
-sofa: 49%

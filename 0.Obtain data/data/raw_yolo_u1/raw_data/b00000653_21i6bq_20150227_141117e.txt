@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-27/b00000653_21i6bq_20150227_141117e.jpg: Predicted in 22.142408 seconds.
-sports ball: 41%
-person: 32%
-book: 13%
-book: 16%
-book: 17%
-person: 11%
-tvmonitor: 26%
-laptop: 63%

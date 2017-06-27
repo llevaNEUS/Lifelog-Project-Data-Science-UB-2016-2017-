@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-08/b00000033_21i6bq_20150308_082118e.jpg: Predicted in 21.738926 seconds.
-spoon: 13%
-fork: 15%
-spoon: 10%
-diningtable: 10%
-person: 66%
-bowl: 42%
-person: 72%
-person: 13%

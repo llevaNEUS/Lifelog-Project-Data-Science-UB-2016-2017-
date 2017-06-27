@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-14/b00001519_21i6bq_20150314_225804e.jpg: Predicted in 14.296765 seconds.
-remote: 18%
-toothbrush: 12%
-cat: 13%
-toothbrush: 17%
-sink: 42%
-person: 72%
-person: 34%

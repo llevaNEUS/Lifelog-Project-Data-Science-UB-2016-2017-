@@ -1,3 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-15/b00000133_21i6bq_20150315_090151e.jpg: Predicted in 24.701784 seconds.
-sink: 47%
-refrigerator: 16%

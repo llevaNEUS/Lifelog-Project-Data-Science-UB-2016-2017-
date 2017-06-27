@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-19/b00002235_21i6bq_20150319_141050e.jpg: Predicted in 15.485770 seconds.
-cup: 60%
-diningtable: 48%
-parking meter: 60%

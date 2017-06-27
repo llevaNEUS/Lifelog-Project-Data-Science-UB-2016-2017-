@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-15/b00000843_21i6bq_20150315_154729e.jpg: Predicted in 14.250829 seconds.
-snowboard: 12%
-person: 27%
-person: 37%
-banana: 28%

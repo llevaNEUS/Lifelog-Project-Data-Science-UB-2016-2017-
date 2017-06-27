@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-02/b00000315_21i6bq_20150302_100846e.jpg: Predicted in 22.330362 seconds.
-backpack: 12%
-person: 68%
-keyboard: 17%
-laptop: 90%
-person: 20%

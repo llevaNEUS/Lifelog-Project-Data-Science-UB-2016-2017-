@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-27/b00001128_21i6bq_20150227_194613e.jpg: Predicted in 14.229185 seconds.
-cup: 13%
-mouse: 11%
-book: 14%
-toilet: 26%
-person: 17%
-toilet: 25%
-microwave: 12%

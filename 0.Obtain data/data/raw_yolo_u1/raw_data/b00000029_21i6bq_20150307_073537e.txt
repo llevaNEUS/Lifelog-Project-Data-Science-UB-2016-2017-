@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-07/b00000029_21i6bq_20150307_073537e.jpg: Predicted in 27.455772 seconds.
-bowl: 12%
-chair: 55%
-chair: 63%
-cup: 49%
-diningtable: 11%
-chair: 11%
-person: 72%
-chair: 29%

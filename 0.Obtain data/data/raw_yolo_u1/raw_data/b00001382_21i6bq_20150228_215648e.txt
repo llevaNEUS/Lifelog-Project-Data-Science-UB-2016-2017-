@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-28/b00001382_21i6bq_20150228_215648e.jpg: Predicted in 24.540913 seconds.
-pottedplant: 15%
-book: 18%
-refrigerator: 17%

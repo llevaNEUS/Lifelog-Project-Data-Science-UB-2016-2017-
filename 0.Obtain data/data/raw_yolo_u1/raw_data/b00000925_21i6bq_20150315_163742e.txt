@@ -1,3 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-15/b00000925_21i6bq_20150315_163742e.jpg: Predicted in 20.344849 seconds.
-sports ball: 23%
-bottle: 26%

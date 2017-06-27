@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-08/b00000725_21i6bq_20150308_165027e.jpg: Predicted in 26.358480 seconds.
-snowboard: 17%
-car: 39%
-car: 48%

@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-05/b00000296_21i6bq_20150305_091527e.jpg: Predicted in 14.178983 seconds.
-knife: 22%
-knife: 44%
-chair: 11%
-person: 27%
-handbag: 22%
-person: 86%
-refrigerator: 26%

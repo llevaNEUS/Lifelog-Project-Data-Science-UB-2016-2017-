@@ -1,3 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-15/b00000853_21i6bq_20150315_155339e.jpg: Predicted in 20.110748 seconds.
-person: 33%
-banana: 24%

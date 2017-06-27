@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-08/b00000236_21i6bq_20150308_103731e.jpg: Predicted in 20.579172 seconds.
-person: 58%
-motorbike: 60%
-suitcase: 18%

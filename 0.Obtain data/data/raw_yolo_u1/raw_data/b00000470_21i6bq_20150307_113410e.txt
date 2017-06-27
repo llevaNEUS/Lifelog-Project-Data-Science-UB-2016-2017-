@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-07/b00000470_21i6bq_20150307_113410e.jpg: Predicted in 28.476849 seconds.
-vase: 18%
-pottedplant: 46%
-vase: 15%
-cup: 52%
-bowl: 48%
-person: 23%
-person: 20%
-laptop: 45%

@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-13/b00001140_21i6bq_20150313_174725e.jpg: Predicted in 14.121090 seconds.
-person: 11%
-hair drier: 18%
-car: 17%
-tvmonitor: 12%
-person: 25%

@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-06/b00000544_21i6bq_20150306_111210e.jpg: Predicted in 25.232315 seconds.
-tie: 61%
-bowl: 46%
-person: 11%
-cup: 82%
-knife: 18%
-person: 90%
-laptop: 12%
-diningtable: 55%

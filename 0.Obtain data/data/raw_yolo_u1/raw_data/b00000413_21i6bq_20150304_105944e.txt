@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-04/b00000413_21i6bq_20150304_105944e.jpg: Predicted in 27.997713 seconds.
-toothbrush: 14%
-microwave: 17%
-person: 90%

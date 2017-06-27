@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-05/b00001202_21i6bq_20150305_195620e.jpg: Predicted in 14.070347 seconds.
-clock: 26%
-person: 17%
-sofa: 12%
-chair: 12%
-person: 33%
-bed: 32%
-person: 23%

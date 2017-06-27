@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-16/b00002755_21i6bq_20150316_180952e.jpg: Predicted in 24.644712 seconds.
-traffic light: 42%
-traffic light: 13%
-bus: 12%
-car: 69%
-donut: 18%
-car: 54%
-car: 20%
-person: 14%

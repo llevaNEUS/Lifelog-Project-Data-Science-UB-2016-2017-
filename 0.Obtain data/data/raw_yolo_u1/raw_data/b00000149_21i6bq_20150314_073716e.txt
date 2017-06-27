@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-14/b00000149_21i6bq_20150314_073716e.jpg: Predicted in 14.402284 seconds.
-bottle: 15%
-remote: 16%
-remote: 11%
-sink: 12%
-sink: 12%
-hair drier: 21%
-sofa: 14%
-sofa: 10%

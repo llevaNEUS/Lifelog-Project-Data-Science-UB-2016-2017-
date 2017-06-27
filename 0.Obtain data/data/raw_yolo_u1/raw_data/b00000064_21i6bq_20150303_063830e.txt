@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-03/b00000064_21i6bq_20150303_063830e.jpg: Predicted in 27.380030 seconds.
-toothbrush: 16%
-toothbrush: 48%
-bed: 15%

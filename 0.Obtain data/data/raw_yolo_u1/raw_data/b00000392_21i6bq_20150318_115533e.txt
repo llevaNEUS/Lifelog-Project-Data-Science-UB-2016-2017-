@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-18/b00000392_21i6bq_20150318_115533e.jpg: Predicted in 21.746288 seconds.
-person: 14%
-person: 63%
-train: 34%

@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-14/b00000766_21i6bq_20150314_134855e.jpg: Predicted in 14.138610 seconds.
-book: 10%
-remote: 25%
-cell phone: 65%
-person: 86%
-person: 19%
-person: 88%

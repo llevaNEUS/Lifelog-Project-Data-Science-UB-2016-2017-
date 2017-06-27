@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-07/b00000357_21i6bq_20150307_110150e.jpg: Predicted in 25.553633 seconds.
-traffic light: 40%
-cell phone: 53%
-aeroplane: 45%
-person: 37%
-remote: 48%
-person: 66%
-car: 34%

@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-11/b00001289_21i6bq_20150311_213844e.jpg: Predicted in 24.213947 seconds.
-cup: 11%
-cup: 17%
-bottle: 15%
-remote: 18%
-diningtable: 16%

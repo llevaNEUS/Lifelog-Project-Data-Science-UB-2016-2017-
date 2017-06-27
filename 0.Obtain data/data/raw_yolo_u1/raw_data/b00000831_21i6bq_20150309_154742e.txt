@@ -1,8 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-09/b00000831_21i6bq_20150309_154742e.jpg: Predicted in 28.284294 seconds.
-person: 19%
-person: 91%
-chair: 28%
-keyboard: 41%
-tvmonitor: 57%
-person: 19%
-person: 74%

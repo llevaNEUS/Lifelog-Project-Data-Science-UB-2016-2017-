@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-08/b00000053_21i6bq_20150308_083327e.jpg: Predicted in 14.333911 seconds.
-fork: 15%
-sink: 11%
-toilet: 12%

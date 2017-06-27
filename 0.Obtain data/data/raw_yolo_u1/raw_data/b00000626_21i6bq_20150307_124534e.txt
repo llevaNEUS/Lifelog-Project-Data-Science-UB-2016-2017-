@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-07/b00000626_21i6bq_20150307_124534e.jpg: Predicted in 24.723209 seconds.
-knife: 12%
-remote: 13%
-cell phone: 22%
-person: 39%

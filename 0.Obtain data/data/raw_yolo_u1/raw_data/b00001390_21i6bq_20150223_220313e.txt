@@ -1,3 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-23/b00001390_21i6bq_20150223_220313e.jpg: Predicted in 20.934948 seconds.
-refrigerator: 48%
-microwave: 40%

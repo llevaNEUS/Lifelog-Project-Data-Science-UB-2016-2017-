@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-23/b00000648_21i6bq_20150223_135119e (1).jpg: Predicted in 26.864527 seconds.
-bowl: 22%
-book: 11%
-book: 15%
-broccoli: 10%
-chair: 13%
-bowl: 17%

@@ -1,7 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-27/b00000947_21i6bq_20150227_173418e.jpg: Predicted in 23.606129 seconds.
-person: 27%
-scissors: 24%
-person: 22%
-knife: 15%
-cat: 62%
-sink: 26%

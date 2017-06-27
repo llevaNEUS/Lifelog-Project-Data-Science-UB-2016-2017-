@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-02-24/b00000268_21i6bq_20150224_092308e.jpg: Predicted in 26.292665 seconds.
-bottle: 30%
-toaster: 23%
-sink: 13%
-refrigerator: 45%

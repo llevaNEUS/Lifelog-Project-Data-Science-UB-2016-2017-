@@ -1,6 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-06/b00000186_21i6bq_20150306_071523e.jpg: Predicted in 21.987597 seconds.
-sink: 13%
-remote: 34%
-book: 12%
-suitcase: 35%
-bed: 15%

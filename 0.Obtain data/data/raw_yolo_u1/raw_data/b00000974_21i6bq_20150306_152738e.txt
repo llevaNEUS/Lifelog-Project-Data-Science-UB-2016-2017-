@@ -1,9 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-06/b00000974_21i6bq_20150306_152738e.jpg: Predicted in 24.400280 seconds.
-umbrella: 26%
-person: 14%
-umbrella: 19%
-bench: 14%
-bench: 75%
-bench: 69%
-bench: 86%
-bench: 61%

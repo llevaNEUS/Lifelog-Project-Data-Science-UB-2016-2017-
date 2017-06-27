@@ -1,4 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-10/b00001822_21i6bq_20150310_094636e.jpg: Predicted in 16.181915 seconds.
-laptop: 12%
-refrigerator: 12%
-cat: 16%

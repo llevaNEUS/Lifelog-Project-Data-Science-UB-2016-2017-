@@ -1,5 +1,0 @@
-/home/nuria/TFP/images/u1/2015-03-18/b00000991_21i6bq_20150318_183940e.jpg: Predicted in 25.623053 seconds.
-bear: 24%
-cat: 34%
-bear: 46%
-diningtable: 19%
